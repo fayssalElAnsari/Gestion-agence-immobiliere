@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://fayssalelansari:1yeLvvTm7mHSxtnW@cluster0.egv6cwm.mongodb.net/AgenceImmobiliere
+
+server:
+    port: 8081
