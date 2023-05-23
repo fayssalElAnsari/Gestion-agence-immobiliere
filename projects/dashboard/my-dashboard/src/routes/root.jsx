@@ -54,6 +54,7 @@ export default function Root() {
                             onChange={(event) => {
                                 submit(event.currentTarget.form);
                             }}
+
                         />
                         <div
                             id="search-spinner"
