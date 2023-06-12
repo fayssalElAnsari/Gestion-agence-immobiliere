@@ -35,6 +35,26 @@ import { useLocation, useNavigate } from "react-router-dom";
 import FlexBetween from "./flexBetween";
 import profileImage from "assets/profile.jpeg";
 import { boxSizing } from "@mui/system";
+import StorageOutlinedIcon from "@mui/icons-material/StorageOutlined";
+import SpeedOutlinedIcon from "@mui/icons-material/SpeedOutlined";
+
+// TODO: put in a class
+function toCamelCase(str) {
+  // Split string on space character, convert to array
+  let words = str.split(" ");
+
+  // Transform words to camel case
+  words = words.map((word, index) => {
+    // Lowercase for the first word, capitalize others
+    if (index === 0) {
+      return word.toLowerCase();
+    }
+    return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+  });
+
+  // Join words back together without spaces
+  return words.join("");
+}
 
 const navItems = [
   {
@@ -88,6 +108,18 @@ const navItems = [
   {
     text: "Performance",
     icon: <TrendingUpOutlined />,
+  },
+  {
+    text: "Database",
+    icon: null,
+  },
+  {
+    text: "Data Generation",
+    icon: <StorageOutlinedIcon />,
+  },
+  {
+    text: "Speed Test",
+    icon: <SpeedOutlinedIcon />,
   },
 ];
 
@@ -149,21 +181,21 @@ const Sidebar = ({
                     </Typography>
                   );
                 }
-                const lcText = text.toLowerCase();
+                const ccText = toCamelCase(text);
                 return (
                   <ListItem key={text} disablePadding>
                     <ListItemButton
                       onClick={() => {
-                        navigate(`/${lcText}`);
-                        setActive(lcText);
+                        navigate(`/${ccText}`);
+                        setActive(ccText);
                       }}
                       sx={{
                         backgroundColor:
-                          active === lcText
+                          active === ccText
                             ? theme.palette.secondary[300]
                             : "transparent",
                         color:
-                          active === lcText
+                          active === ccText
                             ? theme.palette.primary[600]
                             : theme.palette.secondary[100],
                       }}
@@ -172,7 +204,7 @@ const Sidebar = ({
                         sx={{
                           ml: "2rem",
                           color:
-                            active === lcText
+                            active === ccText
                               ? theme.palette.primary[600]
                               : theme.palette.secondary[200],
                         }}
@@ -180,7 +212,7 @@ const Sidebar = ({
                         {icon}
                       </ListItemIcon>
                       <ListItemText primary={text} />
-                      {active === lcText && (
+                      {active === ccText && (
                         <ChevronRightOutlined sx={{ ml: "auto" }} />
                       )}
                     </ListItemButton>
