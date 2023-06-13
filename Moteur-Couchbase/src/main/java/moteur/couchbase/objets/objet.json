@@ -1,0 +1,14 @@
+[
+  {
+    "id": "user123",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "dateOfBirth": "1990-01-01"
+  },
+  {
+    "id": "user124",
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "dateOfBirth": "1992-02-02"
+  }
+]
