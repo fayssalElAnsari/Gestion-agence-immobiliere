@@ -14,7 +14,13 @@ const DataGeneration = () => {
     const [collection, setCollection] = useState("");
     const [numberOfDocuments, setNumberOfDocuments] = useState("");
 
-    const collections = ["users", "apartments", "reservations"];
+    const collections = [
+      "users",
+      "apartments",
+      "reservations",
+      "clients",
+      "transactions",
+    ].sort();
 
     const generateData = async (event) => {
       event.preventDefault();

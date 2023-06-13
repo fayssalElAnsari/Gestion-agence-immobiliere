@@ -3,16 +3,14 @@ package com.projetmongodb.m1.immobilier.controller;
 import com.github.javafaker.Faker;
 import com.projetmongodb.m1.immobilier.model.*;
 import com.projetmongodb.m1.immobilier.repository.ApartmentRepository;
+import com.projetmongodb.m1.immobilier.repository.ClientRepository;
 import com.projetmongodb.m1.immobilier.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -26,6 +24,9 @@ public class MockDataController {
 
     @Autowired
     private UserRepository userRepository;
+
+    @Autowired
+    private ClientRepository clientRepository;
 
     private final Faker faker = new Faker();
 
@@ -41,6 +42,11 @@ public class MockDataController {
             for (int i = 0; i < numberOfDocuments; i++) {
                 User user = createMockUser();
                 userRepository.save(user);
+            }
+        } else if (collection.equalsIgnoreCase("clients")) {
+            for (int i = 0; i < numberOfDocuments; i++) {
+                Client client = createMockClient();
+                clientRepository.save(client);
             }
         } else {
             return new ResponseEntity<>("Invalid collection name", HttpStatus.BAD_REQUEST);
@@ -116,6 +122,21 @@ public class MockDataController {
 //        apartment.setReservations(reservations);
 
         return apartment;
+    }
+
+    public Client createMockClient() {
+        Client client = new Client();
+
+        client.setEmail(faker.internet().emailAddress());
+        client.setPassword(faker.internet().password()); // Remember to hash password in real-world scenario
+        client.setPhoneNumber(faker.phoneNumber().phoneNumber());
+        client.setCountryOfOrigin(faker.address().country());
+        client.setVerified(faker.bool().bool());
+        client.setProfilePicture(faker.internet().image());
+        client.setReservations(Arrays.asList(faker.idNumber().valid(), faker.idNumber().valid()));
+        client.setTransactions(Arrays.asList(faker.idNumber().valid(), faker.idNumber().valid()));
+
+        return clientRepository.save(client);
     }
 }
 
