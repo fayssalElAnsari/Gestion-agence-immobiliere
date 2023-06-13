@@ -34,7 +34,7 @@ public class DataLoad {
         Cluster cluster;
 
         try {
-            cluster = Cluster.connect(connection, ClusterOptions.clusterOptions(username, password).environment(env));
+            cluster = connectToCouchbase(env);
             bucket = cluster.bucket(bucketCouchbase);
             System.out.println("Connection to Couchbase successful!");
         } catch (Exception e) {
@@ -42,62 +42,73 @@ public class DataLoad {
             return;
         }
 
-        // Un map qui lie chaque fichier JSON à une collection
         Map<String, String> fileToCollectionMap = Map.of(
                 "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\objets\\objet.json", "test",
                 "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\objets\\ze.json", "ze"
-
-                // Ajoutez plus d'entrées ici si nécessaire
         );
 
+        loadDataFromFilesToCollections(bucket, fileToCollectionMap);
+
+        disconnectFromCouchbase(cluster, env);
+    }
+
+    public static Cluster connectToCouchbase(ClusterEnvironment env) {
+        return Cluster.connect(connection, ClusterOptions.clusterOptions(username, password).environment(env));
+    }
+
+    public static void loadDataFromFilesToCollections(Bucket bucket, Map<String, String> fileToCollectionMap) {
         for (Map.Entry<String, String> entry : fileToCollectionMap.entrySet()) {
             String filePath = entry.getKey();
             String collectionName = entry.getValue();
-
 
             try {
                 String content = new String(Files.readAllBytes(Paths.get(filePath)));
                 JsonArray jsonArray = JsonArray.fromJson(content);
 
-                // Créez un scope si nécessaire
-                String scopeName = "te";
-                try {
-                    bucket.collections().createScope(scopeName);
-                    System.out.println("Scope created!");
-                } catch (ScopeExistsException e) {
-                    System.out.println("Scope already exists, not created.");
-                }
+                String scopeName = "tester";
+                createScopeIfNotExists(bucket, scopeName);
+                createCollectionIfNotExists(bucket, collectionName, scopeName);
 
-                // Créez une collection si nécessaire
-                try {
-                    bucket.collections().createCollection(CollectionSpec.create(collectionName, scopeName));
-                    System.out.println("Collection created!");
-                } catch (CollectionExistsException e) {
-                    System.out.println("Collection already exists, not created.");
-                }
-
-                // Accéder à la collection
                 Collection collection = bucket.scope(scopeName).collection(collectionName);
-
-                for (int i = 0; i < jsonArray.size(); i++) {
-                    JsonObject jsonObject = jsonArray.getObject(i);
-
-                    // Générer un ID de document unique
-                    String docId = "mydoc" + i; // Modifiez ceci selon vos besoins
-
-                    MutationResult result = collection.upsert(docId, jsonObject,
-                            UpsertOptions.upsertOptions().expiry(Duration.ofHours(1)));
-                    System.out.println("Insert or update item ok.");
-
-                }
+                loadDataIntoCollection(collection, jsonArray);
 
             } catch (IOException e) {
                 System.out.println("Erreur lors de la lecture du fichier: " + e.getMessage());
             }
-
         }
+    }
 
-        // N'oubliez pas de fermer les ressources lorsque vous avez terminé
+    public static void createScopeIfNotExists(Bucket bucket, String scopeName) {
+        try {
+            bucket.collections().createScope(scopeName);
+            System.out.println("Scope created!");
+        } catch (ScopeExistsException e) {
+            System.out.println("Scope already exists, not created.");
+        }
+    }
+
+    public static void createCollectionIfNotExists(Bucket bucket, String collectionName, String scopeName) {
+        try {
+            bucket.collections().createCollection(CollectionSpec.create(collectionName, scopeName));
+            System.out.println("Collection created!");
+        } catch (CollectionExistsException e) {
+            System.out.println("Collection already exists, not created.");
+        }
+    }
+
+    public static void loadDataIntoCollection(Collection collection, JsonArray jsonArray) {
+        for (int i = 0; i < jsonArray.size(); i++) {
+            JsonObject jsonObject = jsonArray.getObject(i);
+
+            String docId = "mydoc" + i;
+
+            MutationResult result = collection.upsert(docId, jsonObject,
+                    UpsertOptions.upsertOptions().expiry(Duration.ofHours(1)));
+            System.out.println("Insert or update item ok.");
+        }
+    }
+
+    public static void disconnectFromCouchbase(Cluster cluster, ClusterEnvironment env) {
         cluster.disconnect();
         env.shutdown();
     }
