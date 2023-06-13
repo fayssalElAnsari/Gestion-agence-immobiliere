@@ -1,13 +1,7 @@
 package com.projetmongodb.m1.immobilier.controller;
 
-import com.projetmongodb.m1.immobilier.model.Apartment;
-import com.projetmongodb.m1.immobilier.model.Client;
-import com.projetmongodb.m1.immobilier.model.Transaction;
-import com.projetmongodb.m1.immobilier.model.User;
-import com.projetmongodb.m1.immobilier.service.ApartmentService;
-import com.projetmongodb.m1.immobilier.service.ClientService;
-import com.projetmongodb.m1.immobilier.service.TransactionService;
-import com.projetmongodb.m1.immobilier.service.UserService;
+import com.projetmongodb.m1.immobilier.model.*;
+import com.projetmongodb.m1.immobilier.service.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -26,14 +20,16 @@ public class MockDataController {
     private final UserService userService;
     private final ClientService clientService;
     private final TransactionService transactionService;
+    private final ReservationService reservationService;
 
     @Autowired
     public MockDataController(ApartmentService apartmentService, UserService userService,
-                              ClientService clientService, TransactionService transactionService) {
+                              ClientService clientService, TransactionService transactionService, ReservationService reservationService) {
         this.apartmentService = apartmentService;
         this.userService = userService;
         this.clientService = clientService;
         this.transactionService = transactionService;
+        this.reservationService = reservationService;
     }
 
     @PostMapping("/apartments")
@@ -76,5 +72,14 @@ public class MockDataController {
         return new ResponseEntity<>("Mock data for transactions created successfully", HttpStatus.CREATED);
     }
 
+    @PostMapping("/reservations")
+    public ResponseEntity<String> populateReservations(@RequestBody Map<String, Integer> body) {
+        int numberOfDocuments = body.get("numberOfDocuments");
+        for (int i = 0; i < numberOfDocuments; i++) {
+            Reservation reservation = reservationService.createMockReservation();
+            reservationService.saveReservation(reservation);
+        }
+        return new ResponseEntity<>("Mock data for reservations created successfully", HttpStatus.CREATED);
+    }
 }
 
