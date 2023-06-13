@@ -43,8 +43,12 @@ public class DataLoad {
         }
 
         Map<String, String> fileToCollectionMap = Map.of(
-                "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\objets\\objet.json", "test",
-                "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\objets\\ze.json", "ze"
+                "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\data\\AgenceImmobiliere.apartments.json", "Apartments",
+                "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\data\\AgenceImmobiliere.clients.json", "Clients",
+                "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\data\\AgenceImmobiliere.reservation.json", "Reservation",
+                "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\data\\AgenceImmobiliere.transactions.json", "Transactions",
+                "C:\\Environnement.Travail\\Environnement.MasterInfo\\Gestion-agence-immobiliere\\Moteur-Couchbase\\src\\main\\java\\moteur\\couchbase\\data\\AgenceImmobiliere.users.json", "Users"
+
         );
 
         loadDataFromFilesToCollections(bucket, fileToCollectionMap);
