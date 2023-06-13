@@ -18,13 +18,12 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.LogManager;
 
-public class dataLoad {
+public class DataLoad {
 
     private static String connection = "couchbase://127.0.0.1";
     private static String username = "admin";
     private static String password = "admin123";
     private static String bucketCouchbase = "mtest";
-
 
     public static void main(String[] args) {
 
