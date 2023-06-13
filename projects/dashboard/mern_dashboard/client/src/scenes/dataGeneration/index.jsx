@@ -5,6 +5,9 @@ import MenuItem from "@mui/material/MenuItem";
 import TextField from "@mui/material/TextField";
 import FormControl from "@mui/material/FormControl";
 import InputLabel from "@mui/material/InputLabel";
+import { Box } from "@mui/system";
+import { Typography } from "@mui/material";
+import axios from "axios";
 
 const DataGeneration = () => {
   {
@@ -13,55 +16,99 @@ const DataGeneration = () => {
 
     const collections = ["users", "apartments", "reservations"];
 
-    const handleSubmit = async (event) => {
+    const generateData = async (event) => {
       event.preventDefault();
 
-      const response = await fetch(
-        `http://localhost:8081/api/mockdata/${collection}`,
-        {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ numberOfDocuments }),
-        }
-      );
+      try {
+        const response = await axios.post(
+          `http://localhost:8081/api/mockdata/${collection}`,
+          { numberOfDocuments }
+        );
 
-      if (response.ok) {
         // Handle success
-      } else {
+        console.log(response.data);
+      } catch (error) {
         // Handle error
+        console.error(error);
+      }
+    };
+
+    const handleDelete = async (event) => {
+      event.preventDefault();
+
+      try {
+        // Fetch all documents in the collection
+        const { data: docs } = await axios.get(
+          `localhost:8081/api/${collection}`
+        );
+
+        // Delete each document in the collection
+        for (const doc of docs) {
+          await axios.delete(`localhost:8081/api/${collection}/${doc.id}`);
+        }
+
+        alert("All documents deleted successfully!");
+      } catch (error) {
+        console.error(error);
       }
     };
 
     return (
-      <form onSubmit={handleSubmit}>
-        <FormControl fullWidth>
-          <InputLabel id="collection-select-label">Collection</InputLabel>
-          <Select
-            labelId="collection-select-label"
-            id="collection-select"
-            value={collection}
-            onChange={(event) => setCollection(event.target.value)}
-            autoWidth
-          >
-            {collections.map((name) => (
-              <MenuItem key={name} value={name}>
-                {name}
-              </MenuItem>
-            ))}
-          </Select>
-        </FormControl>
-        <TextField
-          type="number"
-          label="Number of Documents"
-          value={numberOfDocuments}
-          onChange={(event) =>
-            setNumberOfDocuments(parseInt(event.target.value))
-          }
-        />
-        <Button type="submit" variant="contained" color="primary">
-          Submit
-        </Button>
-      </form>
+      <Box>
+        <Typography variant="h3">Data Generation</Typography>
+        <form onSubmit={generateData}>
+          <FormControl fullWidth>
+            <InputLabel id="collection-select-label">Collection</InputLabel>
+            <Select
+              labelId="collection-select-label"
+              id="collection-select"
+              value={collection}
+              onChange={(event) => setCollection(event.target.value)}
+              autoWidth
+            >
+              {collections.map((name) => (
+                <MenuItem key={name} value={name}>
+                  {name}
+                </MenuItem>
+              ))}
+            </Select>
+          </FormControl>
+          <TextField
+            type="number"
+            label="Number of Documents"
+            value={numberOfDocuments}
+            onChange={(event) =>
+              setNumberOfDocuments(parseInt(event.target.value))
+            }
+          />
+          <Button type="submit" variant="contained" color="primary">
+            Generate
+          </Button>
+        </form>
+
+        <Typography variant="h3">Data Deletion</Typography>
+        <form onSubmit={handleDelete}>
+          <FormControl fullWidth>
+            <InputLabel id="collection-select-label">Collection</InputLabel>
+            <Select
+              labelId="collection-select-label"
+              id="collection-select"
+              value={collection}
+              onChange={(event) => setCollection(event.target.value)}
+              autoWidth
+            >
+              {collections.map((name) => (
+                <MenuItem key={name} value={name}>
+                  {name}
+                </MenuItem>
+              ))}
+            </Select>
+          </FormControl>
+          <Button type="submit" variant="contained" color="primary">
+            Delete
+          </Button>
+        </form>
+      </Box>
     );
   }
 };
