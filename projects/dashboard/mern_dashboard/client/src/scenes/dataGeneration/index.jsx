@@ -39,12 +39,15 @@ const DataGeneration = () => {
       try {
         // Fetch all documents in the collection
         const { data: docs } = await axios.get(
-          `localhost:8081/api/${collection}`
+          `http://localhost:8081/api/${collection}`
         );
+        console.log(docs);
 
         // Delete each document in the collection
         for (const doc of docs) {
-          await axios.delete(`localhost:8081/api/${collection}/${doc.id}`);
+          await axios.delete(
+            `http://localhost:8081/api/${collection}/${doc.id}`
+          );
         }
 
         alert("All documents deleted successfully!");
