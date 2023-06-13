@@ -1,0 +1,1515 @@
+[{
+  "_id": {
+    "$oid": "6488677fab2c2130a716709c"
+  },
+  "apartmentId": "96E02A35",
+  "userId": "F68173DA",
+  "startDate": {
+    "$date": "2023-07-04T19:01:54.107Z"
+  },
+  "endDate": {
+    "$date": "2023-07-03T07:02:53.572Z"
+  },
+  "price": 481.26,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a7167168"
+  },
+  "apartmentId": "6D3F8263",
+  "userId": "8DC7BE70",
+  "startDate": {
+    "$date": "2023-06-15T07:28:24.705Z"
+  },
+  "endDate": {
+    "$date": "2023-06-14T12:56:49.350Z"
+  },
+  "price": 92.83,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a7167169"
+  },
+  "apartmentId": "C8E941F3",
+  "userId": "3E580B62",
+  "startDate": {
+    "$date": "2023-06-23T03:43:50.697Z"
+  },
+  "endDate": {
+    "$date": "2023-08-08T22:25:32.640Z"
+  },
+  "price": 1338.15,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a716716a"
+  },
+  "apartmentId": "92160CAB",
+  "userId": "E2026D2C",
+  "startDate": {
+    "$date": "2023-07-10T14:37:24.988Z"
+  },
+  "endDate": {
+    "$date": "2023-06-17T05:41:52.683Z"
+  },
+  "price": 1346.8,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a716716b"
+  },
+  "apartmentId": "E8E9F7DA",
+  "userId": "0A42030B",
+  "startDate": {
+    "$date": "2023-07-06T05:05:24.075Z"
+  },
+  "endDate": {
+    "$date": "2023-07-01T17:06:50.017Z"
+  },
+  "price": 122.78,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a716716c"
+  },
+  "apartmentId": "54E0D6D9",
+  "userId": "BDB4DDA1",
+  "startDate": {
+    "$date": "2023-07-08T18:43:38.227Z"
+  },
+  "endDate": {
+    "$date": "2023-07-22T15:08:54.252Z"
+  },
+  "price": 1016.03,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a716716d"
+  },
+  "apartmentId": "B2C95EB1",
+  "userId": "FAAA29A7",
+  "startDate": {
+    "$date": "2023-06-30T09:23:57.288Z"
+  },
+  "endDate": {
+    "$date": "2023-07-26T10:06:11.357Z"
+  },
+  "price": 1797.14,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a716716e"
+  },
+  "apartmentId": "854FC568",
+  "userId": "1E073A56",
+  "startDate": {
+    "$date": "2023-06-17T12:38:48.710Z"
+  },
+  "endDate": {
+    "$date": "2023-07-01T17:05:26.954Z"
+  },
+  "price": 213.34,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a716716f"
+  },
+  "apartmentId": "2BC89B7E",
+  "userId": "80982094",
+  "startDate": {
+    "$date": "2023-07-03T20:05:22.693Z"
+  },
+  "endDate": {
+    "$date": "2023-07-23T03:53:32.877Z"
+  },
+  "price": 908.39,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bddab2c2130a7167170"
+  },
+  "apartmentId": "7F7CF708",
+  "userId": "35360C40",
+  "startDate": {
+    "$date": "2023-07-08T12:15:35.878Z"
+  },
+  "endDate": {
+    "$date": "2023-07-14T14:59:01.557Z"
+  },
+  "price": 378.65,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167171"
+  },
+  "apartmentId": "EB9E12FF",
+  "userId": "349AC2B1",
+  "startDate": {
+    "$date": "2023-06-30T08:46:35.218Z"
+  },
+  "endDate": {
+    "$date": "2023-06-28T00:33:47.010Z"
+  },
+  "price": 68.67,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167172"
+  },
+  "apartmentId": "D41987F6",
+  "userId": "B338CBC3",
+  "startDate": {
+    "$date": "2023-06-15T17:10:56.155Z"
+  },
+  "endDate": {
+    "$date": "2023-07-05T00:50:21.572Z"
+  },
+  "price": 162.05,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167173"
+  },
+  "apartmentId": "F8CFA7FF",
+  "userId": "46BAADDA",
+  "startDate": {
+    "$date": "2023-07-04T23:17:00.321Z"
+  },
+  "endDate": {
+    "$date": "2023-08-12T04:36:23.431Z"
+  },
+  "price": 592.13,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167174"
+  },
+  "apartmentId": "1A197A13",
+  "userId": "2E0F9A7C",
+  "startDate": {
+    "$date": "2023-06-16T15:50:54.849Z"
+  },
+  "endDate": {
+    "$date": "2023-06-27T10:21:03.658Z"
+  },
+  "price": 1493.18,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167175"
+  },
+  "apartmentId": "24374C18",
+  "userId": "50B1338D",
+  "startDate": {
+    "$date": "2023-06-13T23:16:37.771Z"
+  },
+  "endDate": {
+    "$date": "2023-07-13T17:04:02.406Z"
+  },
+  "price": 1992.22,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167176"
+  },
+  "apartmentId": "650E3375",
+  "userId": "EE552797",
+  "startDate": {
+    "$date": "2023-06-29T13:38:05.346Z"
+  },
+  "endDate": {
+    "$date": "2023-06-19T00:23:38.200Z"
+  },
+  "price": 1335.19,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167177"
+  },
+  "apartmentId": "0730A26A",
+  "userId": "8DE0CAFB",
+  "startDate": {
+    "$date": "2023-06-22T05:20:02.044Z"
+  },
+  "endDate": {
+    "$date": "2023-07-19T11:11:32.803Z"
+  },
+  "price": 1636.17,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167178"
+  },
+  "apartmentId": "2FAB905B",
+  "userId": "2E87B08A",
+  "startDate": {
+    "$date": "2023-06-23T02:05:41.875Z"
+  },
+  "endDate": {
+    "$date": "2023-08-09T10:26:26.135Z"
+  },
+  "price": 1272.98,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167179"
+  },
+  "apartmentId": "20276378",
+  "userId": "050B9879",
+  "startDate": {
+    "$date": "2023-06-24T23:00:47.691Z"
+  },
+  "endDate": {
+    "$date": "2023-06-30T18:03:39.273Z"
+  },
+  "price": 790.61,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a716717a"
+  },
+  "apartmentId": "F23B5BD6",
+  "userId": "3207AC94",
+  "startDate": {
+    "$date": "2023-07-07T21:21:07.912Z"
+  },
+  "endDate": {
+    "$date": "2023-06-13T16:09:23.429Z"
+  },
+  "price": 62.96,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a716717b"
+  },
+  "apartmentId": "3E75B428",
+  "userId": "B616F2A9",
+  "startDate": {
+    "$date": "2023-06-28T18:47:08.980Z"
+  },
+  "endDate": {
+    "$date": "2023-07-13T01:23:52.839Z"
+  },
+  "price": 1665.29,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a716717c"
+  },
+  "apartmentId": "046E25BB",
+  "userId": "19D1083B",
+  "startDate": {
+    "$date": "2023-07-05T20:11:46.303Z"
+  },
+  "endDate": {
+    "$date": "2023-07-14T03:28:18.832Z"
+  },
+  "price": 1007.07,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a716717d"
+  },
+  "apartmentId": "989EB118",
+  "userId": "BA124081",
+  "startDate": {
+    "$date": "2023-06-14T18:38:36.563Z"
+  },
+  "endDate": {
+    "$date": "2023-07-10T19:25:52.543Z"
+  },
+  "price": 1622.47,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a716717e"
+  },
+  "apartmentId": "1EDB07C0",
+  "userId": "E35B9C29",
+  "startDate": {
+    "$date": "2023-06-30T01:06:52.631Z"
+  },
+  "endDate": {
+    "$date": "2023-07-05T08:05:34.121Z"
+  },
+  "price": 1287.52,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a716717f"
+  },
+  "apartmentId": "A83620D8",
+  "userId": "D2D468D2",
+  "startDate": {
+    "$date": "2023-07-04T09:17:12.287Z"
+  },
+  "endDate": {
+    "$date": "2023-07-27T04:56:55.073Z"
+  },
+  "price": 798.86,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167180"
+  },
+  "apartmentId": "7563217C",
+  "userId": "7F61560E",
+  "startDate": {
+    "$date": "2023-07-08T19:10:01.844Z"
+  },
+  "endDate": {
+    "$date": "2023-07-24T09:43:15.956Z"
+  },
+  "price": 446,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167181"
+  },
+  "apartmentId": "2C7B9487",
+  "userId": "B352D4E8",
+  "startDate": {
+    "$date": "2023-07-11T15:01:23.234Z"
+  },
+  "endDate": {
+    "$date": "2023-07-26T14:38:37.430Z"
+  },
+  "price": 1862.9,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167182"
+  },
+  "apartmentId": "0432AFE7",
+  "userId": "F4E82A94",
+  "startDate": {
+    "$date": "2023-06-30T21:54:50.276Z"
+  },
+  "endDate": {
+    "$date": "2023-06-20T06:08:50.184Z"
+  },
+  "price": 1480.87,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167183"
+  },
+  "apartmentId": "310A1663",
+  "userId": "B35CAF76",
+  "startDate": {
+    "$date": "2023-07-09T09:26:10.226Z"
+  },
+  "endDate": {
+    "$date": "2023-07-04T12:56:14.481Z"
+  },
+  "price": 821.93,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167184"
+  },
+  "apartmentId": "E217E4D1",
+  "userId": "2C031175",
+  "startDate": {
+    "$date": "2023-06-28T17:26:35.897Z"
+  },
+  "endDate": {
+    "$date": "2023-08-11T15:45:24.066Z"
+  },
+  "price": 1804.17,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdeab2c2130a7167185"
+  },
+  "apartmentId": "CEA81AF9",
+  "userId": "22D34D3B",
+  "startDate": {
+    "$date": "2023-06-20T01:14:31.481Z"
+  },
+  "endDate": {
+    "$date": "2023-06-23T19:19:52.125Z"
+  },
+  "price": 1365.43,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167186"
+  },
+  "apartmentId": "A7215C7C",
+  "userId": "983A2BC5",
+  "startDate": {
+    "$date": "2023-07-09T18:25:18.096Z"
+  },
+  "endDate": {
+    "$date": "2023-07-14T12:48:59.417Z"
+  },
+  "price": 279.83,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167187"
+  },
+  "apartmentId": "BA9C5A45",
+  "userId": "1DC71816",
+  "startDate": {
+    "$date": "2023-07-08T14:31:21.903Z"
+  },
+  "endDate": {
+    "$date": "2023-08-11T04:55:40.130Z"
+  },
+  "price": 324.23,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167188"
+  },
+  "apartmentId": "4F6EC38A",
+  "userId": "A5FD6DBC",
+  "startDate": {
+    "$date": "2023-07-03T05:13:57.202Z"
+  },
+  "endDate": {
+    "$date": "2023-07-18T15:33:36.998Z"
+  },
+  "price": 1444.82,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167189"
+  },
+  "apartmentId": "AD56E245",
+  "userId": "49081F82",
+  "startDate": {
+    "$date": "2023-06-19T01:09:17.492Z"
+  },
+  "endDate": {
+    "$date": "2023-08-02T07:58:48.159Z"
+  },
+  "price": 1438.75,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716718a"
+  },
+  "apartmentId": "84B3C97C",
+  "userId": "0AFE66E2",
+  "startDate": {
+    "$date": "2023-06-30T18:22:55.054Z"
+  },
+  "endDate": {
+    "$date": "2023-06-26T15:11:52.096Z"
+  },
+  "price": 101.81,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716718b"
+  },
+  "apartmentId": "9CDD03CC",
+  "userId": "4D22A2CF",
+  "startDate": {
+    "$date": "2023-06-16T09:22:44.831Z"
+  },
+  "endDate": {
+    "$date": "2023-07-29T23:09:50.288Z"
+  },
+  "price": 92.45,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716718c"
+  },
+  "apartmentId": "12D42DD4",
+  "userId": "CD2C5DDD",
+  "startDate": {
+    "$date": "2023-07-08T02:46:53.225Z"
+  },
+  "endDate": {
+    "$date": "2023-07-18T08:17:53.570Z"
+  },
+  "price": 225.1,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716718d"
+  },
+  "apartmentId": "AAF98014",
+  "userId": "B63C317A",
+  "startDate": {
+    "$date": "2023-06-22T20:46:55.708Z"
+  },
+  "endDate": {
+    "$date": "2023-07-02T21:08:02.551Z"
+  },
+  "price": 244.04,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716718e"
+  },
+  "apartmentId": "F415FE85",
+  "userId": "3958D57D",
+  "startDate": {
+    "$date": "2023-06-25T01:43:43.326Z"
+  },
+  "endDate": {
+    "$date": "2023-07-15T07:14:25.230Z"
+  },
+  "price": 1756.01,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716718f"
+  },
+  "apartmentId": "9C2015DD",
+  "userId": "C1D86E9C",
+  "startDate": {
+    "$date": "2023-06-22T18:02:14.359Z"
+  },
+  "endDate": {
+    "$date": "2023-07-22T05:25:16.893Z"
+  },
+  "price": 98.74,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167190"
+  },
+  "apartmentId": "A378D933",
+  "userId": "EE6B3418",
+  "startDate": {
+    "$date": "2023-07-02T01:01:59.950Z"
+  },
+  "endDate": {
+    "$date": "2023-08-09T19:13:57.196Z"
+  },
+  "price": 375.54,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167191"
+  },
+  "apartmentId": "7897BD94",
+  "userId": "9068736E",
+  "startDate": {
+    "$date": "2023-06-29T05:17:55.920Z"
+  },
+  "endDate": {
+    "$date": "2023-08-11T05:03:57.510Z"
+  },
+  "price": 1106.14,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167192"
+  },
+  "apartmentId": "99ACBDCF",
+  "userId": "15C8792E",
+  "startDate": {
+    "$date": "2023-07-06T11:09:27.632Z"
+  },
+  "endDate": {
+    "$date": "2023-06-27T07:06:51.498Z"
+  },
+  "price": 1989.61,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167193"
+  },
+  "apartmentId": "87F6A0DC",
+  "userId": "A1B3DD3B",
+  "startDate": {
+    "$date": "2023-06-25T16:05:41.190Z"
+  },
+  "endDate": {
+    "$date": "2023-06-14T00:48:31.868Z"
+  },
+  "price": 427.83,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167194"
+  },
+  "apartmentId": "1FCE244F",
+  "userId": "7E1C09CA",
+  "startDate": {
+    "$date": "2023-06-30T02:20:16.725Z"
+  },
+  "endDate": {
+    "$date": "2023-07-09T02:45:34.091Z"
+  },
+  "price": 1433.12,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167195"
+  },
+  "apartmentId": "FE8E4B60",
+  "userId": "7FE2FEDB",
+  "startDate": {
+    "$date": "2023-07-08T21:29:59.835Z"
+  },
+  "endDate": {
+    "$date": "2023-07-08T12:54:38.262Z"
+  },
+  "price": 597.41,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167196"
+  },
+  "apartmentId": "6DD46F89",
+  "userId": "A3D731BB",
+  "startDate": {
+    "$date": "2023-06-20T02:34:22.537Z"
+  },
+  "endDate": {
+    "$date": "2023-07-15T01:57:22.997Z"
+  },
+  "price": 277,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167197"
+  },
+  "apartmentId": "7123557D",
+  "userId": "3BB68A12",
+  "startDate": {
+    "$date": "2023-07-08T20:22:51.174Z"
+  },
+  "endDate": {
+    "$date": "2023-06-24T23:16:59.674Z"
+  },
+  "price": 1881.28,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167198"
+  },
+  "apartmentId": "2AF4D4CE",
+  "userId": "62915C82",
+  "startDate": {
+    "$date": "2023-06-26T01:37:08.318Z"
+  },
+  "endDate": {
+    "$date": "2023-06-22T10:21:25.931Z"
+  },
+  "price": 946.38,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a7167199"
+  },
+  "apartmentId": "9E80FE5D",
+  "userId": "16E10B9D",
+  "startDate": {
+    "$date": "2023-06-19T21:53:22.807Z"
+  },
+  "endDate": {
+    "$date": "2023-08-02T12:31:32.167Z"
+  },
+  "price": 1149.18,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716719a"
+  },
+  "apartmentId": "6958B0A5",
+  "userId": "F54C9CB4",
+  "startDate": {
+    "$date": "2023-07-09T23:38:20.330Z"
+  },
+  "endDate": {
+    "$date": "2023-06-16T11:05:15.638Z"
+  },
+  "price": 1096.81,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716719b"
+  },
+  "apartmentId": "9DB75BFC",
+  "userId": "76591181",
+  "startDate": {
+    "$date": "2023-06-20T20:15:42.157Z"
+  },
+  "endDate": {
+    "$date": "2023-07-10T18:24:07.683Z"
+  },
+  "price": 1688.76,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886bdfab2c2130a716719c"
+  },
+  "apartmentId": "E27F00AC",
+  "userId": "67095698",
+  "startDate": {
+    "$date": "2023-07-07T04:50:14.563Z"
+  },
+  "endDate": {
+    "$date": "2023-08-05T19:11:40.530Z"
+  },
+  "price": 1696.9,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a716719d"
+  },
+  "apartmentId": "3DF30F1D",
+  "userId": "1C747D2C",
+  "startDate": {
+    "$date": "2023-07-07T02:27:38.098Z"
+  },
+  "endDate": {
+    "$date": "2023-08-03T11:02:59.250Z"
+  },
+  "price": 1007.23,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a716719e"
+  },
+  "apartmentId": "165709D6",
+  "userId": "886DC224",
+  "startDate": {
+    "$date": "2023-06-30T00:34:51.206Z"
+  },
+  "endDate": {
+    "$date": "2023-07-27T19:01:59.976Z"
+  },
+  "price": 1517.96,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a716719f"
+  },
+  "apartmentId": "79C556B4",
+  "userId": "3A8F1556",
+  "startDate": {
+    "$date": "2023-06-29T17:51:50.986Z"
+  },
+  "endDate": {
+    "$date": "2023-08-01T03:00:27.459Z"
+  },
+  "price": 1437.48,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a0"
+  },
+  "apartmentId": "82942B31",
+  "userId": "5C3B9B9D",
+  "startDate": {
+    "$date": "2023-06-27T01:20:26.547Z"
+  },
+  "endDate": {
+    "$date": "2023-07-23T22:45:15.661Z"
+  },
+  "price": 1039.39,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a1"
+  },
+  "apartmentId": "B6C2B82E",
+  "userId": "8DAA6362",
+  "startDate": {
+    "$date": "2023-06-14T06:05:06.211Z"
+  },
+  "endDate": {
+    "$date": "2023-07-18T15:56:26.680Z"
+  },
+  "price": 1207.83,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a2"
+  },
+  "apartmentId": "3A955CE6",
+  "userId": "9190D05B",
+  "startDate": {
+    "$date": "2023-07-01T14:22:14.566Z"
+  },
+  "endDate": {
+    "$date": "2023-08-11T12:22:26.987Z"
+  },
+  "price": 592.08,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a3"
+  },
+  "apartmentId": "DC506088",
+  "userId": "70B4BDE6",
+  "startDate": {
+    "$date": "2023-06-23T23:23:30.726Z"
+  },
+  "endDate": {
+    "$date": "2023-07-07T19:48:05.094Z"
+  },
+  "price": 967.73,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a4"
+  },
+  "apartmentId": "2E0F7A18",
+  "userId": "7E71257B",
+  "startDate": {
+    "$date": "2023-06-22T03:19:48.304Z"
+  },
+  "endDate": {
+    "$date": "2023-06-26T08:31:20.965Z"
+  },
+  "price": 800.65,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a5"
+  },
+  "apartmentId": "9AC9082E",
+  "userId": "4FF81DED",
+  "startDate": {
+    "$date": "2023-07-10T13:49:42.850Z"
+  },
+  "endDate": {
+    "$date": "2023-07-28T01:26:34.925Z"
+  },
+  "price": 1114.04,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a6"
+  },
+  "apartmentId": "5F10DC4A",
+  "userId": "0606AB45",
+  "startDate": {
+    "$date": "2023-06-22T01:11:50.086Z"
+  },
+  "endDate": {
+    "$date": "2023-06-15T03:53:47.273Z"
+  },
+  "price": 1606.2,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a7"
+  },
+  "apartmentId": "A2520BA0",
+  "userId": "D96AE857",
+  "startDate": {
+    "$date": "2023-06-26T12:00:53.268Z"
+  },
+  "endDate": {
+    "$date": "2023-08-09T09:40:52.769Z"
+  },
+  "price": 159.13,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a8"
+  },
+  "apartmentId": "BC280DD3",
+  "userId": "CB0A4C2F",
+  "startDate": {
+    "$date": "2023-06-18T19:04:15.799Z"
+  },
+  "endDate": {
+    "$date": "2023-08-09T18:18:32.034Z"
+  },
+  "price": 356.96,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671a9"
+  },
+  "apartmentId": "FA142492",
+  "userId": "D7450FAF",
+  "startDate": {
+    "$date": "2023-07-05T23:02:40.694Z"
+  },
+  "endDate": {
+    "$date": "2023-07-20T11:46:12.040Z"
+  },
+  "price": 462.96,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671aa"
+  },
+  "apartmentId": "ED5B5506",
+  "userId": "2373A139",
+  "startDate": {
+    "$date": "2023-07-10T13:13:44.998Z"
+  },
+  "endDate": {
+    "$date": "2023-08-05T03:35:42.855Z"
+  },
+  "price": 1742,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671ab"
+  },
+  "apartmentId": "E80AEA9F",
+  "userId": "356FED0D",
+  "startDate": {
+    "$date": "2023-06-24T22:28:10.306Z"
+  },
+  "endDate": {
+    "$date": "2023-07-09T09:27:13.697Z"
+  },
+  "price": 1785.2,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671ac"
+  },
+  "apartmentId": "ADDD0DE9",
+  "userId": "49D3BE0A",
+  "startDate": {
+    "$date": "2023-06-28T18:55:11.475Z"
+  },
+  "endDate": {
+    "$date": "2023-06-29T00:46:06.202Z"
+  },
+  "price": 1129.38,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671ad"
+  },
+  "apartmentId": "611CAF18",
+  "userId": "04142DA7",
+  "startDate": {
+    "$date": "2023-07-07T11:06:00.030Z"
+  },
+  "endDate": {
+    "$date": "2023-07-28T00:32:37.446Z"
+  },
+  "price": 1675.22,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671ae"
+  },
+  "apartmentId": "010A165D",
+  "userId": "3BC7434F",
+  "startDate": {
+    "$date": "2023-06-15T13:34:06.588Z"
+  },
+  "endDate": {
+    "$date": "2023-08-09T19:04:43.508Z"
+  },
+  "price": 1532.29,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671af"
+  },
+  "apartmentId": "AA156932",
+  "userId": "5F4B7DA6",
+  "startDate": {
+    "$date": "2023-06-30T19:09:59.099Z"
+  },
+  "endDate": {
+    "$date": "2023-07-27T12:08:56.537Z"
+  },
+  "price": 223.42,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671b0"
+  },
+  "apartmentId": "15EE541D",
+  "userId": "0F58A435",
+  "startDate": {
+    "$date": "2023-07-12T03:21:39.235Z"
+  },
+  "endDate": {
+    "$date": "2023-06-25T15:44:10.692Z"
+  },
+  "price": 219.07,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671b1"
+  },
+  "apartmentId": "A6B58928",
+  "userId": "20D30B85",
+  "startDate": {
+    "$date": "2023-07-11T00:54:19.562Z"
+  },
+  "endDate": {
+    "$date": "2023-06-28T03:32:38.426Z"
+  },
+  "price": 1585.94,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be0ab2c2130a71671b2"
+  },
+  "apartmentId": "A57E89C7",
+  "userId": "361C15B9",
+  "startDate": {
+    "$date": "2023-06-29T08:32:38.109Z"
+  },
+  "endDate": {
+    "$date": "2023-07-29T08:59:16.573Z"
+  },
+  "price": 487.53,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671b3"
+  },
+  "apartmentId": "C03F217A",
+  "userId": "67FF4D13",
+  "startDate": {
+    "$date": "2023-07-04T14:54:31.420Z"
+  },
+  "endDate": {
+    "$date": "2023-06-18T15:55:09.832Z"
+  },
+  "price": 952.51,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671b4"
+  },
+  "apartmentId": "5E79C72C",
+  "userId": "93B5C429",
+  "startDate": {
+    "$date": "2023-06-17T05:05:31.281Z"
+  },
+  "endDate": {
+    "$date": "2023-07-21T05:05:32.492Z"
+  },
+  "price": 494.53,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671b5"
+  },
+  "apartmentId": "C158FE75",
+  "userId": "6DF8C7B3",
+  "startDate": {
+    "$date": "2023-07-08T18:08:37.009Z"
+  },
+  "endDate": {
+    "$date": "2023-07-06T14:46:36.768Z"
+  },
+  "price": 1719.72,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671b6"
+  },
+  "apartmentId": "B9985985",
+  "userId": "2C27F977",
+  "startDate": {
+    "$date": "2023-07-09T10:27:50.850Z"
+  },
+  "endDate": {
+    "$date": "2023-07-14T16:59:08.312Z"
+  },
+  "price": 1524.07,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671b7"
+  },
+  "apartmentId": "EBBD8C58",
+  "userId": "54871A74",
+  "startDate": {
+    "$date": "2023-07-08T16:18:16.964Z"
+  },
+  "endDate": {
+    "$date": "2023-06-25T05:08:40.938Z"
+  },
+  "price": 1662,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671b8"
+  },
+  "apartmentId": "BFB4A514",
+  "userId": "14B66D63",
+  "startDate": {
+    "$date": "2023-07-06T23:04:08.496Z"
+  },
+  "endDate": {
+    "$date": "2023-06-22T08:27:21.593Z"
+  },
+  "price": 1870.23,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671b9"
+  },
+  "apartmentId": "11A0C6F2",
+  "userId": "E14212F9",
+  "startDate": {
+    "$date": "2023-07-11T03:07:07.895Z"
+  },
+  "endDate": {
+    "$date": "2023-06-28T07:02:27.707Z"
+  },
+  "price": 1451.59,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671ba"
+  },
+  "apartmentId": "387DC55D",
+  "userId": "7976F426",
+  "startDate": {
+    "$date": "2023-07-08T19:28:15.495Z"
+  },
+  "endDate": {
+    "$date": "2023-07-01T15:37:16.722Z"
+  },
+  "price": 635.15,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671bb"
+  },
+  "apartmentId": "261EB516",
+  "userId": "20808760",
+  "startDate": {
+    "$date": "2023-06-21T04:23:24.499Z"
+  },
+  "endDate": {
+    "$date": "2023-07-06T16:22:30.623Z"
+  },
+  "price": 1411.17,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671bc"
+  },
+  "apartmentId": "1A64B709",
+  "userId": "3448D689",
+  "startDate": {
+    "$date": "2023-06-28T00:05:52.283Z"
+  },
+  "endDate": {
+    "$date": "2023-08-02T18:08:36.337Z"
+  },
+  "price": 470.5,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671bd"
+  },
+  "apartmentId": "3C49127B",
+  "userId": "7DE5084F",
+  "startDate": {
+    "$date": "2023-06-29T05:58:55.737Z"
+  },
+  "endDate": {
+    "$date": "2023-07-06T04:15:47.351Z"
+  },
+  "price": 615.31,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671be"
+  },
+  "apartmentId": "AE6CDB37",
+  "userId": "5377BEBA",
+  "startDate": {
+    "$date": "2023-06-17T00:15:21.906Z"
+  },
+  "endDate": {
+    "$date": "2023-06-16T22:13:04.750Z"
+  },
+  "price": 333.33,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671bf"
+  },
+  "apartmentId": "1219A2EA",
+  "userId": "761EA385",
+  "startDate": {
+    "$date": "2023-06-26T22:47:35.206Z"
+  },
+  "endDate": {
+    "$date": "2023-07-02T20:21:14.109Z"
+  },
+  "price": 1781.55,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c0"
+  },
+  "apartmentId": "2146736C",
+  "userId": "774B2556",
+  "startDate": {
+    "$date": "2023-07-07T03:58:11.424Z"
+  },
+  "endDate": {
+    "$date": "2023-06-25T13:19:58.490Z"
+  },
+  "price": 116.6,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c1"
+  },
+  "apartmentId": "3282F897",
+  "userId": "C3E9C52C",
+  "startDate": {
+    "$date": "2023-06-19T19:37:14.879Z"
+  },
+  "endDate": {
+    "$date": "2023-07-16T09:51:06.343Z"
+  },
+  "price": 1557.08,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c2"
+  },
+  "apartmentId": "A5F9DA64",
+  "userId": "87FC343C",
+  "startDate": {
+    "$date": "2023-06-28T20:15:37.488Z"
+  },
+  "endDate": {
+    "$date": "2023-06-17T19:19:27.231Z"
+  },
+  "price": 1093.75,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c3"
+  },
+  "apartmentId": "336FA22F",
+  "userId": "771B0EDB",
+  "startDate": {
+    "$date": "2023-06-20T21:38:27.662Z"
+  },
+  "endDate": {
+    "$date": "2023-08-04T13:25:29.067Z"
+  },
+  "price": 1237.47,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c4"
+  },
+  "apartmentId": "5EA30322",
+  "userId": "6BF5D94B",
+  "startDate": {
+    "$date": "2023-06-28T09:24:36.806Z"
+  },
+  "endDate": {
+    "$date": "2023-06-18T10:10:34.485Z"
+  },
+  "price": 1362.07,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c5"
+  },
+  "apartmentId": "ECA0FE08",
+  "userId": "83025A7B",
+  "startDate": {
+    "$date": "2023-06-28T14:55:04.806Z"
+  },
+  "endDate": {
+    "$date": "2023-07-18T07:25:35.809Z"
+  },
+  "price": 1427.61,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c6"
+  },
+  "apartmentId": "3FD90649",
+  "userId": "B2627E4A",
+  "startDate": {
+    "$date": "2023-07-08T13:50:34.098Z"
+  },
+  "endDate": {
+    "$date": "2023-07-03T11:36:31.441Z"
+  },
+  "price": 980.73,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c7"
+  },
+  "apartmentId": "D3185383",
+  "userId": "167D9587",
+  "startDate": {
+    "$date": "2023-06-18T01:00:35.086Z"
+  },
+  "endDate": {
+    "$date": "2023-06-15T18:58:31.965Z"
+  },
+  "price": 733.44,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be1ab2c2130a71671c8"
+  },
+  "apartmentId": "49283310",
+  "userId": "4999DBCA",
+  "startDate": {
+    "$date": "2023-07-07T19:57:29.794Z"
+  },
+  "endDate": {
+    "$date": "2023-07-01T05:46:42.171Z"
+  },
+  "price": 289.99,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be2ab2c2130a71671c9"
+  },
+  "apartmentId": "FE6334A3",
+  "userId": "383CF7A7",
+  "startDate": {
+    "$date": "2023-07-03T13:53:32.684Z"
+  },
+  "endDate": {
+    "$date": "2023-07-27T20:04:49.142Z"
+  },
+  "price": 1450.62,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be2ab2c2130a71671ca"
+  },
+  "apartmentId": "682F89FC",
+  "userId": "2F3D14E8",
+  "startDate": {
+    "$date": "2023-07-03T00:22:13.468Z"
+  },
+  "endDate": {
+    "$date": "2023-06-23T06:38:42.586Z"
+  },
+  "price": 521.11,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+},
+{
+  "_id": {
+    "$oid": "64886be2ab2c2130a71671cb"
+  },
+  "apartmentId": "E07905B8",
+  "userId": "6FDDF0F8",
+  "startDate": {
+    "$date": "2023-07-03T10:48:56.898Z"
+  },
+  "endDate": {
+    "$date": "2023-08-08T07:52:51.098Z"
+  },
+  "price": 321.6,
+  "_class": "com.projetmongodb.m1.immobilier.model.Reservation"
+}]

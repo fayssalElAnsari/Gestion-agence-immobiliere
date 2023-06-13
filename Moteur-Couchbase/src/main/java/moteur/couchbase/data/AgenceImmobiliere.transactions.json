@@ -1,0 +1,1890 @@
+[{
+  "_id": {
+    "$oid": "64886370b1d4a0528d7ad4db"
+  },
+  "clientId": "361-68-1108",
+  "reservationId": "599-65-3663",
+  "amount": 784,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "CH5051010O1C1Hi6pmjWB",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T12:39:12.370Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886370b1d4a0528d7ad4dc"
+  },
+  "clientId": "624-71-3499",
+  "reservationId": "712-30-5509",
+  "amount": 7502.18,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "LU72764Z2rfKK0k11No6",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T12:39:12.734Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886371b1d4a0528d7ad4dd"
+  },
+  "clientId": "694-04-5032",
+  "reservationId": "323-35-5275",
+  "amount": 6791.51,
+  "currency": "USD",
+  "bankName": "Wells Fargo",
+  "accountNumber": "ST61186897046400905923376",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T12:39:13.291Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "648866721d32877d4dbddf01"
+  },
+  "clientId": "044-30-5038",
+  "reservationId": "413-72-7815",
+  "amount": 8043.14,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "EE030000436854891907",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T12:52:02.253Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "6488678bab2c2130a716709d"
+  },
+  "clientId": "257-20-5003",
+  "reservationId": "714-35-9192",
+  "amount": 3486.96,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "SI11239407126533736",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T12:56:43.427Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c06ab2c2130a71671cc"
+  },
+  "clientId": "070-63-8641",
+  "reservationId": "114-27-0821",
+  "amount": 9110.81,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "KW34FPPYweb316iE46gv0OE7w6p5ek",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:50.089Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c06ab2c2130a71671cd"
+  },
+  "clientId": "220-83-1582",
+  "reservationId": "453-51-0021",
+  "amount": 8946.94,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "CR0334888983262543934",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:50.451Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c06ab2c2130a71671ce"
+  },
+  "clientId": "544-44-5049",
+  "reservationId": "719-68-0236",
+  "amount": 6142.49,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "ME35774160004026258405",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:50.819Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c07ab2c2130a71671cf"
+  },
+  "clientId": "684-71-6390",
+  "reservationId": "458-53-9056",
+  "amount": 1696.98,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "JO89DDGE4378innmm4i4s35it1HRkM",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:51.194Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c07ab2c2130a71671d0"
+  },
+  "clientId": "025-25-5871",
+  "reservationId": "323-33-7860",
+  "amount": 7969.7,
+  "currency": "USD",
+  "bankName": "Wells Fargo",
+  "accountNumber": "QA78BGFV2w5Vd4jJRKniVwQK0Sxx9",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:51.555Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c08ab2c2130a71671d1"
+  },
+  "clientId": "889-14-7366",
+  "reservationId": "313-39-9344",
+  "amount": 3265.66,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "QA12XDLBf6oLEsDqy7O51n86SddJT",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:52.070Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c08ab2c2130a71671d2"
+  },
+  "clientId": "743-87-0582",
+  "reservationId": "218-26-9975",
+  "amount": 4502.91,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "TN0311980442376738063691",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:52.459Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c08ab2c2130a71671d3"
+  },
+  "clientId": "586-89-1726",
+  "reservationId": "472-10-9037",
+  "amount": 2202.57,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "ST47123907277619092625705",
+  "transactionType": "DEBIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:52.915Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c09ab2c2130a71671d4"
+  },
+  "clientId": "634-75-8277",
+  "reservationId": "524-32-8337",
+  "amount": 8827.76,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "LC44CYTJQKqrrFUNvxINJ41bgeylKcux",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:53.303Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c09ab2c2130a71671d5"
+  },
+  "clientId": "179-09-5126",
+  "reservationId": "008-47-2728",
+  "amount": 5140.84,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "KZ35410FCM3Y57H5LCd9",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:53.710Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0aab2c2130a71671d6"
+  },
+  "clientId": "218-18-7352",
+  "reservationId": "715-84-5781",
+  "amount": 7355.26,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "MK84097RKOJ4s6y9933",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:54.083Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0aab2c2130a71671d7"
+  },
+  "clientId": "769-96-8023",
+  "reservationId": "548-63-1474",
+  "amount": 2320.35,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "LV93WYVQifSt7KR6aO3dp",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:54.549Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0aab2c2130a71671d8"
+  },
+  "clientId": "883-76-6613",
+  "reservationId": "457-42-3034",
+  "amount": 5400.24,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "QA77TEKQUDlQqrpZN15p6GAkPWT0c",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:54.905Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0bab2c2130a71671d9"
+  },
+  "clientId": "388-01-7933",
+  "reservationId": "753-23-5796",
+  "amount": 9089.02,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "MU88CNWS8868362531460666338DWA",
+  "transactionType": "DEBIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:55.270Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0bab2c2130a71671da"
+  },
+  "clientId": "244-26-6329",
+  "reservationId": "113-98-1442",
+  "amount": 4850.31,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "TR22809206bSUL1T15stLYZBA3",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:55.645Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0cab2c2130a71671db"
+  },
+  "clientId": "232-48-0816",
+  "reservationId": "322-90-5827",
+  "amount": 2358.22,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "SI51875141816079380",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:56.000Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0cab2c2130a71671dc"
+  },
+  "clientId": "619-45-8112",
+  "reservationId": "701-88-1394",
+  "amount": 5800.11,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "PT91308280125646222688433",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:56.340Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0cab2c2130a71671dd"
+  },
+  "clientId": "687-76-6855",
+  "reservationId": "507-13-8403",
+  "amount": 9190.95,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "VG08CANL7861148204092747",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:56.682Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0dab2c2130a71671de"
+  },
+  "clientId": "336-70-6180",
+  "reservationId": "598-37-8646",
+  "amount": 1256.86,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "KZ61700g81DHC6q5gytV",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:57.049Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0dab2c2130a71671df"
+  },
+  "clientId": "736-03-7364",
+  "reservationId": "396-45-5562",
+  "amount": 2457.12,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "KZ53599Up6SAlEP5z8J3",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:57.404Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0dab2c2130a71671e0"
+  },
+  "clientId": "309-87-9845",
+  "reservationId": "518-53-3564",
+  "amount": 7744.02,
+  "currency": "USD",
+  "bankName": "Wells Fargo",
+  "accountNumber": "XK413792976423760950",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:57.794Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0eab2c2130a71671e1"
+  },
+  "clientId": "010-19-4632",
+  "reservationId": "530-26-6740",
+  "amount": 1177.65,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "KZ24832FA3OuN5Bl5ImM",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:58.187Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0eab2c2130a71671e2"
+  },
+  "clientId": "045-91-0737",
+  "reservationId": "194-63-6245",
+  "amount": 2864.19,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "LU88735Z12Dn1TM16iDf",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:58.541Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0eab2c2130a71671e3"
+  },
+  "clientId": "785-21-4282",
+  "reservationId": "758-10-6192",
+  "amount": 4642.85,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "AD4416083263DUEnW6H2Zn7g",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:58.916Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0fab2c2130a71671e4"
+  },
+  "clientId": "100-54-3192",
+  "reservationId": "379-87-1537",
+  "amount": 7388.34,
+  "currency": "USD",
+  "bankName": "Wells Fargo",
+  "accountNumber": "AD1111591102p0A9d37Alhue",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:59.260Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0fab2c2130a71671e5"
+  },
+  "clientId": "548-58-6114",
+  "reservationId": "453-86-3904",
+  "amount": 7284.45,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "AD51294476801zg77OW5Ht97",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:59.599Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c0fab2c2130a71671e6"
+  },
+  "clientId": "898-27-2000",
+  "reservationId": "822-41-1136",
+  "amount": 3591.3,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "BE52464478485648",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:15:59.965Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c10ab2c2130a71671e7"
+  },
+  "clientId": "814-60-9313",
+  "reservationId": "524-86-4958",
+  "amount": 7022.5,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "PS74WLBVf733C236ofOuHxJ5839O0",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:00.414Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c11ab2c2130a71671e8"
+  },
+  "clientId": "893-12-6075",
+  "reservationId": "239-58-2669",
+  "amount": 2247.07,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "IL606146252437833430886",
+  "transactionType": "DEBIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:01.006Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c11ab2c2130a71671e9"
+  },
+  "clientId": "140-98-8682",
+  "reservationId": "427-78-3731",
+  "amount": 2629.11,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "QA11TVUHJZNvlVxxHD4n6uYL63W45",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:01.520Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c11ab2c2130a71671ea"
+  },
+  "clientId": "189-08-8716",
+  "reservationId": "054-38-4120",
+  "amount": 2451.14,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "HR5788520070001950649",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:01.910Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c12ab2c2130a71671eb"
+  },
+  "clientId": "080-86-0850",
+  "reservationId": "865-15-3536",
+  "amount": 9674.38,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "KW25EGRFx5k09q9Y9mhM3R3A4WM2os",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:02.288Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c12ab2c2130a71671ec"
+  },
+  "clientId": "713-58-1262",
+  "reservationId": "490-89-6178",
+  "amount": 7640.76,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "MR3643147246567564608107081",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:02.706Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c13ab2c2130a71671ed"
+  },
+  "clientId": "863-53-1218",
+  "reservationId": "256-12-4645",
+  "amount": 2850.97,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "QA71ONTS5L7yCqO6OOrKUZOdQi7o3",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:03.117Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c13ab2c2130a71671ee"
+  },
+  "clientId": "417-03-0394",
+  "reservationId": "542-31-5396",
+  "amount": 9522.15,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "GT56T6H3A4p33VN7zWn76Mdi5lZF",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:03.609Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c14ab2c2130a71671ef"
+  },
+  "clientId": "523-99-3118",
+  "reservationId": "488-33-7124",
+  "amount": 8482.73,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "PL91136955252404757380340067",
+  "transactionType": "DEBIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:04.175Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c14ab2c2130a71671f0"
+  },
+  "clientId": "433-16-6140",
+  "reservationId": "266-12-9396",
+  "amount": 5930.36,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "IE66CBVE74501977205717",
+  "transactionType": "DEBIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:04.618Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c15ab2c2130a71671f1"
+  },
+  "clientId": "516-55-0256",
+  "reservationId": "620-92-9441",
+  "amount": 6476.55,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "GT91X6Ntx5a328R3J594V5AHcqSQ",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:05.039Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c15ab2c2130a71671f2"
+  },
+  "clientId": "458-01-3305",
+  "reservationId": "553-63-8606",
+  "amount": 78.94,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "SA6859jNCj2HWZck1a9sMo3o",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:05.473Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c15ab2c2130a71671f3"
+  },
+  "clientId": "811-98-0226",
+  "reservationId": "052-10-5672",
+  "amount": 6465.64,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "AL0876682085t95G4dc4k00P6HDv",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:05.873Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c16ab2c2130a71671f4"
+  },
+  "clientId": "705-31-4403",
+  "reservationId": "859-26-5651",
+  "amount": 2877.45,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "ME87175489345116609552",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:06.324Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c16ab2c2130a71671f5"
+  },
+  "clientId": "300-85-6833",
+  "reservationId": "579-83-5128",
+  "amount": 5650.89,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "PT32873276352569942740422",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:06.740Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c17ab2c2130a71671f6"
+  },
+  "clientId": "560-01-5598",
+  "reservationId": "454-86-5984",
+  "amount": 2423.01,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "LT780888148854375698",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:07.123Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c17ab2c2130a71671f7"
+  },
+  "clientId": "371-20-3798",
+  "reservationId": "188-02-1785",
+  "amount": 3148.3,
+  "currency": "USD",
+  "bankName": "Wells Fargo",
+  "accountNumber": "TR8200485115cc6bng05pTj4XJ",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:07.517Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c17ab2c2130a71671f8"
+  },
+  "clientId": "678-94-0043",
+  "reservationId": "853-37-4617",
+  "amount": 3690.03,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "SK3870579614979320304743",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:07.874Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c18ab2c2130a71671f9"
+  },
+  "clientId": "282-55-7582",
+  "reservationId": "885-22-3597",
+  "amount": 9887.29,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "GR0486250035006nnr62yNNj43e",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:08.242Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c18ab2c2130a71671fa"
+  },
+  "clientId": "119-27-5647",
+  "reservationId": "186-29-2725",
+  "amount": 7678.91,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "NL58MQRC8595941254",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:08.652Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c19ab2c2130a71671fb"
+  },
+  "clientId": "492-81-6652",
+  "reservationId": "893-99-4565",
+  "amount": 329.47,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "XK969631666821028588",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:09.108Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c19ab2c2130a71671fc"
+  },
+  "clientId": "003-96-1555",
+  "reservationId": "545-11-2431",
+  "amount": 2599.37,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "SA7876CWl3Zo8q5F4g83RHyR",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:09.490Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c19ab2c2130a71671fd"
+  },
+  "clientId": "630-15-9616",
+  "reservationId": "398-23-9463",
+  "amount": 6489.46,
+  "currency": "USD",
+  "bankName": "Wells Fargo",
+  "accountNumber": "VG27ODSI1715333573126303",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:09.869Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1aab2c2130a71671fe"
+  },
+  "clientId": "216-47-0927",
+  "reservationId": "857-57-4627",
+  "amount": 7890.74,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "RS84368178314801616282",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:10.277Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1aab2c2130a71671ff"
+  },
+  "clientId": "681-53-0592",
+  "reservationId": "638-51-0393",
+  "amount": 2692.41,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "GI13NFYOM46029g8iidLLeH",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:10.646Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1bab2c2130a7167200"
+  },
+  "clientId": "673-31-7010",
+  "reservationId": "445-28-1462",
+  "amount": 9016.56,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "ES4780104724379431930311",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:11.005Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1bab2c2130a7167201"
+  },
+  "clientId": "832-57-7184",
+  "reservationId": "652-10-3013",
+  "amount": 3779.44,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "PT86768125524525132084760",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:11.420Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1bab2c2130a7167202"
+  },
+  "clientId": "549-56-3034",
+  "reservationId": "843-94-1969",
+  "amount": 9464.9,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "MD16sqPSGxSwe6Wt2XKdW89B",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:11.802Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1cab2c2130a7167203"
+  },
+  "clientId": "549-49-2839",
+  "reservationId": "107-90-3659",
+  "amount": 2187.43,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "BR8010410670708663699251118IJ",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:12.189Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1cab2c2130a7167204"
+  },
+  "clientId": "025-35-3130",
+  "reservationId": "160-93-0271",
+  "amount": 546.13,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "AE959828155439852477216",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:12.567Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1cab2c2130a7167205"
+  },
+  "clientId": "180-56-3257",
+  "reservationId": "713-81-6871",
+  "amount": 3977.58,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "XK150674466189475764",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:12.958Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1dab2c2130a7167206"
+  },
+  "clientId": "468-18-9411",
+  "reservationId": "198-89-6143",
+  "amount": 1092.65,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "PS80ESURTC9j5tq079JveX1v8P2HC",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:13.352Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1dab2c2130a7167207"
+  },
+  "clientId": "120-59-0756",
+  "reservationId": "517-69-1208",
+  "amount": 4848.97,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "BR6120003875148704353407021TI",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:13.763Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1eab2c2130a7167208"
+  },
+  "clientId": "245-49-9222",
+  "reservationId": "088-80-9669",
+  "amount": 8759.89,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "SE8022115369127149937219",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:14.138Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1eab2c2130a7167209"
+  },
+  "clientId": "899-31-9203",
+  "reservationId": "247-86-4264",
+  "amount": 727.12,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "HR0485391120430845577",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:14.477Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1eab2c2130a716720a"
+  },
+  "clientId": "513-98-1398",
+  "reservationId": "553-74-3999",
+  "amount": 4375.35,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "LB294524ZVUZ5658TY2gshvT9qz7",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:14.908Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1fab2c2130a716720b"
+  },
+  "clientId": "046-41-1483",
+  "reservationId": "811-34-0886",
+  "amount": 540.59,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "IT74S9316322678nLt6m8UuuY6Z",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:15.320Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c1fab2c2130a716720c"
+  },
+  "clientId": "145-43-4517",
+  "reservationId": "130-08-7245",
+  "amount": 5094.14,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "FR739994501823e5mw75I8Rov46",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:15.731Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c20ab2c2130a716720d"
+  },
+  "clientId": "377-15-6321",
+  "reservationId": "797-69-5893",
+  "amount": 4749.03,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "NO3698110739214",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:16.109Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c20ab2c2130a716720e"
+  },
+  "clientId": "139-18-3354",
+  "reservationId": "191-54-8544",
+  "amount": 588.83,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "HU32570870849415108473103588",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:16.535Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c20ab2c2130a716720f"
+  },
+  "clientId": "539-77-8527",
+  "reservationId": "379-84-6054",
+  "amount": 7783.39,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "ST94154483523745408548746",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:16.864Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c21ab2c2130a7167210"
+  },
+  "clientId": "120-14-2789",
+  "reservationId": "006-90-9840",
+  "amount": 438.38,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "MU17BNUD8214177006982950832STE",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:17.216Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c21ab2c2130a7167211"
+  },
+  "clientId": "256-23-0578",
+  "reservationId": "283-45-4654",
+  "amount": 6988.07,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "AT317576043620099210",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:17.578Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c21ab2c2130a7167212"
+  },
+  "clientId": "584-75-0080",
+  "reservationId": "376-12-5806",
+  "amount": 826.95,
+  "currency": "USD",
+  "bankName": "Wells Fargo",
+  "accountNumber": "NL35OHOB6695546641",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:17.969Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c22ab2c2130a7167213"
+  },
+  "clientId": "547-53-9505",
+  "reservationId": "864-69-3784",
+  "amount": 5679,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "SE9289767555636415711839",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:18.309Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c22ab2c2130a7167214"
+  },
+  "clientId": "624-83-2679",
+  "reservationId": "269-62-7460",
+  "amount": 4871.99,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "PT26420930079371369239996",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:18.655Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c23ab2c2130a7167215"
+  },
+  "clientId": "505-17-0724",
+  "reservationId": "543-60-3194",
+  "amount": 357.02,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "KZ37982d3K0t45hj6m9k",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:19.021Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c23ab2c2130a7167216"
+  },
+  "clientId": "035-53-4789",
+  "reservationId": "457-89-0298",
+  "amount": 6537.29,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "IL218725472602747689148",
+  "transactionType": "DEBIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:19.369Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c23ab2c2130a7167217"
+  },
+  "clientId": "042-61-7427",
+  "reservationId": "630-25-2653",
+  "amount": 7037.42,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "BH66IPFOC6Q7y16eVxfpt4",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:19.717Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c24ab2c2130a7167218"
+  },
+  "clientId": "447-72-4842",
+  "reservationId": "803-78-6035",
+  "amount": 5303.9,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "HR2524637813488653376",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:20.052Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c24ab2c2130a7167219"
+  },
+  "clientId": "716-19-9128",
+  "reservationId": "438-37-3681",
+  "amount": 8490.24,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "NL07OLGO1318463634",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:20.484Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c24ab2c2130a716721a"
+  },
+  "clientId": "175-42-0864",
+  "reservationId": "018-95-6705",
+  "amount": 3902.31,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "SA2334BVGH3yzZ69M6O7hU58",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:20.947Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c25ab2c2130a716721b"
+  },
+  "clientId": "764-41-3880",
+  "reservationId": "689-57-4296",
+  "amount": 2895.93,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "AD828952203539r7V9R172zk",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:21.338Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c25ab2c2130a716721c"
+  },
+  "clientId": "012-38-3785",
+  "reservationId": "747-52-0834",
+  "amount": 6831.34,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "IL577293489628191538171",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:21.782Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c26ab2c2130a716721d"
+  },
+  "clientId": "719-40-6641",
+  "reservationId": "608-81-6569",
+  "amount": 3762.63,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "LT889869469246396600",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:22.260Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c26ab2c2130a716721e"
+  },
+  "clientId": "587-99-7565",
+  "reservationId": "771-48-3235",
+  "amount": 4215.57,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "MK51920D45r22ktuW24",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:22.586Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c26ab2c2130a716721f"
+  },
+  "clientId": "578-39-1826",
+  "reservationId": "322-02-1662",
+  "amount": 4168.01,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "LI64848576aM3HuQunM15",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "PENDING",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:22.946Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c27ab2c2130a7167220"
+  },
+  "clientId": "683-02-9385",
+  "reservationId": "059-06-1049",
+  "amount": 6374.26,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "PL76340302479255134160706317",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:23.335Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c27ab2c2130a7167221"
+  },
+  "clientId": "517-24-3571",
+  "reservationId": "686-70-9703",
+  "amount": 2209.51,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "DK4691658667052826",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:23.684Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c28ab2c2130a7167222"
+  },
+  "clientId": "197-63-8677",
+  "reservationId": "002-32-8946",
+  "amount": 1809.31,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "EE278730692373047493",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:24.051Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c28ab2c2130a7167223"
+  },
+  "clientId": "805-98-4319",
+  "reservationId": "146-67-7123",
+  "amount": 1581.05,
+  "currency": "USD",
+  "bankName": "BNP Paribas",
+  "accountNumber": "SM20F7180599980kdZfq4i9HzSQ",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:24.399Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c28ab2c2130a7167224"
+  },
+  "clientId": "232-88-2564",
+  "reservationId": "850-88-7239",
+  "amount": 3930.11,
+  "currency": "USD",
+  "bankName": "Goldman Sachs",
+  "accountNumber": "ES1222444186029125244924",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:24.766Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c29ab2c2130a7167225"
+  },
+  "clientId": "479-65-7635",
+  "reservationId": "868-74-9534",
+  "amount": 14.1,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "NO1949684976530",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:25.115Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c29ab2c2130a7167226"
+  },
+  "clientId": "448-61-5108",
+  "reservationId": "351-57-5569",
+  "amount": 275.86,
+  "currency": "USD",
+  "bankName": "Royal Bank of Canada",
+  "accountNumber": "DO838Ynm94911762908189114251",
+  "transactionType": "DEBIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:25.484Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c29ab2c2130a7167227"
+  },
+  "clientId": "317-23-3132",
+  "reservationId": "369-52-3632",
+  "amount": 2545.03,
+  "currency": "USD",
+  "bankName": "JPMorgan Chase",
+  "accountNumber": "GT74oe4Pe2od0TBg91y7K43KlovM",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:25.828Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c2aab2c2130a7167228"
+  },
+  "clientId": "673-27-0631",
+  "reservationId": "163-96-6166",
+  "amount": 8301.2,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "RO94GYISb8qazkh8249Lnfhe",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:26.208Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c2aab2c2130a7167229"
+  },
+  "clientId": "707-05-2754",
+  "reservationId": "437-73-0062",
+  "amount": 3200.2,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "SI66968603524422432",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:26.606Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c2aab2c2130a716722a"
+  },
+  "clientId": "561-21-2389",
+  "reservationId": "750-51-9498",
+  "amount": 8837.87,
+  "currency": "USD",
+  "bankName": "HSBC",
+  "accountNumber": "BR9320032900319318176946990Pa",
+  "transactionType": "DEBIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "FAILED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:26.939Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c2bab2c2130a716722b"
+  },
+  "clientId": "440-10-5956",
+  "reservationId": "721-19-7015",
+  "amount": 2809.13,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "PS71ZPFL5iS6G87bk9L2nOqkjrHep",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:27.304Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c2bab2c2130a716722c"
+  },
+  "clientId": "243-49-8428",
+  "reservationId": "497-35-8985",
+  "amount": 5546.13,
+  "currency": "USD",
+  "bankName": "Citigroup",
+  "accountNumber": "DK2922142326565908",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:27.635Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c2cab2c2130a716722d"
+  },
+  "clientId": "100-24-3243",
+  "reservationId": "642-79-5209",
+  "amount": 9186.98,
+  "currency": "USD",
+  "bankName": "Barclays",
+  "accountNumber": "PK04CERCA3r7J9n2p45lZfOX",
+  "transactionType": "CREDIT",
+  "transactionMode": "UPI",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:28.007Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c2cab2c2130a716722e"
+  },
+  "clientId": "887-32-6518",
+  "reservationId": "443-18-4139",
+  "amount": 5817.33,
+  "currency": "USD",
+  "bankName": "Morgan Stanley",
+  "accountNumber": "DO51DWfR27015224108020377131",
+  "transactionType": "CREDIT",
+  "transactionMode": "CARD",
+  "transactionStatus": "COMPLETED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:28.650Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+},
+{
+  "_id": {
+    "$oid": "64886c2dab2c2130a716722f"
+  },
+  "clientId": "065-82-3190",
+  "reservationId": "378-18-8473",
+  "amount": 3950.95,
+  "currency": "USD",
+  "bankName": "Bank of America",
+  "accountNumber": "CR7217910189025188334",
+  "transactionType": "CREDIT",
+  "transactionMode": "NET_BANKING",
+  "transactionStatus": "REVERSED",
+  "transactionDateTime": {
+    "$date": "2023-06-13T13:16:29.109Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Transaction"
+}]

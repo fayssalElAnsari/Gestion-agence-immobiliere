@@ -1,0 +1,2020 @@
+[{
+  "_id": {
+    "$oid": "6488603a01b103077d0e2c90"
+  },
+  "email": "andy.schuster@hotmail.com",
+  "password": "olphr5901vaf",
+  "phoneNumber": "657.730.3991",
+  "countryOfOrigin": "Syrian Arab Republic",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/720/348/city/",
+  "reservations": [
+    "151-42-2965",
+    "484-58-2562"
+  ],
+  "transactions": [
+    "676-20-2256",
+    "768-10-5030"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9cab2c2130a7167104"
+  },
+  "email": "lesia.lemke@yahoo.com",
+  "password": "4immjbjo",
+  "phoneNumber": "1-936-309-3816",
+  "countryOfOrigin": "Aruba",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1680/1050/people/",
+  "reservations": [
+    "139-76-1113",
+    "742-19-3255"
+  ],
+  "transactions": [
+    "213-70-6542",
+    "763-34-9541"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9cab2c2130a7167105"
+  },
+  "email": "zora.volkman@gmail.com",
+  "password": "x5ia57rvc",
+  "phoneNumber": "1-608-754-5716",
+  "countryOfOrigin": "El Salvador",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1600/1200/abstract/",
+  "reservations": [
+    "591-73-3476",
+    "032-58-4166"
+  ],
+  "transactions": [
+    "298-75-1986",
+    "874-76-1900"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9dab2c2130a7167106"
+  },
+  "email": "leopoldo.monahan@yahoo.com",
+  "password": "45gqkkp5bc27",
+  "phoneNumber": "347.510.9555 x3289",
+  "countryOfOrigin": "Tajikistan",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/200/technics/",
+  "reservations": [
+    "546-43-6122",
+    "141-26-9595"
+  ],
+  "transactions": [
+    "885-43-3549",
+    "170-17-2922"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9dab2c2130a7167107"
+  },
+  "email": "martha.harber@yahoo.com",
+  "password": "02ndwp2v5v9st",
+  "phoneNumber": "409-337-8418",
+  "countryOfOrigin": "Mozambique",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/480/city/",
+  "reservations": [
+    "267-21-9324",
+    "217-60-8719"
+  ],
+  "transactions": [
+    "690-63-1450",
+    "344-80-8166"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9dab2c2130a7167108"
+  },
+  "email": "cari.borer@yahoo.com",
+  "password": "3edhqy68",
+  "phoneNumber": "732-910-0591 x0216",
+  "countryOfOrigin": "Jordan",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/480/nature/",
+  "reservations": [
+    "605-16-1022",
+    "793-32-1389"
+  ],
+  "transactions": [
+    "735-86-4825",
+    "063-14-2797"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9eab2c2130a7167109"
+  },
+  "email": "devin.hand@gmail.com",
+  "password": "0j0mo8cmd",
+  "phoneNumber": "786.308.4181",
+  "countryOfOrigin": "Cook Islands",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/720/348/city/",
+  "reservations": [
+    "471-18-5120",
+    "077-57-3355"
+  ],
+  "transactions": [
+    "606-68-4654",
+    "448-15-3062"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9eab2c2130a716710a"
+  },
+  "email": "armando.rau@gmail.com",
+  "password": "rloivt86l",
+  "phoneNumber": "435-301-2761 x8217",
+  "countryOfOrigin": "Republic of Korea",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/720/348/city/",
+  "reservations": [
+    "828-18-9956",
+    "786-86-5064"
+  ],
+  "transactions": [
+    "346-70-7225",
+    "095-89-0859"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9fab2c2130a716710b"
+  },
+  "email": "ronald.kling@hotmail.com",
+  "password": "8oa87fn7ep",
+  "phoneNumber": "318.903.5122",
+  "countryOfOrigin": "San Marino",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/640/200/food/",
+  "reservations": [
+    "713-09-9814",
+    "792-62-3395"
+  ],
+  "transactions": [
+    "573-27-9938",
+    "138-93-9517"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886b9fab2c2130a716710c"
+  },
+  "email": "byron.feest@hotmail.com",
+  "password": "wpd87jjyx4",
+  "phoneNumber": "770-440-1750",
+  "countryOfOrigin": "China",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/720/348/nature/",
+  "reservations": [
+    "249-03-7567",
+    "186-23-6800"
+  ],
+  "transactions": [
+    "262-74-9838",
+    "701-18-8052"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba0ab2c2130a716710d"
+  },
+  "email": "mauro.bauch@yahoo.com",
+  "password": "0uokuun9c0f20ez",
+  "phoneNumber": "770.202.7019 x8204",
+  "countryOfOrigin": "Guinea-Bissau",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1280/1024/fashion/",
+  "reservations": [
+    "401-32-7674",
+    "591-13-1478"
+  ],
+  "transactions": [
+    "326-02-9670",
+    "188-37-8777"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba0ab2c2130a716710e"
+  },
+  "email": "felipe.aufderhar@yahoo.com",
+  "password": "1i3c3nr0dycd0",
+  "phoneNumber": "619-479-8216",
+  "countryOfOrigin": "Greenland",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1600/1200/abstract/",
+  "reservations": [
+    "479-18-8397",
+    "499-70-3388"
+  ],
+  "transactions": [
+    "213-20-6318",
+    "077-05-6899"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba0ab2c2130a716710f"
+  },
+  "email": "enoch.walsh@yahoo.com",
+  "password": "tzk91jpk",
+  "phoneNumber": "(719) 609-7231 x3199",
+  "countryOfOrigin": "Sweden",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/640/200/animals/",
+  "reservations": [
+    "292-54-5514",
+    "371-81-5217"
+  ],
+  "transactions": [
+    "346-02-9696",
+    "867-12-8831"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba1ab2c2130a7167110"
+  },
+  "email": "dustin.barton@gmail.com",
+  "password": "3kxgjnpbms",
+  "phoneNumber": "1-713-940-6303",
+  "countryOfOrigin": "Saint Helena",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/350/technics/",
+  "reservations": [
+    "120-22-8414",
+    "241-78-2778"
+  ],
+  "transactions": [
+    "508-97-5423",
+    "799-25-6729"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba1ab2c2130a7167111"
+  },
+  "email": "aisha.marks@hotmail.com",
+  "password": "c2a4q68j",
+  "phoneNumber": "262-509-2582 x3510",
+  "countryOfOrigin": "Jamaica",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1280/1024/cats/",
+  "reservations": [
+    "058-16-6058",
+    "715-34-2365"
+  ],
+  "transactions": [
+    "591-91-8176",
+    "875-02-4495"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba2ab2c2130a7167112"
+  },
+  "email": "cyrstal.graham@yahoo.com",
+  "password": "0co63eigg4a",
+  "phoneNumber": "(940) 949-4748",
+  "countryOfOrigin": "Central African Republic",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1024/768/abstract/",
+  "reservations": [
+    "507-89-4733",
+    "272-60-4438"
+  ],
+  "transactions": [
+    "184-55-1516",
+    "033-70-2123"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba2ab2c2130a7167113"
+  },
+  "email": "ebony.collier@yahoo.com",
+  "password": "xskzq0pvxo",
+  "phoneNumber": "1-858-504-0612 x8287",
+  "countryOfOrigin": "Bahrain",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1366/768/sports/",
+  "reservations": [
+    "495-85-3959",
+    "214-75-5064"
+  ],
+  "transactions": [
+    "242-66-3270",
+    "216-42-1533"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba2ab2c2130a7167114"
+  },
+  "email": "tina.schiller@gmail.com",
+  "password": "p8mkxi7aeef",
+  "phoneNumber": "860-817-2650 x7552",
+  "countryOfOrigin": "Norfolk Island",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/food/",
+  "reservations": [
+    "467-42-7728",
+    "547-39-5382"
+  ],
+  "transactions": [
+    "076-27-1245",
+    "579-80-7631"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba3ab2c2130a7167115"
+  },
+  "email": "antoine.ullrich@yahoo.com",
+  "password": "ukrgkuxq7m9gst7",
+  "phoneNumber": "908-754-2344",
+  "countryOfOrigin": "Slovakia (Slovak Republic)",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1366/768/abstract/",
+  "reservations": [
+    "688-71-2489",
+    "248-71-2939"
+  ],
+  "transactions": [
+    "702-21-0570",
+    "626-13-7790"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba3ab2c2130a7167116"
+  },
+  "email": "lonnie.dach@gmail.com",
+  "password": "sg86vcfrw3",
+  "phoneNumber": "1-703-302-6447",
+  "countryOfOrigin": "Chile",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1024/768/food/",
+  "reservations": [
+    "598-42-7763",
+    "435-56-3927"
+  ],
+  "transactions": [
+    "377-25-5676",
+    "226-01-8348"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba3ab2c2130a7167117"
+  },
+  "email": "malik.fritsch@hotmail.com",
+  "password": "vynmprvefzy",
+  "phoneNumber": "606-978-2579",
+  "countryOfOrigin": "Virgin Islands, British",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/200/technics/",
+  "reservations": [
+    "725-02-3369",
+    "820-26-1937"
+  ],
+  "transactions": [
+    "191-31-2553",
+    "000-66-5036"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba4ab2c2130a7167118"
+  },
+  "email": "suzi.gaylord@gmail.com",
+  "password": "1z4ryr64z3rv",
+  "phoneNumber": "1-708-620-5583",
+  "countryOfOrigin": "Saint Barthelemy",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1366/768/animals/",
+  "reservations": [
+    "231-35-2758",
+    "761-25-7539"
+  ],
+  "transactions": [
+    "846-17-4578",
+    "270-88-8497"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba4ab2c2130a7167119"
+  },
+  "email": "mallory.mayer@gmail.com",
+  "password": "9j25jnljmgmja5v",
+  "phoneNumber": "1-802-214-3569 x0037",
+  "countryOfOrigin": "Djibouti",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/320/200/business/",
+  "reservations": [
+    "680-91-2616",
+    "584-33-0373"
+  ],
+  "transactions": [
+    "344-52-4458",
+    "257-82-3221"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba4ab2c2130a716711a"
+  },
+  "email": "jayna.hilll@hotmail.com",
+  "password": "9f1wzc0ih3j4e2",
+  "phoneNumber": "1-707-712-3551 x4714",
+  "countryOfOrigin": "Gibraltar",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/200/people/",
+  "reservations": [
+    "872-42-9266",
+    "461-64-3856"
+  ],
+  "transactions": [
+    "600-95-6761",
+    "705-96-9216"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba5ab2c2130a716711b"
+  },
+  "email": "santiago.cummerata@hotmail.com",
+  "password": "5dek9x8m1kgubi0",
+  "phoneNumber": "563-631-1896 x9119",
+  "countryOfOrigin": "Comoros",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/720/348/business/",
+  "reservations": [
+    "568-72-3516",
+    "768-83-5713"
+  ],
+  "transactions": [
+    "353-38-5152",
+    "407-30-3679"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba5ab2c2130a716711c"
+  },
+  "email": "taylor.dickinson@gmail.com",
+  "password": "8jnk5x2i0xf",
+  "phoneNumber": "918-925-9893 x5578",
+  "countryOfOrigin": "Chile",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1280/1024/business/",
+  "reservations": [
+    "823-23-5596",
+    "025-30-3546"
+  ],
+  "transactions": [
+    "339-86-9185",
+    "409-82-4068"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba6ab2c2130a716711d"
+  },
+  "email": "stuart.mills@gmail.com",
+  "password": "o6koucn3op",
+  "phoneNumber": "708-805-5869 x1672",
+  "countryOfOrigin": "El Salvador",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/640/200/business/",
+  "reservations": [
+    "784-36-5876",
+    "094-22-3362"
+  ],
+  "transactions": [
+    "842-53-6977",
+    "326-53-2729"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba6ab2c2130a716711e"
+  },
+  "email": "nell.ruecker@yahoo.com",
+  "password": "p1p53pe8r1fjp",
+  "phoneNumber": "(302) 540-4733",
+  "countryOfOrigin": "Brunei Darussalam",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/320/200/cats/",
+  "reservations": [
+    "059-89-4150",
+    "080-95-3167"
+  ],
+  "transactions": [
+    "701-22-2081",
+    "829-98-3691"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba6ab2c2130a716711f"
+  },
+  "email": "dustin.hessel@yahoo.com",
+  "password": "ehrk0los",
+  "phoneNumber": "1-682-806-0386",
+  "countryOfOrigin": "Papua New Guinea",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1680/1050/nature/",
+  "reservations": [
+    "171-88-9755",
+    "274-20-5331"
+  ],
+  "transactions": [
+    "855-62-6204",
+    "814-16-8275"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba7ab2c2130a7167120"
+  },
+  "email": "ward.conn@hotmail.com",
+  "password": "mzw11fp79",
+  "phoneNumber": "(561) 904-6495 x2861",
+  "countryOfOrigin": "Burundi",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1920/1200/transport/",
+  "reservations": [
+    "124-05-9731",
+    "135-68-5618"
+  ],
+  "transactions": [
+    "772-17-5637",
+    "713-37-7587"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba7ab2c2130a7167121"
+  },
+  "email": "merlyn.effertz@hotmail.com",
+  "password": "ibu4xgl2dcrqc",
+  "phoneNumber": "703.283.2002",
+  "countryOfOrigin": "Tuvalu",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/480/transport/",
+  "reservations": [
+    "512-14-9733",
+    "332-34-0528"
+  ],
+  "transactions": [
+    "345-44-8600",
+    "176-51-0317"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba7ab2c2130a7167122"
+  },
+  "email": "fredrick.robel@yahoo.com",
+  "password": "odlp8vfhh",
+  "phoneNumber": "574.971.7350",
+  "countryOfOrigin": "Panama",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/480/cats/",
+  "reservations": [
+    "623-96-9624",
+    "654-13-1352"
+  ],
+  "transactions": [
+    "088-46-5087",
+    "040-89-5045"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba8ab2c2130a7167123"
+  },
+  "email": "terrell.ondricka@hotmail.com",
+  "password": "loq98wlruz9y",
+  "phoneNumber": "1-507-765-6558",
+  "countryOfOrigin": "French Southern Territories",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1024/768/sports/",
+  "reservations": [
+    "462-51-1897",
+    "364-56-0020"
+  ],
+  "transactions": [
+    "819-41-1261",
+    "532-12-4371"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba8ab2c2130a7167124"
+  },
+  "email": "dong.bauch@yahoo.com",
+  "password": "5667o7k6",
+  "phoneNumber": "937-831-3095",
+  "countryOfOrigin": "Jamaica",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/200/fashion/",
+  "reservations": [
+    "671-22-7750",
+    "413-89-5253"
+  ],
+  "transactions": [
+    "290-69-3369",
+    "112-79-2938"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba9ab2c2130a7167125"
+  },
+  "email": "dione.dibbert@hotmail.com",
+  "password": "ikikvckz3",
+  "phoneNumber": "1-956-609-0423",
+  "countryOfOrigin": "Guam",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/720/348/cats/",
+  "reservations": [
+    "172-14-6137",
+    "191-06-5627"
+  ],
+  "transactions": [
+    "210-05-5087",
+    "892-92-9652"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba9ab2c2130a7167126"
+  },
+  "email": "tyler.block@hotmail.com",
+  "password": "0r5638xlylsya6d",
+  "phoneNumber": "662-870-8771",
+  "countryOfOrigin": "Denmark",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/640/350/city/",
+  "reservations": [
+    "809-49-7259",
+    "409-59-5306"
+  ],
+  "transactions": [
+    "761-31-4704",
+    "336-88-0926"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886ba9ab2c2130a7167127"
+  },
+  "email": "shawn.kuvalis@hotmail.com",
+  "password": "nlsw8vx8",
+  "phoneNumber": "947-574-0324 x7455",
+  "countryOfOrigin": "Chile",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1366/768/cats/",
+  "reservations": [
+    "348-79-2173",
+    "598-38-6463"
+  ],
+  "transactions": [
+    "230-02-1906",
+    "525-29-7529"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886baaab2c2130a7167128"
+  },
+  "email": "harrison.durgan@hotmail.com",
+  "password": "66tgsw3nt0ehwj6",
+  "phoneNumber": "1-734-512-7734",
+  "countryOfOrigin": "Saint Lucia",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1024/768/fashion/",
+  "reservations": [
+    "313-82-0028",
+    "712-03-8486"
+  ],
+  "transactions": [
+    "543-93-1455",
+    "865-34-8242"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886baaab2c2130a7167129"
+  },
+  "email": "kendall.purdy@hotmail.com",
+  "password": "9fnyxnp0u",
+  "phoneNumber": "860-562-6477 x7796",
+  "countryOfOrigin": "Saint Pierre and Miquelon",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/320/200/city/",
+  "reservations": [
+    "879-16-2470",
+    "175-47-9819"
+  ],
+  "transactions": [
+    "467-57-4558",
+    "624-27-0343"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886babab2c2130a716712a"
+  },
+  "email": "leif.mcdermott@hotmail.com",
+  "password": "ebtuxzxn",
+  "phoneNumber": "(423) 732-6762 x1765",
+  "countryOfOrigin": "Qatar",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1280/1024/technics/",
+  "reservations": [
+    "211-03-7573",
+    "226-41-4976"
+  ],
+  "transactions": [
+    "057-59-1015",
+    "871-13-3997"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886babab2c2130a716712b"
+  },
+  "email": "edwardo.rolfson@gmail.com",
+  "password": "yu47yd28h",
+  "phoneNumber": "(724) 903-0437 x7345",
+  "countryOfOrigin": "Turkmenistan",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/320/200/animals/",
+  "reservations": [
+    "684-10-2775",
+    "344-93-1461"
+  ],
+  "transactions": [
+    "610-86-9521",
+    "804-45-6192"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886babab2c2130a716712c"
+  },
+  "email": "alfredo.bosco@yahoo.com",
+  "password": "341722a4q",
+  "phoneNumber": "(760) 212-6678",
+  "countryOfOrigin": "Guinea-Bissau",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/320/200/food/",
+  "reservations": [
+    "031-04-8817",
+    "868-24-1479"
+  ],
+  "transactions": [
+    "594-60-4504",
+    "672-18-3105"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bacab2c2130a716712d"
+  },
+  "email": "cassy.schuster@yahoo.com",
+  "password": "dzujrirjd",
+  "phoneNumber": "(812) 972-3386 x6213",
+  "countryOfOrigin": "Norway",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/fashion/",
+  "reservations": [
+    "831-78-7484",
+    "856-35-3878"
+  ],
+  "transactions": [
+    "408-36-6469",
+    "843-51-0978"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bacab2c2130a716712e"
+  },
+  "email": "chia.padberg@yahoo.com",
+  "password": "aitrgqbc",
+  "phoneNumber": "231-850-1349",
+  "countryOfOrigin": "Bahrain",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1024/768/fashion/",
+  "reservations": [
+    "481-79-6712",
+    "891-49-5361"
+  ],
+  "transactions": [
+    "026-01-5649",
+    "010-59-7536"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886badab2c2130a716712f"
+  },
+  "email": "grisel.howell@hotmail.com",
+  "password": "mofb87vpznn",
+  "phoneNumber": "401.262.8356",
+  "countryOfOrigin": "Saint Martin",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1680/1050/technics/",
+  "reservations": [
+    "813-39-7789",
+    "096-27-5721"
+  ],
+  "transactions": [
+    "110-79-0343",
+    "394-23-2589"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886badab2c2130a7167130"
+  },
+  "email": "jeff.friesen@hotmail.com",
+  "password": "qcg8z1skuj",
+  "phoneNumber": "979.865.9433",
+  "countryOfOrigin": "Syrian Arab Republic",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1600/1200/nature/",
+  "reservations": [
+    "042-51-8717",
+    "250-24-7024"
+  ],
+  "transactions": [
+    "521-88-7375",
+    "670-58-1463"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886badab2c2130a7167131"
+  },
+  "email": "myrta.hagenes@gmail.com",
+  "password": "hjg3chkwx",
+  "phoneNumber": "808-251-4585 x4071",
+  "countryOfOrigin": "Tuvalu",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/640/480/city/",
+  "reservations": [
+    "540-63-6589",
+    "867-84-3271"
+  ],
+  "transactions": [
+    "775-81-8692",
+    "187-82-7060"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886baeab2c2130a7167132"
+  },
+  "email": "heriberto.corwin@gmail.com",
+  "password": "0y4iamr7",
+  "phoneNumber": "1-501-980-1959",
+  "countryOfOrigin": "Yemen",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/720/348/nightlife/",
+  "reservations": [
+    "896-46-6205",
+    "303-03-0432"
+  ],
+  "transactions": [
+    "542-50-4975",
+    "296-91-5594"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886baeab2c2130a7167133"
+  },
+  "email": "ty.mayert@hotmail.com",
+  "password": "qvksrd4ps9phf",
+  "phoneNumber": "(409) 970-0375 x3121",
+  "countryOfOrigin": "Pakistan",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1024/768/nature/",
+  "reservations": [
+    "859-81-5758",
+    "422-47-9521"
+  ],
+  "transactions": [
+    "429-49-5293",
+    "108-71-2411"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bafab2c2130a7167134"
+  },
+  "email": "stan.wintheiser@gmail.com",
+  "password": "q5r1q68vt1",
+  "phoneNumber": "1-281-662-2925",
+  "countryOfOrigin": "Barbados",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/abstract/",
+  "reservations": [
+    "127-48-0729",
+    "393-56-4556"
+  ],
+  "transactions": [
+    "034-40-5415",
+    "818-01-3753"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bafab2c2130a7167135"
+  },
+  "email": "brain.schroeder@gmail.com",
+  "password": "zieri8vrs06",
+  "phoneNumber": "304.540.1806 x9437",
+  "countryOfOrigin": "Zambia",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/350/people/",
+  "reservations": [
+    "655-54-4686",
+    "607-77-2808"
+  ],
+  "transactions": [
+    "598-34-7866",
+    "218-43-5737"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb0ab2c2130a7167136"
+  },
+  "email": "cecelia.bernier@hotmail.com",
+  "password": "8gh6ijktzpx",
+  "phoneNumber": "480.667.8604",
+  "countryOfOrigin": "Germany",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1024/768/transport/",
+  "reservations": [
+    "429-02-9729",
+    "664-86-4709"
+  ],
+  "transactions": [
+    "029-04-4249",
+    "095-33-1160"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb0ab2c2130a7167137"
+  },
+  "email": "shana.hintz@hotmail.com",
+  "password": "yo6xtyn4u83c65",
+  "phoneNumber": "614-207-3900 x1951",
+  "countryOfOrigin": "Kuwait",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/720/348/abstract/",
+  "reservations": [
+    "104-79-1078",
+    "502-93-1930"
+  ],
+  "transactions": [
+    "830-85-5658",
+    "412-21-7334"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb0ab2c2130a7167138"
+  },
+  "email": "nakia.skiles@gmail.com",
+  "password": "erojf4gnphk",
+  "phoneNumber": "213.606.3204 x7649",
+  "countryOfOrigin": "Mauritania",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/480/people/",
+  "reservations": [
+    "210-97-8051",
+    "514-57-6003"
+  ],
+  "transactions": [
+    "591-59-4617",
+    "557-31-2006"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb1ab2c2130a7167139"
+  },
+  "email": "lindsy.beer@gmail.com",
+  "password": "ndlxgcm0tdl8vui",
+  "phoneNumber": "901-224-6888 x5678",
+  "countryOfOrigin": "Slovenia",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/720/348/city/",
+  "reservations": [
+    "532-78-4490",
+    "873-14-7158"
+  ],
+  "transactions": [
+    "672-89-4334",
+    "661-62-7785"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb1ab2c2130a716713a"
+  },
+  "email": "cherilyn.dickinson@yahoo.com",
+  "password": "kmw6ttv0wdl61",
+  "phoneNumber": "339.810.4009 x2302",
+  "countryOfOrigin": "Dominica",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1024/768/animals/",
+  "reservations": [
+    "821-31-9678",
+    "103-48-6525"
+  ],
+  "transactions": [
+    "212-46-9405",
+    "284-64-8209"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb2ab2c2130a716713b"
+  },
+  "email": "enoch.lesch@yahoo.com",
+  "password": "ohd0immt",
+  "phoneNumber": "843.231.7437",
+  "countryOfOrigin": "Philippines",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/320/200/nature/",
+  "reservations": [
+    "206-16-3294",
+    "782-46-5976"
+  ],
+  "transactions": [
+    "190-33-4304",
+    "022-01-9402"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb2ab2c2130a716713c"
+  },
+  "email": "catherin.thompson@yahoo.com",
+  "password": "i2g7smxdh2ctalb",
+  "phoneNumber": "1-218-217-8222 x4505",
+  "countryOfOrigin": "India",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1920/1200/sports/",
+  "reservations": [
+    "442-73-7509",
+    "535-28-9534"
+  ],
+  "transactions": [
+    "524-43-3201",
+    "472-32-0436"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb3ab2c2130a716713d"
+  },
+  "email": "jacelyn.powlowski@gmail.com",
+  "password": "35tyzihw3sx",
+  "phoneNumber": "(207) 856-0538",
+  "countryOfOrigin": "Norway",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/640/480/business/",
+  "reservations": [
+    "891-10-5991",
+    "796-92-5757"
+  ],
+  "transactions": [
+    "199-18-7806",
+    "444-18-0575"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb3ab2c2130a716713e"
+  },
+  "email": "elfriede.jast@yahoo.com",
+  "password": "ou7pafmtj0ck4",
+  "phoneNumber": "815-682-4138",
+  "countryOfOrigin": "Macedonia",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/nightlife/",
+  "reservations": [
+    "155-65-0724",
+    "446-09-9503"
+  ],
+  "transactions": [
+    "675-52-7016",
+    "084-58-6180"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb3ab2c2130a716713f"
+  },
+  "email": "lavelle.stokes@gmail.com",
+  "password": "j9tbetelnbe44k",
+  "phoneNumber": "510.228.6406 x8163",
+  "countryOfOrigin": "French Guiana",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1024/768/abstract/",
+  "reservations": [
+    "329-97-0998",
+    "723-62-7108"
+  ],
+  "transactions": [
+    "546-91-7586",
+    "341-55-8775"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb4ab2c2130a7167140"
+  },
+  "email": "roderick.labadie@yahoo.com",
+  "password": "azypg5u9sflw",
+  "phoneNumber": "1-513-210-1696",
+  "countryOfOrigin": "Haiti",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/350/city/",
+  "reservations": [
+    "797-05-8264",
+    "692-78-6865"
+  ],
+  "transactions": [
+    "679-73-6001",
+    "028-42-7729"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb4ab2c2130a7167141"
+  },
+  "email": "everette.kuhic@yahoo.com",
+  "password": "qt2ia7bnx",
+  "phoneNumber": "320-308-2221",
+  "countryOfOrigin": "Portugal",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/320/200/city/",
+  "reservations": [
+    "008-67-8096",
+    "214-96-8047"
+  ],
+  "transactions": [
+    "759-11-8308",
+    "271-13-0477"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb5ab2c2130a7167142"
+  },
+  "email": "dexter.predovic@yahoo.com",
+  "password": "186yakm6z7",
+  "phoneNumber": "209.772.1830 x9012",
+  "countryOfOrigin": "Poland",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/720/348/transport/",
+  "reservations": [
+    "482-15-0129",
+    "620-10-3383"
+  ],
+  "transactions": [
+    "871-51-0096",
+    "028-63-2929"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb5ab2c2130a7167143"
+  },
+  "email": "johnnie.marks@yahoo.com",
+  "password": "e63absxd85cf",
+  "phoneNumber": "(339) 612-9017",
+  "countryOfOrigin": "Panama",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1366/768/sports/",
+  "reservations": [
+    "711-35-8623",
+    "856-44-8454"
+  ],
+  "transactions": [
+    "012-83-0959",
+    "527-84-4542"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb6ab2c2130a7167144"
+  },
+  "email": "candi.gerlach@yahoo.com",
+  "password": "9kmo5t8akdeugl",
+  "phoneNumber": "1-901-915-7694 x3115",
+  "countryOfOrigin": "United Arab Emirates",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1920/1200/people/",
+  "reservations": [
+    "005-44-0187",
+    "554-19-7786"
+  ],
+  "transactions": [
+    "631-43-8039",
+    "842-36-6883"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb6ab2c2130a7167145"
+  },
+  "email": "lesia.gibson@yahoo.com",
+  "password": "dvcgr3b4rx44l",
+  "phoneNumber": "1-559-912-9384",
+  "countryOfOrigin": "French Southern Territories",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/640/480/animals/",
+  "reservations": [
+    "850-63-4235",
+    "149-09-8636"
+  ],
+  "transactions": [
+    "623-35-0754",
+    "790-10-8441"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb6ab2c2130a7167146"
+  },
+  "email": "mitch.ziemann@yahoo.com",
+  "password": "4uq8l2qwsfu4",
+  "phoneNumber": "727-206-3892 x3566",
+  "countryOfOrigin": "Faroe Islands",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1366/768/technics/",
+  "reservations": [
+    "203-30-8431",
+    "414-02-5840"
+  ],
+  "transactions": [
+    "534-23-5120",
+    "668-13-1365"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb7ab2c2130a7167147"
+  },
+  "email": "leon.waelchi@yahoo.com",
+  "password": "nwpe3fc5bm0x",
+  "phoneNumber": "(251) 678-2840 x5151",
+  "countryOfOrigin": "Dominican Republic",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/640/200/nightlife/",
+  "reservations": [
+    "654-80-6206",
+    "041-47-2351"
+  ],
+  "transactions": [
+    "393-91-8268",
+    "139-97-2857"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb7ab2c2130a7167148"
+  },
+  "email": "karmen.robel@yahoo.com",
+  "password": "9a3fpwslx2xhn",
+  "phoneNumber": "(435) 218-9570 x4510",
+  "countryOfOrigin": "Estonia",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/nature/",
+  "reservations": [
+    "498-28-5698",
+    "597-65-3661"
+  ],
+  "transactions": [
+    "553-32-0829",
+    "154-44-1926"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb8ab2c2130a7167149"
+  },
+  "email": "terrell.keeling@hotmail.com",
+  "password": "1tchk3bpgd9q",
+  "phoneNumber": "1-509-801-2512 x5676",
+  "countryOfOrigin": "Reunion",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/technics/",
+  "reservations": [
+    "007-42-2670",
+    "437-84-9277"
+  ],
+  "transactions": [
+    "033-75-6541",
+    "890-59-1523"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb8ab2c2130a716714a"
+  },
+  "email": "barbie.shields@gmail.com",
+  "password": "xlfv32hr6xc",
+  "phoneNumber": "763-302-1002",
+  "countryOfOrigin": "Rwanda",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/200/abstract/",
+  "reservations": [
+    "037-23-8407",
+    "831-29-9265"
+  ],
+  "transactions": [
+    "681-21-5038",
+    "843-30-4327"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb8ab2c2130a716714b"
+  },
+  "email": "thomas.schaefer@yahoo.com",
+  "password": "gdi2oa0rg0mh",
+  "phoneNumber": "1-567-334-8052",
+  "countryOfOrigin": "Liechtenstein",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/480/nightlife/",
+  "reservations": [
+    "151-18-1409",
+    "607-99-7954"
+  ],
+  "transactions": [
+    "052-39-4915",
+    "685-73-3723"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb9ab2c2130a716714c"
+  },
+  "email": "dannie.ward@hotmail.com",
+  "password": "xy1rt37c",
+  "phoneNumber": "1-209-201-1016 x0279",
+  "countryOfOrigin": "Togo",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/business/",
+  "reservations": [
+    "362-03-8359",
+    "419-17-1250"
+  ],
+  "transactions": [
+    "801-37-4534",
+    "524-39-0308"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bb9ab2c2130a716714d"
+  },
+  "email": "nadia.baumbach@yahoo.com",
+  "password": "0xwz8o776j9juo",
+  "phoneNumber": "(209) 530-9933 x9341",
+  "countryOfOrigin": "Guatemala",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1280/1024/nature/",
+  "reservations": [
+    "398-51-8329",
+    "660-51-0610"
+  ],
+  "transactions": [
+    "628-30-4281",
+    "551-95-1262"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbaab2c2130a716714e"
+  },
+  "email": "jestine.christiansen@yahoo.com",
+  "password": "dodvtus8u13t43",
+  "phoneNumber": "(609) 469-6569 x2178",
+  "countryOfOrigin": "French Polynesia",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/640/350/business/",
+  "reservations": [
+    "274-80-6652",
+    "159-71-4750"
+  ],
+  "transactions": [
+    "336-70-8973",
+    "245-75-1091"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbaab2c2130a716714f"
+  },
+  "email": "luke.beahan@hotmail.com",
+  "password": "plmunlenpzk0um",
+  "phoneNumber": "323-863-9683 x5847",
+  "countryOfOrigin": "Australia",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/720/348/nightlife/",
+  "reservations": [
+    "620-95-1709",
+    "213-20-6546"
+  ],
+  "transactions": [
+    "697-43-8997",
+    "360-23-4372"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbaab2c2130a7167150"
+  },
+  "email": "joaquin.shanahan@yahoo.com",
+  "password": "o19is8lajblbw",
+  "phoneNumber": "(501) 214-2808 x3061",
+  "countryOfOrigin": "Lao People's Democratic Republic",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1366/768/food/",
+  "reservations": [
+    "153-06-3554",
+    "408-13-8697"
+  ],
+  "transactions": [
+    "432-22-9844",
+    "228-96-5762"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbbab2c2130a7167151"
+  },
+  "email": "floyd.nader@gmail.com",
+  "password": "6l99bsgokdg2bme",
+  "phoneNumber": "(229) 773-1941 x4666",
+  "countryOfOrigin": "Liberia",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/640/480/fashion/",
+  "reservations": [
+    "395-56-6134",
+    "545-93-8982"
+  ],
+  "transactions": [
+    "653-16-7906",
+    "887-16-8760"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbbab2c2130a7167152"
+  },
+  "email": "sarah.mosciski@yahoo.com",
+  "password": "wj796w1r",
+  "phoneNumber": "985.603.2741",
+  "countryOfOrigin": "Panama",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/350/food/",
+  "reservations": [
+    "041-31-2091",
+    "794-99-1763"
+  ],
+  "transactions": [
+    "283-98-3966",
+    "279-25-6537"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbcab2c2130a7167153"
+  },
+  "email": "amado.dietrich@yahoo.com",
+  "password": "209n09huz6gbj8",
+  "phoneNumber": "1-216-831-7786",
+  "countryOfOrigin": "Ecuador",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1920/1200/nightlife/",
+  "reservations": [
+    "779-27-8283",
+    "067-41-3388"
+  ],
+  "transactions": [
+    "853-64-7365",
+    "545-49-0543"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbcab2c2130a7167154"
+  },
+  "email": "daniele.emard@hotmail.com",
+  "password": "m2da412b1u3qb",
+  "phoneNumber": "801.651.6009 x2396",
+  "countryOfOrigin": "Svalbard & Jan Mayen Islands",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/480/business/",
+  "reservations": [
+    "673-46-0752",
+    "083-95-0427"
+  ],
+  "transactions": [
+    "401-14-6312",
+    "015-64-8385"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbcab2c2130a7167155"
+  },
+  "email": "maura.botsford@hotmail.com",
+  "password": "kvjqz83l",
+  "phoneNumber": "(503) 303-2897 x1597",
+  "countryOfOrigin": "Georgia",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/abstract/",
+  "reservations": [
+    "171-90-7369",
+    "211-36-7139"
+  ],
+  "transactions": [
+    "625-21-7325",
+    "318-80-0815"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbdab2c2130a7167156"
+  },
+  "email": "harrison.smitham@gmail.com",
+  "password": "dc5xk3f0ohvucl1",
+  "phoneNumber": "509-201-4352",
+  "countryOfOrigin": "Mali",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1600/1200/animals/",
+  "reservations": [
+    "091-69-1400",
+    "301-83-2158"
+  ],
+  "transactions": [
+    "273-67-6340",
+    "229-91-0650"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbdab2c2130a7167157"
+  },
+  "email": "keenan.kessler@hotmail.com",
+  "password": "yywdr0pklyt6ypd",
+  "phoneNumber": "240-605-1717 x3813",
+  "countryOfOrigin": "Poland",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1280/1024/nightlife/",
+  "reservations": [
+    "058-32-8129",
+    "436-52-1282"
+  ],
+  "transactions": [
+    "663-69-8172",
+    "149-06-6800"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbeab2c2130a7167158"
+  },
+  "email": "dagny.kertzmann@gmail.com",
+  "password": "saz6tkcyj9l",
+  "phoneNumber": "614-208-1978",
+  "countryOfOrigin": "Uzbekistan",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/200/nature/",
+  "reservations": [
+    "284-65-6019",
+    "890-41-8334"
+  ],
+  "transactions": [
+    "120-80-9722",
+    "429-46-0720"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbeab2c2130a7167159"
+  },
+  "email": "anjanette.kihn@hotmail.com",
+  "password": "vte8z78g5la3",
+  "phoneNumber": "1-909-515-3623 x8138",
+  "countryOfOrigin": "Australia",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/480/business/",
+  "reservations": [
+    "212-40-4317",
+    "820-10-3053"
+  ],
+  "transactions": [
+    "051-58-8208",
+    "338-60-3680"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbfab2c2130a716715a"
+  },
+  "email": "ellan.williamson@hotmail.com",
+  "password": "hqytqhfef1tr",
+  "phoneNumber": "718.816.6628",
+  "countryOfOrigin": "Mauritania",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/720/348/abstract/",
+  "reservations": [
+    "669-25-7741",
+    "896-43-3920"
+  ],
+  "transactions": [
+    "009-45-7970",
+    "372-89-7281"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bbfab2c2130a716715b"
+  },
+  "email": "eddie.ryan@hotmail.com",
+  "password": "816ghasaxpgzr",
+  "phoneNumber": "480.513.2181 x2868",
+  "countryOfOrigin": "Taiwan",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/sports/",
+  "reservations": [
+    "143-01-3930",
+    "300-25-2028"
+  ],
+  "transactions": [
+    "056-70-5109",
+    "744-07-9776"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc0ab2c2130a716715c"
+  },
+  "email": "quinton.osinski@yahoo.com",
+  "password": "ukngv7k7v3",
+  "phoneNumber": "1-434-781-7517 x9780",
+  "countryOfOrigin": "Russian Federation",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1366/768/cats/",
+  "reservations": [
+    "093-68-1951",
+    "777-76-9234"
+  ],
+  "transactions": [
+    "465-45-0384",
+    "257-38-2559"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc0ab2c2130a716715d"
+  },
+  "email": "stuart.bauch@gmail.com",
+  "password": "cieeogdryl",
+  "phoneNumber": "202-615-8563",
+  "countryOfOrigin": "Benin",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1920/1200/food/",
+  "reservations": [
+    "670-73-7487",
+    "591-38-5296"
+  ],
+  "transactions": [
+    "115-03-1797",
+    "687-24-7075"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc1ab2c2130a716715e"
+  },
+  "email": "jimmie.bauch@yahoo.com",
+  "password": "b5cqrf0twt3ptv",
+  "phoneNumber": "1-254-315-5590 x2211",
+  "countryOfOrigin": "Morocco",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/technics/",
+  "reservations": [
+    "139-31-6847",
+    "685-66-5517"
+  ],
+  "transactions": [
+    "207-17-3063",
+    "307-43-3175"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc1ab2c2130a716715f"
+  },
+  "email": "tyisha.hodkiewicz@yahoo.com",
+  "password": "311n16yht8d",
+  "phoneNumber": "731-319-7947 x7600",
+  "countryOfOrigin": "Martinique",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/1920/1200/nature/",
+  "reservations": [
+    "432-87-5045",
+    "462-03-8419"
+  ],
+  "transactions": [
+    "344-05-2551",
+    "530-65-2705"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc2ab2c2130a7167160"
+  },
+  "email": "shayne.wehner@yahoo.com",
+  "password": "qhzbeu12",
+  "phoneNumber": "1-603-843-1607",
+  "countryOfOrigin": "Egypt",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1280/1024/technics/",
+  "reservations": [
+    "419-02-7352",
+    "598-71-1857"
+  ],
+  "transactions": [
+    "653-35-3749",
+    "380-98-2942"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc2ab2c2130a7167161"
+  },
+  "email": "vernell.mcglynn@hotmail.com",
+  "password": "dshpvvev7fv",
+  "phoneNumber": "1-816-970-0751 x0365",
+  "countryOfOrigin": "Guadeloupe",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/640/480/people/",
+  "reservations": [
+    "084-74-4474",
+    "265-12-4843"
+  ],
+  "transactions": [
+    "206-51-7535",
+    "858-19-3225"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc2ab2c2130a7167162"
+  },
+  "email": "jorge.windler@yahoo.com",
+  "password": "y9j3ui3vg51",
+  "phoneNumber": "857-276-0974 x5714",
+  "countryOfOrigin": "Czech Republic",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/1600/1200/transport/",
+  "reservations": [
+    "711-41-2932",
+    "291-70-3399"
+  ],
+  "transactions": [
+    "058-92-2419",
+    "117-74-5882"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc3ab2c2130a7167163"
+  },
+  "email": "phillip.armstrong@hotmail.com",
+  "password": "f6konluqp",
+  "phoneNumber": "1-775-734-6777 x3392",
+  "countryOfOrigin": "Taiwan",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1280/1024/technics/",
+  "reservations": [
+    "323-92-0055",
+    "366-80-9697"
+  ],
+  "transactions": [
+    "885-61-7324",
+    "893-45-7282"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc3ab2c2130a7167164"
+  },
+  "email": "ben.kemmer@yahoo.com",
+  "password": "jmhupjw0aja8yd",
+  "phoneNumber": "(606) 507-5296",
+  "countryOfOrigin": "Somalia",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/g/640/350/nightlife/",
+  "reservations": [
+    "800-97-5958",
+    "017-30-8647"
+  ],
+  "transactions": [
+    "138-05-9794",
+    "549-02-4915"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc4ab2c2130a7167165"
+  },
+  "email": "kelly.koss@yahoo.com",
+  "password": "8c9ztfsqtz2ao",
+  "phoneNumber": "(831) 913-3303 x6174",
+  "countryOfOrigin": "Brazil",
+  "isVerified": false,
+  "profilePicture": "http://lorempixel.com/640/480/sports/",
+  "reservations": [
+    "071-25-9375",
+    "002-22-4282"
+  ],
+  "transactions": [
+    "096-62-9436",
+    "382-35-4868"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc4ab2c2130a7167166"
+  },
+  "email": "mac.davis@gmail.com",
+  "password": "uvxcs7tq",
+  "phoneNumber": "515.831.7311 x6813",
+  "countryOfOrigin": "Slovakia (Slovak Republic)",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/1024/768/cats/",
+  "reservations": [
+    "518-74-1408",
+    "437-71-6515"
+  ],
+  "transactions": [
+    "024-70-7184",
+    "643-81-2628"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+},
+{
+  "_id": {
+    "$oid": "64886bc4ab2c2130a7167167"
+  },
+  "email": "daina.swaniawski@gmail.com",
+  "password": "wb586nipzgncry7",
+  "phoneNumber": "406-801-7452 x4628",
+  "countryOfOrigin": "South Africa",
+  "isVerified": true,
+  "profilePicture": "http://lorempixel.com/g/1024/768/business/",
+  "reservations": [
+    "204-08-6978",
+    "290-69-7366"
+  ],
+  "transactions": [
+    "827-48-6064",
+    "707-33-1778"
+  ],
+  "_class": "com.projetmongodb.m1.immobilier.model.Client"
+}]

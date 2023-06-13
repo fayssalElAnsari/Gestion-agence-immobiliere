@@ -1,0 +1,7878 @@
+[{
+  "_id": {
+    "$oid": "6488605901b103077d0e2c92"
+  },
+  "title": "ut",
+  "description": "Beatae dolor rerum qui est voluptatem.",
+  "defaultPrice": 790.59,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 138.43,
+  "address": "Suite 379 3463 Bode Island, South Silas, CT 82063",
+  "location": {
+    "latitude": -3.33783,
+    "longitude": 51.84902
+  },
+  "ownerId": "567-85-7438",
+  "images": [
+    "http://lorempixel.com/g/1024/768/nature/",
+    "http://lorempixel.com/640/350/nightlife/",
+    "http://lorempixel.com/g/1024/768/technics/",
+    "http://lorempixel.com/320/200/animals/",
+    "http://lorempixel.com/1600/1200/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-21T18:56:39.243Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T17:58:39.075Z"
+      },
+      "price": 57.39
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T10:28:44.523Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T16:09:08.059Z"
+      },
+      "price": 112.19
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T13:03:11.314Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T15:26:11.652Z"
+      },
+      "price": 136.5
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T11:27:55.665Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T13:51:48.052Z"
+      },
+      "price": 57.01
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-28T12:25:30.887Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T14:34:41.156Z"
+      },
+      "price": 176.01
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T12:26:01.641Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T12:26:01.641Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b4dab2c2130a71670a0"
+  },
+  "title": "et",
+  "description": "Non ratione optio cupiditate impedit eum doloremque non.",
+  "defaultPrice": 323.32,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 2,
+  "area": 66.66,
+  "address": "Apt. 528 12936 Johnson Manors, New Chad, WI 70428",
+  "location": {
+    "latitude": -44.91551,
+    "longitude": -108.44963
+  },
+  "ownerId": "675-65-8933",
+  "images": [
+    "http://lorempixel.com/1280/1024/business/",
+    "http://lorempixel.com/g/640/200/business/",
+    "http://lorempixel.com/g/640/200/nightlife/",
+    "http://lorempixel.com/320/200/abstract/",
+    "http://lorempixel.com/640/200/nightlife/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-29T04:04:25.092Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T22:29:19.567Z"
+      },
+      "price": 76.84
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T12:51:01.836Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T14:29:17.151Z"
+      },
+      "price": 189.79
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T14:46:44.333Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T16:04:10.197Z"
+      },
+      "price": 181.85
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T18:47:26.207Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T06:42:32.100Z"
+      },
+      "price": 62.92
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T10:17:14.786Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T10:17:40.432Z"
+      },
+      "price": 91.87
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:45.562Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:45.562Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b4eab2c2130a71670a1"
+  },
+  "title": "aliquam",
+  "description": "Sapiente sed sapiente laborum sit.",
+  "defaultPrice": 923.75,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 145.98,
+  "address": "909 Gutkowski Walks, Gleichnerhaven, WV 33531",
+  "location": {
+    "latitude": -1.3141,
+    "longitude": -123.38979
+  },
+  "ownerId": "323-55-2948",
+  "images": [
+    "http://lorempixel.com/640/480/transport/",
+    "http://lorempixel.com/1280/1024/nature/",
+    "http://lorempixel.com/g/720/348/nature/",
+    "http://lorempixel.com/1024/768/cats/",
+    "http://lorempixel.com/g/1024/768/nature/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-16T01:04:10.917Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T00:23:07.127Z"
+      },
+      "price": 54.46
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T19:46:23.246Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T04:18:24.419Z"
+      },
+      "price": 90.14
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T22:18:25.894Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T03:47:23.287Z"
+      },
+      "price": 135.69
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T23:15:05.658Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T19:34:05.649Z"
+      },
+      "price": 187.11
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T04:36:31.363Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T10:04:21.496Z"
+      },
+      "price": 85.46
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:46.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:46.127Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b4eab2c2130a71670a2"
+  },
+  "title": "sed",
+  "description": "Debitis nihil molestias.",
+  "defaultPrice": 500.64,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 126.86,
+  "address": "867 Greg Dale, Veummouth, KS 88076",
+  "location": {
+    "latitude": -49.70122,
+    "longitude": 106.96542
+  },
+  "ownerId": "372-11-5388",
+  "images": [
+    "http://lorempixel.com/g/1920/1200/sports/",
+    "http://lorempixel.com/1600/1200/abstract/",
+    "http://lorempixel.com/g/320/200/people/",
+    "http://lorempixel.com/1366/768/transport/",
+    "http://lorempixel.com/g/640/480/transport/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-19T05:03:32.272Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T20:32:13.670Z"
+      },
+      "price": 57.87
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T06:21:37.367Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T23:49:26.311Z"
+      },
+      "price": 120.17
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T20:18:16.703Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T13:34:41.199Z"
+      },
+      "price": 69.43
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T04:29:51.989Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T06:55:15.353Z"
+      },
+      "price": 179.28
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T03:22:34.659Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T06:55:41.590Z"
+      },
+      "price": 146.03
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:46.636Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:46.636Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b4fab2c2130a71670a3"
+  },
+  "title": "suscipit",
+  "description": "Possimus sint quidem qui ut porro facere.",
+  "defaultPrice": 695.3,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 177.03,
+  "address": "Apt. 525 508 Mraz Burg, New Jessieside, OR 03095",
+  "location": {
+    "latitude": -80.71293,
+    "longitude": 4.36791
+  },
+  "ownerId": "105-54-8054",
+  "images": [
+    "http://lorempixel.com/640/200/animals/",
+    "http://lorempixel.com/1366/768/food/",
+    "http://lorempixel.com/1366/768/animals/",
+    "http://lorempixel.com/640/350/food/",
+    "http://lorempixel.com/g/1680/1050/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-04T13:47:35.198Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T22:10:35.898Z"
+      },
+      "price": 64.29
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T12:22:37.060Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T13:51:11.718Z"
+      },
+      "price": 193.92
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T10:27:46.266Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T21:07:19.394Z"
+      },
+      "price": 183.71
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T08:14:12.952Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T15:49:55.576Z"
+      },
+      "price": 164.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T13:11:54.186Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T20:31:52.172Z"
+      },
+      "price": 182.07
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:47.045Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:47.045Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b4fab2c2130a71670a4"
+  },
+  "title": "aut",
+  "description": "Omnis neque fugiat.",
+  "defaultPrice": 974.66,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 114.88,
+  "address": "Apt. 423 942 Hiroko Cliff, East Lienport, MA 45705-3849",
+  "location": {
+    "latitude": 72.13301,
+    "longitude": 95.17351
+  },
+  "ownerId": "147-50-3509",
+  "images": [
+    "http://lorempixel.com/g/1280/1024/abstract/",
+    "http://lorempixel.com/1024/768/food/",
+    "http://lorempixel.com/g/1680/1050/abstract/",
+    "http://lorempixel.com/g/1920/1200/city/",
+    "http://lorempixel.com/1280/1024/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-20T18:36:57.792Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T00:04:53.323Z"
+      },
+      "price": 183.96
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T20:51:38.493Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T18:04:34.877Z"
+      },
+      "price": 156.02
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T23:29:46.443Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T05:21:09.396Z"
+      },
+      "price": 87.34
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T22:49:23.500Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T06:21:16.955Z"
+      },
+      "price": 142.38
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T08:45:13.224Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T05:05:31.884Z"
+      },
+      "price": 113.17
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:47.397Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:47.397Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b4fab2c2130a71670a5"
+  },
+  "title": "voluptatem",
+  "description": "Cum hic ullam fuga sint animi dolorem.",
+  "defaultPrice": 651.05,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 123.05,
+  "address": "Suite 376 5394 Yasuko Skyway, South Merlinside, NV 63530-3535",
+  "location": {
+    "latitude": 49.86066,
+    "longitude": 12.54606
+  },
+  "ownerId": "449-55-5733",
+  "images": [
+    "http://lorempixel.com/g/640/480/sports/",
+    "http://lorempixel.com/1680/1050/nightlife/",
+    "http://lorempixel.com/1680/1050/technics/",
+    "http://lorempixel.com/g/640/200/city/",
+    "http://lorempixel.com/640/480/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-05T06:29:44.317Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T19:29:39.023Z"
+      },
+      "price": 105.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T17:23:21.945Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T01:37:34.053Z"
+      },
+      "price": 114.01
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T23:46:00.519Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T13:48:01.167Z"
+      },
+      "price": 85.44
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-14T17:01:39.070Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T09:41:03.223Z"
+      },
+      "price": 88.77
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T08:13:30.852Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T23:19:48.100Z"
+      },
+      "price": 57.5
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:47.750Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:47.750Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b50ab2c2130a71670a6"
+  },
+  "title": "quo",
+  "description": "Necessitatibus dolores ut.",
+  "defaultPrice": 388.05,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 1,
+  "area": 172.79,
+  "address": "Suite 530 57711 Napoleon Roads, Berniechester, WY 70923-2117",
+  "location": {
+    "latitude": -29.87615,
+    "longitude": -22.28164
+  },
+  "ownerId": "791-17-7181",
+  "images": [
+    "http://lorempixel.com/g/1600/1200/people/",
+    "http://lorempixel.com/1680/1050/abstract/",
+    "http://lorempixel.com/g/720/348/nature/",
+    "http://lorempixel.com/720/348/sports/",
+    "http://lorempixel.com/1280/1024/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-05T20:05:43.677Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T05:06:19.347Z"
+      },
+      "price": 69.89
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T22:39:31.577Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T07:15:54.765Z"
+      },
+      "price": 121.78
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T23:43:24.354Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T20:53:00.594Z"
+      },
+      "price": 190.61
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T06:01:21.500Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T00:50:46.600Z"
+      },
+      "price": 166.68
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-28T02:22:05.366Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T12:07:16.600Z"
+      },
+      "price": 54.94
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:48.169Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:48.169Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b50ab2c2130a71670a7"
+  },
+  "title": "quam",
+  "description": "Animi quam nihil quas.",
+  "defaultPrice": 987.51,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 59.86,
+  "address": "Apt. 725 335 Davis Glen, West Layne, KY 92262",
+  "location": {
+    "latitude": -7.99507,
+    "longitude": 126.86316
+  },
+  "ownerId": "334-33-0039",
+  "images": [
+    "http://lorempixel.com/1920/1200/sports/",
+    "http://lorempixel.com/g/720/348/business/",
+    "http://lorempixel.com/g/1366/768/city/",
+    "http://lorempixel.com/g/1920/1200/cats/",
+    "http://lorempixel.com/1920/1200/nature/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-03T14:41:11.654Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T07:50:36.992Z"
+      },
+      "price": 85.95
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T16:34:11.132Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T17:51:42.683Z"
+      },
+      "price": 87.13
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T23:56:30.165Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T17:47:22.725Z"
+      },
+      "price": 55.26
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T05:27:15.446Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T02:42:06.487Z"
+      },
+      "price": 105.12
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T03:08:00.537Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T21:25:45.852Z"
+      },
+      "price": 80.32
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:48.575Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:48.575Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b50ab2c2130a71670a8"
+  },
+  "title": "accusantium",
+  "description": "Sunt assumenda expedita sequi omnis voluptatem.",
+  "defaultPrice": 591.99,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 151.47,
+  "address": "Suite 750 2048 Gorczany Springs, Fadelfort, WA 67039-6555",
+  "location": {
+    "latitude": -15.23279,
+    "longitude": -81.75878
+  },
+  "ownerId": "164-08-0561",
+  "images": [
+    "http://lorempixel.com/g/1680/1050/cats/",
+    "http://lorempixel.com/g/320/200/nightlife/",
+    "http://lorempixel.com/1600/1200/sports/",
+    "http://lorempixel.com/g/720/348/people/",
+    "http://lorempixel.com/720/348/transport/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-24T01:02:14.721Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T06:45:45.750Z"
+      },
+      "price": 74.49
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T23:49:03.790Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T08:10:19.825Z"
+      },
+      "price": 108.44
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-03T09:33:14.355Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T19:56:36.480Z"
+      },
+      "price": 64.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T05:02:37.511Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T16:58:52.081Z"
+      },
+      "price": 195.75
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T07:36:59.156Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T13:42:55.275Z"
+      },
+      "price": 68.41
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:48.953Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:48.953Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b51ab2c2130a71670a9"
+  },
+  "title": "consequuntur",
+  "description": "Qui et sint cum.",
+  "defaultPrice": 571.39,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 196.79,
+  "address": "Apt. 674 4668 Howe Springs, Ricebury, TX 15381-4493",
+  "location": {
+    "latitude": -67.84597,
+    "longitude": 19.00226
+  },
+  "ownerId": "444-36-3539",
+  "images": [
+    "http://lorempixel.com/1024/768/people/",
+    "http://lorempixel.com/720/348/nature/",
+    "http://lorempixel.com/g/1280/1024/transport/",
+    "http://lorempixel.com/640/200/abstract/",
+    "http://lorempixel.com/g/1600/1200/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-06T13:05:11.657Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T23:02:51.070Z"
+      },
+      "price": 164.73
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T22:52:43.440Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T11:44:09.348Z"
+      },
+      "price": 158.11
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T17:50:29.717Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T01:31:46.611Z"
+      },
+      "price": 131.1
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-03T22:45:08.490Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T10:43:29.439Z"
+      },
+      "price": 64.7
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T23:20:03.409Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T04:05:46.078Z"
+      },
+      "price": 178.25
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:49.374Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:49.374Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b51ab2c2130a71670aa"
+  },
+  "title": "non",
+  "description": "Maxime est dolore ut natus.",
+  "defaultPrice": 455.62,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 38.38,
+  "address": "Apt. 918 8885 Judson Roads, Port Loree, NJ 51242",
+  "location": {
+    "latitude": -39.28481,
+    "longitude": 73.19804
+  },
+  "ownerId": "610-50-2614",
+  "images": [
+    "http://lorempixel.com/1600/1200/business/",
+    "http://lorempixel.com/g/1920/1200/fashion/",
+    "http://lorempixel.com/g/320/200/nature/",
+    "http://lorempixel.com/640/200/food/",
+    "http://lorempixel.com/g/320/200/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-01T03:21:12.114Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T19:36:54.280Z"
+      },
+      "price": 173.21
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T00:32:18.681Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T09:51:21.079Z"
+      },
+      "price": 70
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T07:08:19.100Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T22:52:35.038Z"
+      },
+      "price": 91.95
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T16:46:34.204Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T08:16:00.349Z"
+      },
+      "price": 79.08
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T05:43:58.758Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T07:12:29.047Z"
+      },
+      "price": 132.79
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:49.752Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:49.752Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b52ab2c2130a71670ab"
+  },
+  "title": "autem",
+  "description": "Quis rerum vitae est suscipit.",
+  "defaultPrice": 881.49,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 193.97,
+  "address": "Suite 041 37762 Alden Valley, Port Demetriahaven, SD 91779",
+  "location": {
+    "latitude": -43.41135,
+    "longitude": 89.06584
+  },
+  "ownerId": "555-95-7763",
+  "images": [
+    "http://lorempixel.com/1680/1050/cats/",
+    "http://lorempixel.com/640/350/nightlife/",
+    "http://lorempixel.com/g/640/480/business/",
+    "http://lorempixel.com/1600/1200/fashion/",
+    "http://lorempixel.com/1920/1200/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T02:02:06.026Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T00:04:31.895Z"
+      },
+      "price": 54.22
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T07:34:46.238Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T02:59:30.351Z"
+      },
+      "price": 172.69
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T06:01:16.834Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T17:00:03.683Z"
+      },
+      "price": 111.54
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T14:11:17.165Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T08:50:38.271Z"
+      },
+      "price": 185.24
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T17:20:24.331Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T18:30:34.475Z"
+      },
+      "price": 108.48
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:50.148Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:50.148Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b52ab2c2130a71670ac"
+  },
+  "title": "occaecati",
+  "description": "Aut ea porro et omnis inventore in sed.",
+  "defaultPrice": 184.68,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 168.19,
+  "address": "47489 Von Villages, Bennettside, TX 28358",
+  "location": {
+    "latitude": 13.86344,
+    "longitude": 86.01639
+  },
+  "ownerId": "253-04-8396",
+  "images": [
+    "http://lorempixel.com/1024/768/cats/",
+    "http://lorempixel.com/g/1024/768/transport/",
+    "http://lorempixel.com/g/640/480/people/",
+    "http://lorempixel.com/1366/768/city/",
+    "http://lorempixel.com/g/1920/1200/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-22T23:03:50.939Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T23:44:15.445Z"
+      },
+      "price": 151.93
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T01:17:53.006Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T13:03:16.247Z"
+      },
+      "price": 189.46
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T08:04:16.678Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T16:03:23.963Z"
+      },
+      "price": 191.61
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T20:35:18.142Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T05:49:35.011Z"
+      },
+      "price": 51.81
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T06:47:42.029Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T09:22:06.057Z"
+      },
+      "price": 52.42
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:50.800Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:50.800Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b53ab2c2130a71670ad"
+  },
+  "title": "incidunt",
+  "description": "Et cupiditate quia occaecati saepe beatae.",
+  "defaultPrice": 524.22,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 2,
+  "area": 35.18,
+  "address": "Suite 294 627 Stokes Ranch, Pfefferton, SC 62655-6150",
+  "location": {
+    "latitude": -68.83659,
+    "longitude": -95.97948
+  },
+  "ownerId": "670-47-7590",
+  "images": [
+    "http://lorempixel.com/g/1366/768/abstract/",
+    "http://lorempixel.com/g/640/480/people/",
+    "http://lorempixel.com/g/720/348/transport/",
+    "http://lorempixel.com/g/1920/1200/business/",
+    "http://lorempixel.com/g/320/200/animals/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-27T05:23:53.605Z"
+      },
+      "endDate": {
+        "$date": "2023-06-13T18:03:36.342Z"
+      },
+      "price": 183.54
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T18:58:50.470Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T11:02:34.172Z"
+      },
+      "price": 112.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T19:37:39.027Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T10:20:24.561Z"
+      },
+      "price": 190.96
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T07:03:52.372Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T19:43:34.383Z"
+      },
+      "price": 134.11
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T19:02:57.838Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T04:29:18.616Z"
+      },
+      "price": 191.72
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:51.161Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:51.161Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b53ab2c2130a71670ae"
+  },
+  "title": "architecto",
+  "description": "Cupiditate nihil maxime omnis ab.",
+  "defaultPrice": 420.69,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 68.2,
+  "address": "8829 Ellsworth Ridge, North Veolaside, MI 34880-8761",
+  "location": {
+    "latitude": -19.34668,
+    "longitude": -69.72303
+  },
+  "ownerId": "809-58-4648",
+  "images": [
+    "http://lorempixel.com/g/320/200/people/",
+    "http://lorempixel.com/640/200/cats/",
+    "http://lorempixel.com/g/320/200/sports/",
+    "http://lorempixel.com/g/640/350/animals/",
+    "http://lorempixel.com/1280/1024/technics/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-31T03:10:38.555Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T20:55:00.666Z"
+      },
+      "price": 90.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T08:14:39.528Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T07:11:32.320Z"
+      },
+      "price": 72.4
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T06:05:26.733Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T22:09:09.175Z"
+      },
+      "price": 97.02
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T08:37:35.467Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T10:29:40.775Z"
+      },
+      "price": 131.63
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T07:05:53.112Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T18:25:42.336Z"
+      },
+      "price": 162.03
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:51.505Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:51.505Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b53ab2c2130a71670af"
+  },
+  "title": "dolor",
+  "description": "At at consequatur vero ea ut qui ipsam.",
+  "defaultPrice": 885.1,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 148.21,
+  "address": "Suite 536 74612 Koss Stravenue, New Yang, MT 16619-3625",
+  "location": {
+    "latitude": -27.22512,
+    "longitude": 122.99211
+  },
+  "ownerId": "166-29-8561",
+  "images": [
+    "http://lorempixel.com/g/1280/1024/animals/",
+    "http://lorempixel.com/1920/1200/nightlife/",
+    "http://lorempixel.com/g/640/200/nightlife/",
+    "http://lorempixel.com/1366/768/cats/",
+    "http://lorempixel.com/g/640/200/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-22T23:13:35.309Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T22:30:43.221Z"
+      },
+      "price": 67.23
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T21:13:01.869Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T06:56:25.194Z"
+      },
+      "price": 174.23
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T08:58:01.619Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T20:15:44.389Z"
+      },
+      "price": 158.61
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T01:24:34.968Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T10:44:53.811Z"
+      },
+      "price": 130.06
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T12:18:34.247Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T15:28:09.464Z"
+      },
+      "price": 185.2
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:51.862Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:51.862Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b54ab2c2130a71670b0"
+  },
+  "title": "animi",
+  "description": "Et autem voluptas et.",
+  "defaultPrice": 978,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 1,
+  "area": 161.28,
+  "address": "202 Lory Valley, Littleburgh, LA 91011-4883",
+  "location": {
+    "latitude": 22.74011,
+    "longitude": 85.74337
+  },
+  "ownerId": "794-98-1269",
+  "images": [
+    "http://lorempixel.com/g/1280/1024/cats/",
+    "http://lorempixel.com/g/640/200/transport/",
+    "http://lorempixel.com/640/480/animals/",
+    "http://lorempixel.com/g/640/350/cats/",
+    "http://lorempixel.com/1280/1024/transport/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-27T03:24:18.665Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T00:35:57.399Z"
+      },
+      "price": 186.64
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-28T00:06:58.408Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T13:51:16.261Z"
+      },
+      "price": 107.94
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T17:39:25.759Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T06:57:18.856Z"
+      },
+      "price": 180.13
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T10:37:10.592Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T09:43:25.343Z"
+      },
+      "price": 95.61
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T01:10:01.803Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T06:21:31.346Z"
+      },
+      "price": 84.36
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:52.204Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:52.204Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b54ab2c2130a71670b1"
+  },
+  "title": "soluta",
+  "description": "Consectetur sint architecto hic.",
+  "defaultPrice": 535.89,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 72.19,
+  "address": "5828 Lanny Row, Thanhton, MD 51450-3162",
+  "location": {
+    "latitude": -55.83943,
+    "longitude": 37.44542
+  },
+  "ownerId": "140-82-4956",
+  "images": [
+    "http://lorempixel.com/640/200/technics/",
+    "http://lorempixel.com/g/1680/1050/nightlife/",
+    "http://lorempixel.com/g/1600/1200/cats/",
+    "http://lorempixel.com/g/720/348/nature/",
+    "http://lorempixel.com/g/640/200/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-12T22:57:56.676Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T17:30:27.925Z"
+      },
+      "price": 100.8
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T12:13:16.124Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T03:44:33.292Z"
+      },
+      "price": 163.31
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T07:25:59.915Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T19:22:44.067Z"
+      },
+      "price": 169.24
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T00:29:23.422Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T11:44:59.415Z"
+      },
+      "price": 194.52
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T19:06:19.541Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T20:19:34.250Z"
+      },
+      "price": 180.49
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:52.534Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:52.534Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b54ab2c2130a71670b2"
+  },
+  "title": "deleniti",
+  "description": "Quisquam necessitatibus sint quae.",
+  "defaultPrice": 174.51,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 121.03,
+  "address": "Suite 568 7011 Cormier Prairie, Earleton, KS 14809-9908",
+  "location": {
+    "latitude": -87.60077,
+    "longitude": 145.40079
+  },
+  "ownerId": "669-30-8246",
+  "images": [
+    "http://lorempixel.com/1366/768/nightlife/",
+    "http://lorempixel.com/640/350/nightlife/",
+    "http://lorempixel.com/1280/1024/animals/",
+    "http://lorempixel.com/g/640/350/business/",
+    "http://lorempixel.com/640/200/people/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-29T06:36:30.117Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T16:07:31.236Z"
+      },
+      "price": 132.31
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T03:09:05.325Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T12:14:03.621Z"
+      },
+      "price": 151.49
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T13:57:35.182Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T05:31:17.499Z"
+      },
+      "price": 178.58
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T01:01:42.619Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T20:54:04.080Z"
+      },
+      "price": 133.38
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T00:41:17.752Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T12:11:09.994Z"
+      },
+      "price": 74.84
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:52.872Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:52.872Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b55ab2c2130a71670b3"
+  },
+  "title": "ut",
+  "description": "Minus laborum unde.",
+  "defaultPrice": 955.19,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 110.81,
+  "address": "Suite 023 58651 Gavin Shoal, North Robbie, CO 73101-7742",
+  "location": {
+    "latitude": 41.90271,
+    "longitude": -166.38462
+  },
+  "ownerId": "739-77-0498",
+  "images": [
+    "http://lorempixel.com/720/348/business/",
+    "http://lorempixel.com/720/348/city/",
+    "http://lorempixel.com/g/1366/768/city/",
+    "http://lorempixel.com/1920/1200/cats/",
+    "http://lorempixel.com/1680/1050/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-18T03:29:04.929Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T19:33:34.479Z"
+      },
+      "price": 145.77
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T16:28:27.178Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T20:09:34.350Z"
+      },
+      "price": 188.15
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T07:55:05.943Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T04:08:43.640Z"
+      },
+      "price": 136.91
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T01:01:08.825Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T12:36:45.313Z"
+      },
+      "price": 159.21
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T00:29:16.278Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T08:45:09.487Z"
+      },
+      "price": 145.84
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:53.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:53.220Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b55ab2c2130a71670b4"
+  },
+  "title": "fuga",
+  "description": "Qui ratione enim nam omnis.",
+  "defaultPrice": 605.44,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 190.46,
+  "address": "Suite 129 9930 Braun Court, North Jordon, FL 97041-5738",
+  "location": {
+    "latitude": -32.93515,
+    "longitude": -33.52096
+  },
+  "ownerId": "003-02-3765",
+  "images": [
+    "http://lorempixel.com/1024/768/technics/",
+    "http://lorempixel.com/1600/1200/animals/",
+    "http://lorempixel.com/1024/768/cats/",
+    "http://lorempixel.com/g/640/200/nightlife/",
+    "http://lorempixel.com/g/1680/1050/nature/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-21T09:47:11.465Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T01:16:23.719Z"
+      },
+      "price": 129.24
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T16:52:20.526Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T06:36:57.860Z"
+      },
+      "price": 56.96
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T14:43:18.296Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T20:45:05.052Z"
+      },
+      "price": 108.45
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T10:45:29.590Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T15:08:52.046Z"
+      },
+      "price": 183.81
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T21:58:13.189Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T08:04:47.890Z"
+      },
+      "price": 188.13
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:53.581Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:53.581Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b55ab2c2130a71670b5"
+  },
+  "title": "quasi",
+  "description": "Quibusdam et iure et.",
+  "defaultPrice": 309.59,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 188.09,
+  "address": "7803 Sidney Drive, Reyesbury, OK 39012-6045",
+  "location": {
+    "latitude": 10.15337,
+    "longitude": 114.58377
+  },
+  "ownerId": "288-32-9124",
+  "images": [
+    "http://lorempixel.com/g/1600/1200/sports/",
+    "http://lorempixel.com/640/200/nightlife/",
+    "http://lorempixel.com/1920/1200/cats/",
+    "http://lorempixel.com/1280/1024/animals/",
+    "http://lorempixel.com/g/1920/1200/abstract/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-18T09:35:08.913Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T11:35:04.221Z"
+      },
+      "price": 136.36
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T18:00:15.680Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T17:29:01.078Z"
+      },
+      "price": 196.88
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T10:08:02.986Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T06:26:18.304Z"
+      },
+      "price": 123.81
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T20:25:39.891Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T01:05:53.052Z"
+      },
+      "price": 115.64
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T13:05:07.899Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T11:34:59.949Z"
+      },
+      "price": 145.77
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:53.938Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:53.938Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b56ab2c2130a71670b6"
+  },
+  "title": "dicta",
+  "description": "Placeat alias aut aliquam est ut.",
+  "defaultPrice": 274.86,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 82.93,
+  "address": "49262 Annabell Haven, East Danial, CA 87673-1630",
+  "location": {
+    "latitude": 51.76646,
+    "longitude": -98.89779
+  },
+  "ownerId": "664-16-0149",
+  "images": [
+    "http://lorempixel.com/g/720/348/abstract/",
+    "http://lorempixel.com/640/480/fashion/",
+    "http://lorempixel.com/1680/1050/nature/",
+    "http://lorempixel.com/g/320/200/nightlife/",
+    "http://lorempixel.com/g/640/480/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-27T18:59:02.538Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T06:16:21.067Z"
+      },
+      "price": 118.66
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T05:30:23.615Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T18:18:18.654Z"
+      },
+      "price": 105.53
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T18:58:24.964Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T16:56:08.881Z"
+      },
+      "price": 83.61
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T12:42:51.574Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T20:20:33.682Z"
+      },
+      "price": 195.37
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T19:28:40.681Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T13:15:17.398Z"
+      },
+      "price": 76.97
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:54.267Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:54.267Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b56ab2c2130a71670b7"
+  },
+  "title": "deserunt",
+  "description": "Quidem neque dolor dolorem neque qui.",
+  "defaultPrice": 147.93,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 1,
+  "area": 40.81,
+  "address": "54905 Kunde River, South Chadhaven, AK 79643-8442",
+  "location": {
+    "latitude": 60.32837,
+    "longitude": 18.36029
+  },
+  "ownerId": "568-52-0446",
+  "images": [
+    "http://lorempixel.com/640/200/business/",
+    "http://lorempixel.com/1600/1200/technics/",
+    "http://lorempixel.com/g/640/200/cats/",
+    "http://lorempixel.com/g/1600/1200/fashion/",
+    "http://lorempixel.com/720/348/sports/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-01T17:43:24.842Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T04:06:50.466Z"
+      },
+      "price": 150.91
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T18:55:34.137Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T16:06:53.186Z"
+      },
+      "price": 149.58
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T15:53:05.566Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T23:12:16.762Z"
+      },
+      "price": 94.83
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T06:17:36.674Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T00:42:41.818Z"
+      },
+      "price": 111.81
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T18:21:02.210Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T09:15:35.584Z"
+      },
+      "price": 178.73
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:54.641Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:54.641Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b57ab2c2130a71670b8"
+  },
+  "title": "consequatur",
+  "description": "Quasi nesciunt odit.",
+  "defaultPrice": 133.22,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 42.47,
+  "address": "038 Earnest Fall, Arleneberg, MN 75814-9416",
+  "location": {
+    "latitude": -43.14766,
+    "longitude": -137.44955
+  },
+  "ownerId": "287-94-6486",
+  "images": [
+    "http://lorempixel.com/1600/1200/nature/",
+    "http://lorempixel.com/g/720/348/sports/",
+    "http://lorempixel.com/g/1600/1200/technics/",
+    "http://lorempixel.com/720/348/transport/",
+    "http://lorempixel.com/g/1680/1050/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-19T13:41:13.492Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T00:54:29.840Z"
+      },
+      "price": 138.94
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T16:02:09.781Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T07:58:25.079Z"
+      },
+      "price": 180.18
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T08:06:36.051Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T04:27:51.322Z"
+      },
+      "price": 79.68
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T21:33:26.600Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T06:45:53.882Z"
+      },
+      "price": 100.08
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T20:22:54.343Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T18:46:02.111Z"
+      },
+      "price": 101.23
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:55.005Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:55.005Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b57ab2c2130a71670b9"
+  },
+  "title": "culpa",
+  "description": "Ipsa possimus temporibus consequuntur.",
+  "defaultPrice": 317.29,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 145.32,
+  "address": "97362 Lindgren Plaza, Port Pearlie, OR 73326-1771",
+  "location": {
+    "latitude": -66.62455,
+    "longitude": 148.19165
+  },
+  "ownerId": "889-36-9107",
+  "images": [
+    "http://lorempixel.com/1680/1050/business/",
+    "http://lorempixel.com/1280/1024/animals/",
+    "http://lorempixel.com/g/720/348/technics/",
+    "http://lorempixel.com/1024/768/city/",
+    "http://lorempixel.com/1366/768/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-30T15:30:07.662Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T21:36:19.145Z"
+      },
+      "price": 136.68
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T13:39:09.178Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T02:28:22.750Z"
+      },
+      "price": 172.91
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T01:42:06.857Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T15:43:27.630Z"
+      },
+      "price": 51.65
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T21:51:50.324Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T06:44:42.603Z"
+      },
+      "price": 96.27
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T19:53:51.120Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T08:25:54.486Z"
+      },
+      "price": 177.52
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:55.378Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:55.378Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b57ab2c2130a71670ba"
+  },
+  "title": "culpa",
+  "description": "Reiciendis necessitatibus nostrum ipsa nobis fugit.",
+  "defaultPrice": 243.28,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 31.24,
+  "address": "132 Terrilyn Meadow, Hildredborough, OK 00667-3100",
+  "location": {
+    "latitude": -65.3763,
+    "longitude": 46.0735
+  },
+  "ownerId": "529-32-5323",
+  "images": [
+    "http://lorempixel.com/g/1600/1200/city/",
+    "http://lorempixel.com/720/348/nature/",
+    "http://lorempixel.com/1600/1200/animals/",
+    "http://lorempixel.com/640/480/animals/",
+    "http://lorempixel.com/g/1920/1200/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-29T11:10:13.155Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T08:06:02.876Z"
+      },
+      "price": 82.33
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T02:28:12.448Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T01:57:44.129Z"
+      },
+      "price": 74.94
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T13:08:47.837Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T13:52:24.221Z"
+      },
+      "price": 141.51
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T15:00:46.128Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T02:19:30.145Z"
+      },
+      "price": 121.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T23:08:28.026Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T01:55:42.764Z"
+      },
+      "price": 80.57
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:55.738Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:55.738Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b58ab2c2130a71670bb"
+  },
+  "title": "aut",
+  "description": "Ducimus est eum.",
+  "defaultPrice": 113.84,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 152.79,
+  "address": "Apt. 693 4819 Carmine Fall, Wiegandborough, NV 28228-1458",
+  "location": {
+    "latitude": 27.98185,
+    "longitude": -10.5728
+  },
+  "ownerId": "432-37-2933",
+  "images": [
+    "http://lorempixel.com/1600/1200/fashion/",
+    "http://lorempixel.com/g/1280/1024/animals/",
+    "http://lorempixel.com/1600/1200/business/",
+    "http://lorempixel.com/g/1366/768/nightlife/",
+    "http://lorempixel.com/720/348/technics/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-14T14:02:15.875Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T07:25:51.634Z"
+      },
+      "price": 163.71
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-14T15:41:16.066Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T06:02:20.938Z"
+      },
+      "price": 82.86
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T23:41:10.556Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T07:18:17.027Z"
+      },
+      "price": 153.89
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T00:13:46.555Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T22:10:33.188Z"
+      },
+      "price": 176.28
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T20:31:37.774Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T17:07:18.108Z"
+      },
+      "price": 164.39
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:56.096Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:56.096Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b58ab2c2130a71670bc"
+  },
+  "title": "earum",
+  "description": "Voluptatem veniam deleniti.",
+  "defaultPrice": 849.67,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 108.45,
+  "address": "Suite 126 0703 Emard Lakes, Thuland, PA 09174-6763",
+  "location": {
+    "latitude": -6.58813,
+    "longitude": -52.23524
+  },
+  "ownerId": "282-08-5228",
+  "images": [
+    "http://lorempixel.com/g/640/350/nature/",
+    "http://lorempixel.com/1024/768/animals/",
+    "http://lorempixel.com/g/640/350/abstract/",
+    "http://lorempixel.com/1280/1024/people/",
+    "http://lorempixel.com/1280/1024/animals/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-08T07:03:26.588Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T21:45:04.620Z"
+      },
+      "price": 73.22
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T08:18:23.214Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T03:44:14.545Z"
+      },
+      "price": 88.44
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T03:33:53.269Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T12:58:30.549Z"
+      },
+      "price": 95.22
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T11:57:31.044Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T05:51:08.490Z"
+      },
+      "price": 154.6
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T07:27:14.994Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T00:26:56.993Z"
+      },
+      "price": 53.25
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:56.462Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:56.462Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b58ab2c2130a71670bd"
+  },
+  "title": "iste",
+  "description": "Laborum consequatur nesciunt provident fugit atque architecto.",
+  "defaultPrice": 894.51,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 64.28,
+  "address": "Apt. 900 2649 Kia Valley, Vonton, ME 59175",
+  "location": {
+    "latitude": 73.12135,
+    "longitude": -156.91369
+  },
+  "ownerId": "407-62-1893",
+  "images": [
+    "http://lorempixel.com/640/480/nightlife/",
+    "http://lorempixel.com/320/200/abstract/",
+    "http://lorempixel.com/320/200/sports/",
+    "http://lorempixel.com/1024/768/nature/",
+    "http://lorempixel.com/640/200/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-01T15:51:49.698Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T09:15:00.594Z"
+      },
+      "price": 84.83
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-04T23:42:06.988Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T12:59:48.947Z"
+      },
+      "price": 81.92
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T21:03:31.271Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T17:11:54.322Z"
+      },
+      "price": 59.74
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T14:54:48.063Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T21:09:29.873Z"
+      },
+      "price": 106.78
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T21:03:56.848Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T15:32:37.698Z"
+      },
+      "price": 98.12
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:56.811Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:56.811Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b59ab2c2130a71670be"
+  },
+  "title": "tempore",
+  "description": "Quidem quidem doloremque tempore inventore velit est.",
+  "defaultPrice": 437.25,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 156.61,
+  "address": "Suite 733 192 Lucius Locks, Gaylordport, MA 15261",
+  "location": {
+    "latitude": 15.76572,
+    "longitude": -99.49702
+  },
+  "ownerId": "365-50-0834",
+  "images": [
+    "http://lorempixel.com/1680/1050/people/",
+    "http://lorempixel.com/640/200/city/",
+    "http://lorempixel.com/1680/1050/transport/",
+    "http://lorempixel.com/1600/1200/nightlife/",
+    "http://lorempixel.com/g/720/348/sports/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-10T05:09:40.379Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T00:50:17.007Z"
+      },
+      "price": 90.21
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T13:43:51.367Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T20:01:09.461Z"
+      },
+      "price": 180.92
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T02:34:32.161Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T07:40:56.501Z"
+      },
+      "price": 73.79
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T09:24:10.599Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T16:23:14.856Z"
+      },
+      "price": 163.42
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T09:02:51.678Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T03:25:48.542Z"
+      },
+      "price": 106.42
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:57.186Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:57.186Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b59ab2c2130a71670bf"
+  },
+  "title": "aliquam",
+  "description": "Voluptatem ex quibusdam dolor.",
+  "defaultPrice": 733.8,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 140.52,
+  "address": "Apt. 730 306 Gusikowski Rue, Harberfurt, FL 49319",
+  "location": {
+    "latitude": -11.24665,
+    "longitude": 128.58732
+  },
+  "ownerId": "085-87-0217",
+  "images": [
+    "http://lorempixel.com/g/320/200/sports/",
+    "http://lorempixel.com/640/350/cats/",
+    "http://lorempixel.com/320/200/technics/",
+    "http://lorempixel.com/720/348/technics/",
+    "http://lorempixel.com/1920/1200/people/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-06T03:50:19.371Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T06:51:09.012Z"
+      },
+      "price": 191.75
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T22:24:58.498Z"
+      },
+      "endDate": {
+        "$date": "2023-06-13T16:42:15.585Z"
+      },
+      "price": 92.39
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T14:56:03.769Z"
+      },
+      "endDate": {
+        "$date": "2023-06-13T14:40:30.053Z"
+      },
+      "price": 66.46
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T17:18:32.209Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T17:53:56.763Z"
+      },
+      "price": 184.3
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T23:31:05.654Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T00:34:52.745Z"
+      },
+      "price": 83.68
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:57.554Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:57.554Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b59ab2c2130a71670c0"
+  },
+  "title": "aut",
+  "description": "Incidunt nam nihil dolorum velit fugit.",
+  "defaultPrice": 894.22,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 164.13,
+  "address": "Apt. 392 10963 Dede Common, Aurelioburgh, ME 56908",
+  "location": {
+    "latitude": 1.89741,
+    "longitude": -40.23451
+  },
+  "ownerId": "458-98-1814",
+  "images": [
+    "http://lorempixel.com/1920/1200/nature/",
+    "http://lorempixel.com/g/1920/1200/technics/",
+    "http://lorempixel.com/720/348/cats/",
+    "http://lorempixel.com/720/348/nightlife/",
+    "http://lorempixel.com/1920/1200/animals/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-15T18:08:01.261Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T10:52:19.749Z"
+      },
+      "price": 162.21
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T07:28:24.045Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T11:23:38.251Z"
+      },
+      "price": 71.44
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T04:16:10.104Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T20:01:38.759Z"
+      },
+      "price": 172.25
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T01:04:18.998Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T22:53:05.575Z"
+      },
+      "price": 187.64
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T00:55:14.126Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T03:09:16.954Z"
+      },
+      "price": 68.25
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:57.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:57.893Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5aab2c2130a71670c1"
+  },
+  "title": "dolores",
+  "description": "Eos labore cupiditate ut dolores consequatur fugiat.",
+  "defaultPrice": 654.94,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 33.75,
+  "address": "Apt. 202 986 Nora Lights, Gloverfurt, OK 71918",
+  "location": {
+    "latitude": 29.3104,
+    "longitude": 143.78466
+  },
+  "ownerId": "195-65-9231",
+  "images": [
+    "http://lorempixel.com/1600/1200/nightlife/",
+    "http://lorempixel.com/g/640/350/animals/",
+    "http://lorempixel.com/g/1024/768/animals/",
+    "http://lorempixel.com/640/480/transport/",
+    "http://lorempixel.com/1366/768/animals/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-20T16:21:03.963Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T08:34:59.303Z"
+      },
+      "price": 95.08
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T09:01:37.203Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T00:31:16.102Z"
+      },
+      "price": 119.14
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T00:40:20.195Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T15:26:38.587Z"
+      },
+      "price": 120.25
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T16:09:20.019Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T12:55:06.670Z"
+      },
+      "price": 169.75
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T01:09:51.356Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T20:11:24.397Z"
+      },
+      "price": 177.61
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:58.229Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:58.229Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5aab2c2130a71670c2"
+  },
+  "title": "et",
+  "description": "Aut quo beatae et sed.",
+  "defaultPrice": 877.04,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 1,
+  "area": 184.54,
+  "address": "0187 Runte Locks, Gerholdfurt, KY 20749",
+  "location": {
+    "latitude": 57.01094,
+    "longitude": -141.44577
+  },
+  "ownerId": "339-82-0080",
+  "images": [
+    "http://lorempixel.com/1366/768/business/",
+    "http://lorempixel.com/1366/768/nightlife/",
+    "http://lorempixel.com/g/640/480/nightlife/",
+    "http://lorempixel.com/g/720/348/nature/",
+    "http://lorempixel.com/g/640/480/abstract/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-02T06:21:33.315Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T18:09:54.220Z"
+      },
+      "price": 145.29
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T23:58:53.920Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T11:00:13.545Z"
+      },
+      "price": 137.22
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T18:50:24.949Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T00:10:08.306Z"
+      },
+      "price": 134.4
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T02:41:14.349Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T17:55:26.257Z"
+      },
+      "price": 181.98
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T07:01:27.730Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T07:40:59.873Z"
+      },
+      "price": 192
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:58.567Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:58.567Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5aab2c2130a71670c3"
+  },
+  "title": "autem",
+  "description": "Unde vitae rem sed non cupiditate.",
+  "defaultPrice": 912.76,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 110.19,
+  "address": "Apt. 556 8426 Dewey Forges, Johnathonborough, CA 99244-6651",
+  "location": {
+    "latitude": 37.91224,
+    "longitude": -47.52265
+  },
+  "ownerId": "033-68-8232",
+  "images": [
+    "http://lorempixel.com/1024/768/fashion/",
+    "http://lorempixel.com/720/348/fashion/",
+    "http://lorempixel.com/1600/1200/city/",
+    "http://lorempixel.com/g/1920/1200/business/",
+    "http://lorempixel.com/1366/768/city/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-04T05:02:37.042Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T02:22:07.957Z"
+      },
+      "price": 115.69
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T12:54:19.089Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T12:52:12.018Z"
+      },
+      "price": 138.88
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T12:05:11.253Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T21:07:24.811Z"
+      },
+      "price": 152.74
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T20:05:53.366Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T17:41:35.200Z"
+      },
+      "price": 179.13
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T22:12:45.268Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T06:44:59.023Z"
+      },
+      "price": 125.51
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:58.931Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:58.931Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5bab2c2130a71670c4"
+  },
+  "title": "deserunt",
+  "description": "Qui voluptates facilis eum libero quia et.",
+  "defaultPrice": 358.67,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 33.23,
+  "address": "497 Jones Route, Dennyberg, KY 78606-7700",
+  "location": {
+    "latitude": 28.51849,
+    "longitude": 40.99086
+  },
+  "ownerId": "245-37-2209",
+  "images": [
+    "http://lorempixel.com/1366/768/fashion/",
+    "http://lorempixel.com/720/348/abstract/",
+    "http://lorempixel.com/g/1600/1200/nightlife/",
+    "http://lorempixel.com/720/348/nightlife/",
+    "http://lorempixel.com/1600/1200/transport/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-12T02:42:25.081Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T16:24:18.853Z"
+      },
+      "price": 138.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T10:55:34.389Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T12:01:07.258Z"
+      },
+      "price": 173.64
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T23:08:00.274Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T15:03:55.708Z"
+      },
+      "price": 188.04
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T00:09:40.555Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T01:39:39.303Z"
+      },
+      "price": 155.18
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T19:50:48.390Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T07:13:44.880Z"
+      },
+      "price": 188.72
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:59.269Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:59.269Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5bab2c2130a71670c5"
+  },
+  "title": "ut",
+  "description": "Ipsam aspernatur voluptas.",
+  "defaultPrice": 174.85,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 1,
+  "area": 152.95,
+  "address": "Apt. 335 10844 Teisha Mountain, North Murray, OR 16252-9818",
+  "location": {
+    "latitude": -78.24397,
+    "longitude": 147.09164
+  },
+  "ownerId": "136-62-2541",
+  "images": [
+    "http://lorempixel.com/g/1280/1024/animals/",
+    "http://lorempixel.com/g/1920/1200/abstract/",
+    "http://lorempixel.com/1680/1050/city/",
+    "http://lorempixel.com/320/200/technics/",
+    "http://lorempixel.com/1920/1200/nightlife/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-07T10:49:03.079Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T11:30:20.680Z"
+      },
+      "price": 100.44
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T04:38:45.400Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T00:22:14.733Z"
+      },
+      "price": 89.79
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-04T19:32:20.631Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T00:17:02.751Z"
+      },
+      "price": 147.72
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T16:29:39.896Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T17:27:10.891Z"
+      },
+      "price": 68.7
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-03T19:22:15.705Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T16:21:39.219Z"
+      },
+      "price": 58.14
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:12:59.628Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:12:59.628Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5cab2c2130a71670c6"
+  },
+  "title": "id",
+  "description": "Neque facilis illo beatae iure.",
+  "defaultPrice": 235.19,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 71.86,
+  "address": "Apt. 699 21067 Roslyn Prairie, New Velvetburgh, KS 18968",
+  "location": {
+    "latitude": -74.24258,
+    "longitude": 127.07231
+  },
+  "ownerId": "200-56-2430",
+  "images": [
+    "http://lorempixel.com/1024/768/nature/",
+    "http://lorempixel.com/g/1600/1200/fashion/",
+    "http://lorempixel.com/g/640/350/abstract/",
+    "http://lorempixel.com/640/350/people/",
+    "http://lorempixel.com/1920/1200/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-29T12:15:08.757Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T04:35:07.186Z"
+      },
+      "price": 169.11
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T18:35:22.258Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T08:39:18.194Z"
+      },
+      "price": 195.05
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T07:37:13.973Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T04:08:14.454Z"
+      },
+      "price": 136.4
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T06:43:54.012Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T07:02:02.433Z"
+      },
+      "price": 149.71
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T03:04:36.554Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T23:46:09.004Z"
+      },
+      "price": 68.21
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:00.058Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:00.058Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5cab2c2130a71670c7"
+  },
+  "title": "harum",
+  "description": "Perspiciatis illo ipsa earum.",
+  "defaultPrice": 757.17,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 1,
+  "area": 116.88,
+  "address": "206 Lesch Route, Lake Orvilleport, NY 67405",
+  "location": {
+    "latitude": -84.97371,
+    "longitude": 4.89783
+  },
+  "ownerId": "565-74-4751",
+  "images": [
+    "http://lorempixel.com/1600/1200/nature/",
+    "http://lorempixel.com/640/480/animals/",
+    "http://lorempixel.com/1920/1200/abstract/",
+    "http://lorempixel.com/g/1920/1200/fashion/",
+    "http://lorempixel.com/g/1024/768/abstract/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T07:06:46.050Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T04:21:33.347Z"
+      },
+      "price": 189.18
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T10:15:48.585Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T02:07:44.357Z"
+      },
+      "price": 113.41
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T19:32:20.856Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T03:37:11.821Z"
+      },
+      "price": 50.56
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T03:36:39.609Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T11:31:47.145Z"
+      },
+      "price": 158.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T00:03:41.368Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T16:54:38.465Z"
+      },
+      "price": 152.24
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:00.577Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:00.577Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5dab2c2130a71670c8"
+  },
+  "title": "tempora",
+  "description": "Atque ullam fugiat a.",
+  "defaultPrice": 280.35,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 63.38,
+  "address": "Apt. 515 0495 Natisha Grove, East Donaldfurt, CA 83682-1364",
+  "location": {
+    "latitude": 24.61549,
+    "longitude": 101.7587
+  },
+  "ownerId": "844-05-0448",
+  "images": [
+    "http://lorempixel.com/g/640/350/food/",
+    "http://lorempixel.com/1920/1200/business/",
+    "http://lorempixel.com/g/1366/768/animals/",
+    "http://lorempixel.com/g/640/350/transport/",
+    "http://lorempixel.com/1920/1200/transport/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-23T08:56:44.881Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T16:30:30.807Z"
+      },
+      "price": 101.74
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T15:31:07.092Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T00:58:41.253Z"
+      },
+      "price": 89.67
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T07:46:22.368Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T01:23:52.242Z"
+      },
+      "price": 87.33
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T23:17:38.176Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T12:38:04.686Z"
+      },
+      "price": 118.4
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T07:54:28.402Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T10:17:45.926Z"
+      },
+      "price": 186.5
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:01.060Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:01.060Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5dab2c2130a71670c9"
+  },
+  "title": "aliquam",
+  "description": "Ea eum rerum.",
+  "defaultPrice": 142.11,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 104.15,
+  "address": "Suite 379 106 Hermiston Divide, New Millicent, NE 16648",
+  "location": {
+    "latitude": -71.17843,
+    "longitude": -80.43697
+  },
+  "ownerId": "117-60-4750",
+  "images": [
+    "http://lorempixel.com/640/350/people/",
+    "http://lorempixel.com/1600/1200/food/",
+    "http://lorempixel.com/640/350/nightlife/",
+    "http://lorempixel.com/640/480/city/",
+    "http://lorempixel.com/g/640/480/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-19T08:31:34.710Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T22:28:37.975Z"
+      },
+      "price": 76.25
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T01:28:06.501Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T03:49:05.088Z"
+      },
+      "price": 141.96
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T00:06:54.091Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T14:44:26.881Z"
+      },
+      "price": 152.34
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T09:03:31.711Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T20:22:20.442Z"
+      },
+      "price": 78.92
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T17:21:11.510Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T13:21:06.626Z"
+      },
+      "price": 73.97
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:01.579Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:01.579Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5eab2c2130a71670ca"
+  },
+  "title": "consequatur",
+  "description": "Deserunt suscipit deserunt.",
+  "defaultPrice": 439.92,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 88.7,
+  "address": "9672 Tillman Square, South Laurice, OK 33398",
+  "location": {
+    "latitude": -27.87892,
+    "longitude": 133.00987
+  },
+  "ownerId": "366-33-5944",
+  "images": [
+    "http://lorempixel.com/g/640/350/abstract/",
+    "http://lorempixel.com/g/640/350/fashion/",
+    "http://lorempixel.com/g/1680/1050/abstract/",
+    "http://lorempixel.com/g/1024/768/abstract/",
+    "http://lorempixel.com/g/320/200/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-24T03:53:01.587Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T05:38:21.002Z"
+      },
+      "price": 77.42
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T03:11:55.735Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T12:55:56.116Z"
+      },
+      "price": 79.41
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T12:35:42.077Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T13:02:03.876Z"
+      },
+      "price": 95.77
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T03:26:15.206Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T00:37:49.981Z"
+      },
+      "price": 171.95
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T00:16:43.880Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T09:55:19.468Z"
+      },
+      "price": 166.44
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:02.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:02.010Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5eab2c2130a71670cb"
+  },
+  "title": "at",
+  "description": "Quo assumenda odit fuga consequuntur natus aliquam temporibus.",
+  "defaultPrice": 539.24,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 43.36,
+  "address": "537 Walter Street, Macejkovicside, ME 02525",
+  "location": {
+    "latitude": 1.33221,
+    "longitude": 100.08768
+  },
+  "ownerId": "530-29-9067",
+  "images": [
+    "http://lorempixel.com/1680/1050/sports/",
+    "http://lorempixel.com/g/1680/1050/animals/",
+    "http://lorempixel.com/1024/768/abstract/",
+    "http://lorempixel.com/g/1920/1200/sports/",
+    "http://lorempixel.com/1600/1200/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-17T13:32:24.110Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T20:45:42.047Z"
+      },
+      "price": 53.63
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T11:29:09.453Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T18:54:34.953Z"
+      },
+      "price": 66.09
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T20:56:32.830Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T10:49:13.918Z"
+      },
+      "price": 184.66
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T04:31:02.015Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T09:44:05.660Z"
+      },
+      "price": 79.03
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T05:26:29.911Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T08:52:08.492Z"
+      },
+      "price": 118.72
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:02.545Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:02.545Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5eab2c2130a71670cc"
+  },
+  "title": "error",
+  "description": "Et enim sint et esse.",
+  "defaultPrice": 380.87,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 80.74,
+  "address": "01640 Fay Forks, Rosenbaumstad, NH 47504-5551",
+  "location": {
+    "latitude": -7.19473,
+    "longitude": -44.86661
+  },
+  "ownerId": "448-53-4927",
+  "images": [
+    "http://lorempixel.com/320/200/people/",
+    "http://lorempixel.com/1600/1200/sports/",
+    "http://lorempixel.com/640/200/business/",
+    "http://lorempixel.com/g/720/348/transport/",
+    "http://lorempixel.com/g/1680/1050/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-01T10:41:57.986Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T08:31:51.005Z"
+      },
+      "price": 195.6
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T03:55:42.837Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T02:11:43.898Z"
+      },
+      "price": 124.76
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T06:38:31.106Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T03:59:22.933Z"
+      },
+      "price": 187.7
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T00:45:32.283Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T03:03:16.034Z"
+      },
+      "price": 171.26
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T00:44:16.790Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T15:41:38.517Z"
+      },
+      "price": 154.9
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:02.976Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:02.976Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5fab2c2130a71670cd"
+  },
+  "title": "et",
+  "description": "Dignissimos facere cupiditate soluta.",
+  "defaultPrice": 963.97,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 165.03,
+  "address": "976 Beer Islands, Port Cleoberg, OK 91315-0438",
+  "location": {
+    "latitude": 17.60049,
+    "longitude": -119.80352
+  },
+  "ownerId": "172-66-2572",
+  "images": [
+    "http://lorempixel.com/g/640/200/people/",
+    "http://lorempixel.com/g/1366/768/cats/",
+    "http://lorempixel.com/1600/1200/nightlife/",
+    "http://lorempixel.com/640/200/cats/",
+    "http://lorempixel.com/g/1920/1200/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-10T04:25:37.792Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T12:45:19.929Z"
+      },
+      "price": 167.98
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T04:15:08.939Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T03:30:49.167Z"
+      },
+      "price": 80.87
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T14:20:05.741Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T01:04:24.141Z"
+      },
+      "price": 69.95
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T12:38:46.536Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T11:25:14.841Z"
+      },
+      "price": 116.13
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T13:15:31.948Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T07:45:58.567Z"
+      },
+      "price": 165.48
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:03.333Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:03.333Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b5fab2c2130a71670ce"
+  },
+  "title": "qui",
+  "description": "Delectus totam architecto et.",
+  "defaultPrice": 664.94,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 58.52,
+  "address": "Apt. 874 6596 Pat Freeway, Port Tawandafurt, MS 43787-5207",
+  "location": {
+    "latitude": -9.90291,
+    "longitude": 146.32396
+  },
+  "ownerId": "739-28-0114",
+  "images": [
+    "http://lorempixel.com/g/640/480/city/",
+    "http://lorempixel.com/g/1680/1050/food/",
+    "http://lorempixel.com/640/200/nature/",
+    "http://lorempixel.com/g/720/348/city/",
+    "http://lorempixel.com/1280/1024/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-21T08:33:13.007Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T06:39:18.664Z"
+      },
+      "price": 170.72
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T12:00:37.151Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T12:46:32.397Z"
+      },
+      "price": 138.67
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T03:49:26.380Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T10:20:22.471Z"
+      },
+      "price": 73.66
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T07:57:59.905Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T03:14:38.725Z"
+      },
+      "price": 85.79
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T08:31:54.123Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T16:35:25.563Z"
+      },
+      "price": 119.39
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:03.693Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:03.693Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b60ab2c2130a71670cf"
+  },
+  "title": "odio",
+  "description": "Ut optio veniam expedita.",
+  "defaultPrice": 469.32,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 93.74,
+  "address": "Suite 194 468 Bogan Pines, Ronaldmouth, TN 71411",
+  "location": {
+    "latitude": 3.46738,
+    "longitude": -122.17372
+  },
+  "ownerId": "866-32-6600",
+  "images": [
+    "http://lorempixel.com/g/640/200/abstract/",
+    "http://lorempixel.com/g/640/350/food/",
+    "http://lorempixel.com/g/1366/768/food/",
+    "http://lorempixel.com/640/350/nightlife/",
+    "http://lorempixel.com/1280/1024/nightlife/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-26T12:12:01.198Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T08:39:29.513Z"
+      },
+      "price": 185.97
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T04:00:38.648Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T06:44:51.769Z"
+      },
+      "price": 143.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T19:22:44.373Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T18:29:20.696Z"
+      },
+      "price": 159.47
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T10:34:38.496Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T01:04:53.163Z"
+      },
+      "price": 148.7
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T01:33:24.356Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T07:54:54.140Z"
+      },
+      "price": 71.25
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:04.060Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:04.060Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b60ab2c2130a71670d0"
+  },
+  "title": "voluptatum",
+  "description": "Ea iste autem quam ut voluptatibus deserunt aut.",
+  "defaultPrice": 410.76,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 81.68,
+  "address": "Apt. 146 633 Mayer Corner, Lindseyburgh, IA 24898-8258",
+  "location": {
+    "latitude": 23.14541,
+    "longitude": 39.30329
+  },
+  "ownerId": "210-93-7843",
+  "images": [
+    "http://lorempixel.com/720/348/technics/",
+    "http://lorempixel.com/g/640/480/nature/",
+    "http://lorempixel.com/g/1024/768/cats/",
+    "http://lorempixel.com/g/640/350/people/",
+    "http://lorempixel.com/g/1280/1024/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T21:01:35.213Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T15:14:15.627Z"
+      },
+      "price": 169.41
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T08:36:37.537Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T02:40:04.012Z"
+      },
+      "price": 161.69
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T12:03:08.807Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T12:53:36.898Z"
+      },
+      "price": 108.77
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T19:37:23.451Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T03:24:46.913Z"
+      },
+      "price": 153.52
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T14:09:08.344Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T06:27:55.107Z"
+      },
+      "price": 166.64
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:04.387Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:04.387Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b60ab2c2130a71670d1"
+  },
+  "title": "enim",
+  "description": "Et sequi aut sint numquam.",
+  "defaultPrice": 982.97,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 188.5,
+  "address": "0098 Earlene Points, West Laurencebury, OH 77607",
+  "location": {
+    "latitude": -50.86459,
+    "longitude": -178.211
+  },
+  "ownerId": "040-70-3078",
+  "images": [
+    "http://lorempixel.com/1024/768/business/",
+    "http://lorempixel.com/g/1280/1024/nightlife/",
+    "http://lorempixel.com/1366/768/city/",
+    "http://lorempixel.com/g/640/480/technics/",
+    "http://lorempixel.com/g/1920/1200/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-10T08:32:51.097Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T05:46:03.081Z"
+      },
+      "price": 80.87
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T14:02:29.070Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T12:41:02.534Z"
+      },
+      "price": 173.31
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T01:41:16.278Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T02:59:56.122Z"
+      },
+      "price": 147.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T15:16:25.526Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T01:07:26.481Z"
+      },
+      "price": 83.06
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T22:23:00.068Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T12:51:16.909Z"
+      },
+      "price": 152.99
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:04.744Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:04.744Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b61ab2c2130a71670d2"
+  },
+  "title": "tenetur",
+  "description": "Ea est vero sapiente sequi.",
+  "defaultPrice": 340.47,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 1,
+  "area": 92.55,
+  "address": "Apt. 952 428 Jenkins Lane, Port Orlandoshire, ID 12830-0653",
+  "location": {
+    "latitude": 10.07679,
+    "longitude": -75.84137
+  },
+  "ownerId": "852-99-8559",
+  "images": [
+    "http://lorempixel.com/1920/1200/sports/",
+    "http://lorempixel.com/g/1920/1200/cats/",
+    "http://lorempixel.com/g/1280/1024/nightlife/",
+    "http://lorempixel.com/g/640/200/technics/",
+    "http://lorempixel.com/1024/768/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-15T11:53:40.607Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T13:59:56.757Z"
+      },
+      "price": 86.91
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T07:43:33.705Z"
+      },
+      "endDate": {
+        "$date": "2023-06-13T17:36:30.722Z"
+      },
+      "price": 123.85
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T07:00:45.788Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T08:35:07.633Z"
+      },
+      "price": 119.31
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-28T19:47:43.906Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T05:03:52.501Z"
+      },
+      "price": 174.56
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T15:19:29.974Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T19:09:46.941Z"
+      },
+      "price": 89.32
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:05.088Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:05.088Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b61ab2c2130a71670d3"
+  },
+  "title": "consequuntur",
+  "description": "Velit non commodi corrupti maxime.",
+  "defaultPrice": 850.14,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 2,
+  "area": 59.22,
+  "address": "Apt. 597 45294 Harber Unions, Walkerfurt, VA 79453-4580",
+  "location": {
+    "latitude": -17.19739,
+    "longitude": 9.84696
+  },
+  "ownerId": "532-91-7966",
+  "images": [
+    "http://lorempixel.com/g/320/200/sports/",
+    "http://lorempixel.com/g/720/348/nature/",
+    "http://lorempixel.com/g/320/200/transport/",
+    "http://lorempixel.com/g/1024/768/cats/",
+    "http://lorempixel.com/720/348/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-15T02:26:20.044Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T13:38:32.710Z"
+      },
+      "price": 159.34
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T03:54:10.929Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T23:16:12.443Z"
+      },
+      "price": 85.46
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-04T18:20:36.075Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T14:54:56.059Z"
+      },
+      "price": 122.67
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T19:53:47.431Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T06:07:14.982Z"
+      },
+      "price": 193.19
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T23:47:39.777Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T13:22:46.097Z"
+      },
+      "price": 187.17
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:05.467Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:05.467Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b61ab2c2130a71670d4"
+  },
+  "title": "quis",
+  "description": "Aspernatur repudiandae accusantium.",
+  "defaultPrice": 624.46,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 175.62,
+  "address": "Suite 214 9939 Yu Brooks, New Andrewside, IN 23670-9166",
+  "location": {
+    "latitude": 1.40813,
+    "longitude": -96.52411
+  },
+  "ownerId": "588-40-4084",
+  "images": [
+    "http://lorempixel.com/720/348/abstract/",
+    "http://lorempixel.com/g/640/200/animals/",
+    "http://lorempixel.com/1680/1050/business/",
+    "http://lorempixel.com/720/348/technics/",
+    "http://lorempixel.com/g/640/480/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T16:13:19.760Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T04:45:16.415Z"
+      },
+      "price": 191.19
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T19:56:53.910Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T02:45:09.653Z"
+      },
+      "price": 178.41
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T14:09:56.442Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T12:37:10.747Z"
+      },
+      "price": 64.65
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-28T01:07:08.776Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T08:24:00.345Z"
+      },
+      "price": 190.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T03:05:42.557Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T19:40:43.484Z"
+      },
+      "price": 177.48
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:05.827Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:05.827Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b62ab2c2130a71670d5"
+  },
+  "title": "quis",
+  "description": "Natus dolorem et.",
+  "defaultPrice": 817.28,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 1,
+  "area": 121.85,
+  "address": "Apt. 423 3554 Jerde Shore, Lynellside, IL 27207-1164",
+  "location": {
+    "latitude": -34.68986,
+    "longitude": -31.71349
+  },
+  "ownerId": "158-55-3225",
+  "images": [
+    "http://lorempixel.com/g/1280/1024/cats/",
+    "http://lorempixel.com/g/1280/1024/cats/",
+    "http://lorempixel.com/g/640/480/business/",
+    "http://lorempixel.com/1024/768/animals/",
+    "http://lorempixel.com/g/640/200/transport/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T19:40:35.751Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T08:09:16.296Z"
+      },
+      "price": 187.17
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T17:20:53.495Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T08:45:07.401Z"
+      },
+      "price": 131.73
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T21:53:50.883Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T21:02:48.993Z"
+      },
+      "price": 65.53
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T18:45:33.823Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T06:56:35.536Z"
+      },
+      "price": 59.68
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T19:20:52.142Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T16:34:41.694Z"
+      },
+      "price": 100.37
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:06.165Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:06.165Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b62ab2c2130a71670d6"
+  },
+  "title": "quis",
+  "description": "Distinctio unde natus voluptates.",
+  "defaultPrice": 896.28,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 57.57,
+  "address": "Suite 262 71760 Dach Circle, Rickiville, WI 20823",
+  "location": {
+    "latitude": 27.1826,
+    "longitude": 108.74497
+  },
+  "ownerId": "269-85-6237",
+  "images": [
+    "http://lorempixel.com/g/1680/1050/abstract/",
+    "http://lorempixel.com/640/350/sports/",
+    "http://lorempixel.com/1920/1200/transport/",
+    "http://lorempixel.com/720/348/business/",
+    "http://lorempixel.com/1024/768/abstract/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-24T00:14:48.000Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T12:29:41.961Z"
+      },
+      "price": 82.49
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T10:40:47.720Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T18:52:12.585Z"
+      },
+      "price": 79.37
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T18:03:47.155Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T03:00:15.388Z"
+      },
+      "price": 137.21
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T21:37:47.603Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T19:06:40.749Z"
+      },
+      "price": 187.28
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T01:47:14.533Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T13:02:13.665Z"
+      },
+      "price": 53.33
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:06.686Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:06.686Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b63ab2c2130a71670d7"
+  },
+  "title": "quia",
+  "description": "Quod est praesentium odit.",
+  "defaultPrice": 214.67,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 1,
+  "area": 189.64,
+  "address": "41632 Bartell Avenue, Heleneshire, AR 84970",
+  "location": {
+    "latitude": -46.02103,
+    "longitude": -82.42747
+  },
+  "ownerId": "581-82-3742",
+  "images": [
+    "http://lorempixel.com/g/1366/768/abstract/",
+    "http://lorempixel.com/1920/1200/cats/",
+    "http://lorempixel.com/g/1024/768/business/",
+    "http://lorempixel.com/1600/1200/fashion/",
+    "http://lorempixel.com/1024/768/sports/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-27T08:33:57.506Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T10:24:44.245Z"
+      },
+      "price": 53.31
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T05:16:09.218Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T08:55:03.467Z"
+      },
+      "price": 158.01
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T13:58:59.189Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T11:31:39.343Z"
+      },
+      "price": 54.89
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T02:15:12.239Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T08:52:02.416Z"
+      },
+      "price": 141.99
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T21:32:11.490Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T08:19:07.365Z"
+      },
+      "price": 116.37
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:07.056Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:07.056Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b63ab2c2130a71670d8"
+  },
+  "title": "vero",
+  "description": "Voluptatum nostrum et libero dolores temporibus.",
+  "defaultPrice": 152.64,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 2,
+  "area": 171.52,
+  "address": "542 Von Pines, East Indiafort, ID 97688-8783",
+  "location": {
+    "latitude": 57.51751,
+    "longitude": 62.09194
+  },
+  "ownerId": "275-65-2134",
+  "images": [
+    "http://lorempixel.com/640/350/technics/",
+    "http://lorempixel.com/g/1280/1024/technics/",
+    "http://lorempixel.com/g/640/200/food/",
+    "http://lorempixel.com/640/480/business/",
+    "http://lorempixel.com/640/480/nature/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-06T17:30:51.889Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T01:36:07.351Z"
+      },
+      "price": 58.03
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T12:54:26.154Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T23:16:10.590Z"
+      },
+      "price": 190.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T12:43:12.105Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T18:01:06.355Z"
+      },
+      "price": 179
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T13:47:22.844Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T19:48:55.483Z"
+      },
+      "price": 168.37
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-03T17:52:40.794Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T04:20:12.746Z"
+      },
+      "price": 171.75
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:07.418Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:07.418Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b63ab2c2130a71670d9"
+  },
+  "title": "ratione",
+  "description": "Magni doloribus neque corporis voluptatem ipsum ducimus.",
+  "defaultPrice": 837.12,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 123.79,
+  "address": "Suite 228 4561 Misti Vista, Martyton, VT 44083-6693",
+  "location": {
+    "latitude": 41.76613,
+    "longitude": 159.34801
+  },
+  "ownerId": "843-86-4582",
+  "images": [
+    "http://lorempixel.com/g/640/200/abstract/",
+    "http://lorempixel.com/g/1366/768/animals/",
+    "http://lorempixel.com/640/200/cats/",
+    "http://lorempixel.com/g/640/480/abstract/",
+    "http://lorempixel.com/g/1680/1050/technics/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-12T04:07:43.289Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T22:04:54.238Z"
+      },
+      "price": 135.74
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T20:39:20.997Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T05:56:00.627Z"
+      },
+      "price": 195.42
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T14:44:29.052Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T19:12:43.726Z"
+      },
+      "price": 64.03
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T09:33:22.426Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T14:32:56.064Z"
+      },
+      "price": 60.46
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-14T21:18:17.785Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T13:32:20.671Z"
+      },
+      "price": 193.2
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:07.787Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:07.787Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b64ab2c2130a71670da"
+  },
+  "title": "excepturi",
+  "description": "Voluptatum inventore culpa necessitatibus.",
+  "defaultPrice": 126.03,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 1,
+  "area": 108.45,
+  "address": "Apt. 375 59722 Donnell Ridge, Chantalshire, WV 37708",
+  "location": {
+    "latitude": -84.15843,
+    "longitude": -56.32785
+  },
+  "ownerId": "234-47-2683",
+  "images": [
+    "http://lorempixel.com/1920/1200/nightlife/",
+    "http://lorempixel.com/1920/1200/nightlife/",
+    "http://lorempixel.com/1600/1200/sports/",
+    "http://lorempixel.com/g/1920/1200/nightlife/",
+    "http://lorempixel.com/g/1680/1050/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-08T20:26:24.496Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T10:14:26.629Z"
+      },
+      "price": 64.37
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T12:52:28.683Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T04:26:23.651Z"
+      },
+      "price": 136.95
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T00:11:01.371Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T12:50:24.427Z"
+      },
+      "price": 98.63
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T17:46:28.552Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T18:50:57.914Z"
+      },
+      "price": 123.77
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T08:45:48.231Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T07:09:51.894Z"
+      },
+      "price": 185.52
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:08.227Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:08.227Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b64ab2c2130a71670db"
+  },
+  "title": "rerum",
+  "description": "Reiciendis vero laboriosam facilis aut quo non.",
+  "defaultPrice": 710.5,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 178.69,
+  "address": "Apt. 344 85396 Kuhic Springs, Lake Clare, AR 64225-4941",
+  "location": {
+    "latitude": 35.33755,
+    "longitude": 43.29033
+  },
+  "ownerId": "519-97-0657",
+  "images": [
+    "http://lorempixel.com/g/1920/1200/transport/",
+    "http://lorempixel.com/g/640/480/transport/",
+    "http://lorempixel.com/1024/768/people/",
+    "http://lorempixel.com/g/720/348/people/",
+    "http://lorempixel.com/640/200/sports/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T21:29:23.237Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T20:44:13.786Z"
+      },
+      "price": 143.58
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T03:25:12.366Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T08:24:14.909Z"
+      },
+      "price": 169.61
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T03:18:25.945Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T19:42:05.520Z"
+      },
+      "price": 65.92
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T18:34:06.722Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T14:56:24.484Z"
+      },
+      "price": 157.33
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T06:18:06.132Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T06:10:38.098Z"
+      },
+      "price": 157.67
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:08.641Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:08.641Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b65ab2c2130a71670dc"
+  },
+  "title": "debitis",
+  "description": "Quod et consequatur rerum.",
+  "defaultPrice": 652.79,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 145.21,
+  "address": "84140 Sporer Walk, Jeramyburgh, AR 98475-1811",
+  "location": {
+    "latitude": 70.25715,
+    "longitude": 69.95513
+  },
+  "ownerId": "068-48-5052",
+  "images": [
+    "http://lorempixel.com/1024/768/nature/",
+    "http://lorempixel.com/g/1920/1200/animals/",
+    "http://lorempixel.com/g/1920/1200/nightlife/",
+    "http://lorempixel.com/g/1024/768/sports/",
+    "http://lorempixel.com/320/200/technics/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-07T15:39:59.224Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T03:47:13.731Z"
+      },
+      "price": 77.56
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T08:02:20.858Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T11:23:03.461Z"
+      },
+      "price": 93.71
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-28T03:22:55.800Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T17:37:43.739Z"
+      },
+      "price": 169.68
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T16:11:17.375Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T16:13:45.993Z"
+      },
+      "price": 55.45
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T12:20:22.736Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T18:47:15.795Z"
+      },
+      "price": 166.26
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:09.044Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:09.044Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b65ab2c2130a71670dd"
+  },
+  "title": "et",
+  "description": "Eveniet nisi ad itaque nisi.",
+  "defaultPrice": 870.26,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 39.2,
+  "address": "722 Schroeder Hills, Purdyhaven, TX 02755",
+  "location": {
+    "latitude": -50.30372,
+    "longitude": 38.49427
+  },
+  "ownerId": "216-31-6407",
+  "images": [
+    "http://lorempixel.com/720/348/animals/",
+    "http://lorempixel.com/g/320/200/abstract/",
+    "http://lorempixel.com/g/640/350/animals/",
+    "http://lorempixel.com/g/640/480/sports/",
+    "http://lorempixel.com/640/480/nature/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T22:27:15.093Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T05:33:44.835Z"
+      },
+      "price": 184.98
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T07:36:07.337Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T12:56:11.248Z"
+      },
+      "price": 173.28
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-04T12:20:11.003Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T00:02:46.543Z"
+      },
+      "price": 161.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T19:18:17.861Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T04:46:08.212Z"
+      },
+      "price": 174.43
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T05:10:07.543Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T20:32:04.774Z"
+      },
+      "price": 133.51
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:09.444Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:09.444Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b65ab2c2130a71670de"
+  },
+  "title": "quia",
+  "description": "Ex omnis iure enim dicta non praesentium.",
+  "defaultPrice": 616.62,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 41.01,
+  "address": "Apt. 359 6451 Doyle Burgs, West Micheal, IN 46166-6768",
+  "location": {
+    "latitude": -57.04951,
+    "longitude": -47.36073
+  },
+  "ownerId": "409-56-1812",
+  "images": [
+    "http://lorempixel.com/g/640/350/nature/",
+    "http://lorempixel.com/g/640/350/technics/",
+    "http://lorempixel.com/g/1920/1200/city/",
+    "http://lorempixel.com/320/200/fashion/",
+    "http://lorempixel.com/g/320/200/abstract/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-10T16:34:32.618Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T09:20:09.146Z"
+      },
+      "price": 88.01
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T04:07:29.924Z"
+      },
+      "endDate": {
+        "$date": "2023-06-13T18:46:46.343Z"
+      },
+      "price": 169.75
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T03:15:05.728Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T19:09:41.024Z"
+      },
+      "price": 132.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T21:21:37.058Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T08:45:20.029Z"
+      },
+      "price": 121.05
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T10:16:53.949Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T02:21:50.005Z"
+      },
+      "price": 104.18
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:09.840Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:09.840Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b66ab2c2130a71670df"
+  },
+  "title": "ut",
+  "description": "Officia qui aspernatur iure a ea voluptatum.",
+  "defaultPrice": 112.91,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 54.32,
+  "address": "52844 Lubowitz Inlet, South Manuelaton, RI 35835-3561",
+  "location": {
+    "latitude": 9.1521,
+    "longitude": 77.0041
+  },
+  "ownerId": "383-81-2183",
+  "images": [
+    "http://lorempixel.com/g/1920/1200/people/",
+    "http://lorempixel.com/g/1366/768/nightlife/",
+    "http://lorempixel.com/g/320/200/nature/",
+    "http://lorempixel.com/1920/1200/business/",
+    "http://lorempixel.com/1600/1200/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-13T04:07:06.961Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T15:23:07.947Z"
+      },
+      "price": 139.01
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T14:52:08.019Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T06:31:09.852Z"
+      },
+      "price": 129.89
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T02:05:34.793Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T03:24:35.101Z"
+      },
+      "price": 171.56
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T12:09:55.383Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T14:22:17.203Z"
+      },
+      "price": 188.33
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T02:08:05.016Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T11:25:31.628Z"
+      },
+      "price": 169.32
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:10.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:10.226Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b66ab2c2130a71670e0"
+  },
+  "title": "eum",
+  "description": "Qui saepe cum itaque rem et distinctio minus.",
+  "defaultPrice": 960.61,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 1,
+  "area": 59.76,
+  "address": "Suite 981 76434 Hand Squares, North Jedland, MD 50436-1250",
+  "location": {
+    "latitude": -23.91341,
+    "longitude": -19.385
+  },
+  "ownerId": "691-31-6760",
+  "images": [
+    "http://lorempixel.com/g/640/480/city/",
+    "http://lorempixel.com/g/640/480/food/",
+    "http://lorempixel.com/1024/768/cats/",
+    "http://lorempixel.com/1680/1050/city/",
+    "http://lorempixel.com/g/720/348/abstract/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-22T04:27:33.390Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T17:16:31.748Z"
+      },
+      "price": 172.2
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T04:12:04.975Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T21:29:47.152Z"
+      },
+      "price": 118.5
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T15:52:04.481Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T11:37:27.020Z"
+      },
+      "price": 50.14
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T09:36:44.815Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T09:57:30.407Z"
+      },
+      "price": 191.14
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T21:27:12.441Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T11:16:28.100Z"
+      },
+      "price": 99.29
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:10.629Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:10.629Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b67ab2c2130a71670e1"
+  },
+  "title": "explicabo",
+  "description": "Eligendi quas aut.",
+  "defaultPrice": 103.39,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 1,
+  "area": 109.11,
+  "address": "409 Sylvia Harbors, Bogisichland, RI 96124-4461",
+  "location": {
+    "latitude": -79.77591,
+    "longitude": -94.6687
+  },
+  "ownerId": "304-87-6520",
+  "images": [
+    "http://lorempixel.com/640/350/city/",
+    "http://lorempixel.com/g/720/348/animals/",
+    "http://lorempixel.com/720/348/nature/",
+    "http://lorempixel.com/g/1024/768/city/",
+    "http://lorempixel.com/640/480/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-15T10:12:48.031Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T09:14:27.302Z"
+      },
+      "price": 70.34
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T06:26:39.917Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T18:45:52.942Z"
+      },
+      "price": 172.02
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T07:14:04.801Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T18:53:32.204Z"
+      },
+      "price": 158.12
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T18:38:23.065Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T18:16:40.050Z"
+      },
+      "price": 145.39
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-10T22:52:01.114Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T14:13:45.444Z"
+      },
+      "price": 65.3
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:11.000Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:11.000Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b67ab2c2130a71670e2"
+  },
+  "title": "dolor",
+  "description": "Odit ut perspiciatis placeat dolorem in et.",
+  "defaultPrice": 601.86,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 67.98,
+  "address": "Apt. 861 3037 Jae Via, Reillyfurt, NH 39571",
+  "location": {
+    "latitude": -56.61491,
+    "longitude": 76.91068
+  },
+  "ownerId": "235-72-2371",
+  "images": [
+    "http://lorempixel.com/g/720/348/business/",
+    "http://lorempixel.com/1600/1200/business/",
+    "http://lorempixel.com/g/1024/768/technics/",
+    "http://lorempixel.com/1280/1024/nature/",
+    "http://lorempixel.com/720/348/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-07T22:38:54.302Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T23:14:49.598Z"
+      },
+      "price": 108.95
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T11:11:53.047Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T02:38:38.777Z"
+      },
+      "price": 135.08
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T20:26:43.011Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T11:39:15.900Z"
+      },
+      "price": 82.23
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T15:54:44.123Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T22:41:02.891Z"
+      },
+      "price": 122.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T21:49:10.409Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T10:42:07.547Z"
+      },
+      "price": 120.08
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:11.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:11.548Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b68ab2c2130a71670e3"
+  },
+  "title": "voluptatibus",
+  "description": "Soluta sunt amet quasi.",
+  "defaultPrice": 579.69,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 58.65,
+  "address": "Suite 083 798 Bednar Hollow, New Cherri, MD 87129",
+  "location": {
+    "latitude": -44.61906,
+    "longitude": 47.25831
+  },
+  "ownerId": "572-68-1382",
+  "images": [
+    "http://lorempixel.com/320/200/people/",
+    "http://lorempixel.com/1600/1200/cats/",
+    "http://lorempixel.com/g/640/480/people/",
+    "http://lorempixel.com/720/348/food/",
+    "http://lorempixel.com/1024/768/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-15T20:30:21.495Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T03:46:14.844Z"
+      },
+      "price": 109.79
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T10:34:53.756Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T23:40:28.516Z"
+      },
+      "price": 130.08
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T17:17:39.481Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T02:51:14.875Z"
+      },
+      "price": 138.69
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T18:17:43.569Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T03:08:50.928Z"
+      },
+      "price": 88.83
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T12:59:54.373Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T18:24:52.009Z"
+      },
+      "price": 113.56
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:12.070Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:12.070Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b68ab2c2130a71670e4"
+  },
+  "title": "nihil",
+  "description": "Qui quis provident in commodi et perferendis.",
+  "defaultPrice": 278.98,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 126.36,
+  "address": "6916 Gaylord Center, Aleidaport, PA 92226",
+  "location": {
+    "latitude": -38.84746,
+    "longitude": -138.09354
+  },
+  "ownerId": "654-18-6458",
+  "images": [
+    "http://lorempixel.com/g/1600/1200/city/",
+    "http://lorempixel.com/g/1680/1050/abstract/",
+    "http://lorempixel.com/g/320/200/fashion/",
+    "http://lorempixel.com/1280/1024/sports/",
+    "http://lorempixel.com/640/480/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-11T20:59:58.998Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T18:34:54.342Z"
+      },
+      "price": 65.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T14:43:44.276Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T18:04:39.969Z"
+      },
+      "price": 188.82
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T19:29:05.227Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T02:14:19.706Z"
+      },
+      "price": 63.34
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-03T09:22:15.055Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T03:29:49.564Z"
+      },
+      "price": 172.47
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T16:28:20.196Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T08:06:56.791Z"
+      },
+      "price": 113.85
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:12.744Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:12.744Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b69ab2c2130a71670e5"
+  },
+  "title": "sit",
+  "description": "Omnis aut eum.",
+  "defaultPrice": 417.63,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 191.31,
+  "address": "923 O'Reilly Trafficway, Sallyport, AZ 97938-9195",
+  "location": {
+    "latitude": 44.21162,
+    "longitude": 106.58031
+  },
+  "ownerId": "881-75-3529",
+  "images": [
+    "http://lorempixel.com/g/720/348/city/",
+    "http://lorempixel.com/1600/1200/food/",
+    "http://lorempixel.com/1280/1024/sports/",
+    "http://lorempixel.com/1920/1200/business/",
+    "http://lorempixel.com/g/1920/1200/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-24T08:00:34.879Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T18:11:51.372Z"
+      },
+      "price": 137.35
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T16:35:34.593Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T18:54:23.665Z"
+      },
+      "price": 154.56
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T17:13:04.694Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T23:45:43.423Z"
+      },
+      "price": 139.41
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T02:11:05.980Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T04:10:13.430Z"
+      },
+      "price": 66.68
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T18:07:23.999Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T17:47:16.992Z"
+      },
+      "price": 176.47
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:13.236Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:13.236Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b69ab2c2130a71670e6"
+  },
+  "title": "ut",
+  "description": "Cum enim qui aut rerum possimus sunt.",
+  "defaultPrice": 354.49,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 122.23,
+  "address": "Suite 727 56568 Cronin Isle, East Alizafurt, NM 50739-5415",
+  "location": {
+    "latitude": 78.51151,
+    "longitude": -175.44906
+  },
+  "ownerId": "875-75-4596",
+  "images": [
+    "http://lorempixel.com/320/200/people/",
+    "http://lorempixel.com/g/1680/1050/cats/",
+    "http://lorempixel.com/g/1600/1200/abstract/",
+    "http://lorempixel.com/1680/1050/city/",
+    "http://lorempixel.com/g/320/200/sports/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-21T04:50:52.604Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T07:02:28.221Z"
+      },
+      "price": 132.96
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T15:50:20.586Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T10:56:11.080Z"
+      },
+      "price": 183.32
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-24T23:50:11.030Z"
+      },
+      "endDate": {
+        "$date": "2023-06-13T16:53:49.264Z"
+      },
+      "price": 72.21
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T18:42:56.420Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T07:36:23.754Z"
+      },
+      "price": 132.08
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T00:56:45.174Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T10:36:52.110Z"
+      },
+      "price": 174.94
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:13.739Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:13.739Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6aab2c2130a71670e7"
+  },
+  "title": "iure",
+  "description": "Officiis libero totam cum sed ex quidem.",
+  "defaultPrice": 452.88,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 49.15,
+  "address": "8135 Maryalice Fields, West Murray, AK 41918",
+  "location": {
+    "latitude": 34.14444,
+    "longitude": -109.49631
+  },
+  "ownerId": "256-41-8114",
+  "images": [
+    "http://lorempixel.com/g/1024/768/people/",
+    "http://lorempixel.com/g/1366/768/food/",
+    "http://lorempixel.com/g/720/348/sports/",
+    "http://lorempixel.com/g/1024/768/food/",
+    "http://lorempixel.com/g/1024/768/nightlife/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-18T05:06:35.297Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T15:22:04.380Z"
+      },
+      "price": 145.38
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T15:16:54.466Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T14:19:53.218Z"
+      },
+      "price": 50.7
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T04:54:49.949Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T15:25:29.556Z"
+      },
+      "price": 194.14
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T08:41:37.148Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T20:01:43.754Z"
+      },
+      "price": 119.89
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T11:12:50.216Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T10:39:36.705Z"
+      },
+      "price": 148.31
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:14.131Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:14.131Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6aab2c2130a71670e8"
+  },
+  "title": "rerum",
+  "description": "Ea sunt quos repellendus deleniti beatae laboriosam.",
+  "defaultPrice": 456.94,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 170.25,
+  "address": "1917 Deandrea Valley, West Lawannastad, VA 75456-9451",
+  "location": {
+    "latitude": -56.18316,
+    "longitude": -114.49668
+  },
+  "ownerId": "429-94-1773",
+  "images": [
+    "http://lorempixel.com/640/480/business/",
+    "http://lorempixel.com/320/200/animals/",
+    "http://lorempixel.com/g/640/480/abstract/",
+    "http://lorempixel.com/g/1600/1200/sports/",
+    "http://lorempixel.com/720/348/people/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-18T21:59:25.008Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T19:18:54.988Z"
+      },
+      "price": 160.63
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T11:41:00.458Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T15:17:06.141Z"
+      },
+      "price": 62.93
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T11:11:15.461Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T21:06:19.080Z"
+      },
+      "price": 54.87
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T02:32:12.631Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T01:37:19.192Z"
+      },
+      "price": 130.63
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T03:24:39.487Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T15:27:36.016Z"
+      },
+      "price": 142.27
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:14.639Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:14.639Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6bab2c2130a71670e9"
+  },
+  "title": "dolore",
+  "description": "Atque fuga illum delectus placeat.",
+  "defaultPrice": 360.97,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 84.6,
+  "address": "Apt. 241 79515 Whitney Gardens, East Waltonmouth, CT 24752-2373",
+  "location": {
+    "latitude": 77.13763,
+    "longitude": 35.67678
+  },
+  "ownerId": "173-31-9334",
+  "images": [
+    "http://lorempixel.com/g/640/350/fashion/",
+    "http://lorempixel.com/g/1920/1200/food/",
+    "http://lorempixel.com/1680/1050/city/",
+    "http://lorempixel.com/g/720/348/nature/",
+    "http://lorempixel.com/g/1920/1200/nightlife/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-08T11:35:44.709Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T06:35:43.424Z"
+      },
+      "price": 50.65
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T02:16:45.975Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T07:32:47.328Z"
+      },
+      "price": 117.17
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T19:51:57.085Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T05:57:47.027Z"
+      },
+      "price": 117.3
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T10:30:18.866Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T14:11:28.639Z"
+      },
+      "price": 68.28
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T15:28:30.866Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T07:31:06.077Z"
+      },
+      "price": 179.66
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:15.029Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:15.029Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6bab2c2130a71670ea"
+  },
+  "title": "vitae",
+  "description": "Eligendi quae ea eum qui eos harum.",
+  "defaultPrice": 191.22,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 46.92,
+  "address": "Apt. 286 08606 Zane Way, South Rodneyfurt, NJ 38829-6029",
+  "location": {
+    "latitude": 78.31476,
+    "longitude": 144.67973
+  },
+  "ownerId": "565-28-5246",
+  "images": [
+    "http://lorempixel.com/g/1600/1200/business/",
+    "http://lorempixel.com/g/1280/1024/fashion/",
+    "http://lorempixel.com/g/640/200/food/",
+    "http://lorempixel.com/720/348/city/",
+    "http://lorempixel.com/g/1920/1200/people/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-01T13:43:32.747Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T04:34:14.872Z"
+      },
+      "price": 73.87
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T23:02:26.680Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T06:26:26.036Z"
+      },
+      "price": 89.02
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T22:51:26.029Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T11:27:29.683Z"
+      },
+      "price": 173.09
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T15:21:42.724Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T13:24:54.419Z"
+      },
+      "price": 183.51
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T09:06:30.338Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T08:40:39.677Z"
+      },
+      "price": 180.68
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:15.425Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:15.425Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6bab2c2130a71670eb"
+  },
+  "title": "quo",
+  "description": "Ea dolor sed.",
+  "defaultPrice": 286.8,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 130.53,
+  "address": "303 Gricelda Glens, Rosebury, NC 20584",
+  "location": {
+    "latitude": 45.98412,
+    "longitude": 3.25899
+  },
+  "ownerId": "274-07-9065",
+  "images": [
+    "http://lorempixel.com/g/640/480/nature/",
+    "http://lorempixel.com/1680/1050/nature/",
+    "http://lorempixel.com/1024/768/city/",
+    "http://lorempixel.com/g/1024/768/sports/",
+    "http://lorempixel.com/g/1366/768/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-12T18:58:37.088Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T12:49:28.926Z"
+      },
+      "price": 57.17
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T06:53:39.136Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T22:45:36.321Z"
+      },
+      "price": 113.77
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T05:35:39.631Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T07:38:26.766Z"
+      },
+      "price": 186.01
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T05:20:24.591Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T06:01:21.174Z"
+      },
+      "price": 166.93
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-08T02:10:39.160Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T16:04:35.964Z"
+      },
+      "price": 75.41
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:15.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:15.815Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6cab2c2130a71670ec"
+  },
+  "title": "tenetur",
+  "description": "Qui corrupti aut ratione dolores et rerum dolorem.",
+  "defaultPrice": 118.87,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 95.82,
+  "address": "96177 Gibson Track, Port Trena, MI 05532-5714",
+  "location": {
+    "latitude": -35.96961,
+    "longitude": 54.0005
+  },
+  "ownerId": "552-14-4281",
+  "images": [
+    "http://lorempixel.com/g/640/200/nightlife/",
+    "http://lorempixel.com/640/480/sports/",
+    "http://lorempixel.com/g/320/200/fashion/",
+    "http://lorempixel.com/640/350/city/",
+    "http://lorempixel.com/g/640/350/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-25T09:44:29.590Z"
+      },
+      "endDate": {
+        "$date": "2023-07-13T10:39:56.164Z"
+      },
+      "price": 122.82
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T00:36:03.973Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T01:52:07.674Z"
+      },
+      "price": 165.4
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T18:59:39.287Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T07:44:52.576Z"
+      },
+      "price": 139.56
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T17:39:24.494Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T17:05:39.821Z"
+      },
+      "price": 193.62
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T18:30:02.109Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T06:09:03.651Z"
+      },
+      "price": 82.9
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:16.497Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:16.497Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6cab2c2130a71670ed"
+  },
+  "title": "exercitationem",
+  "description": "Doloribus quo natus.",
+  "defaultPrice": 279.05,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 87.39,
+  "address": "Suite 524 29051 Roosevelt Bridge, East Jackiemouth, CO 81152-9992",
+  "location": {
+    "latitude": -50.51038,
+    "longitude": -97.82657
+  },
+  "ownerId": "879-47-7265",
+  "images": [
+    "http://lorempixel.com/1366/768/nightlife/",
+    "http://lorempixel.com/g/1280/1024/nightlife/",
+    "http://lorempixel.com/g/1600/1200/technics/",
+    "http://lorempixel.com/640/350/nature/",
+    "http://lorempixel.com/1680/1050/nature/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-15T06:30:13.496Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T10:02:17.260Z"
+      },
+      "price": 52.5
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T10:04:26.269Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T03:05:06.403Z"
+      },
+      "price": 70.39
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T07:22:25.521Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T18:15:56.899Z"
+      },
+      "price": 130.46
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T12:29:14.538Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T10:58:09.268Z"
+      },
+      "price": 147.02
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T18:15:03.042Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T03:37:56.299Z"
+      },
+      "price": 86.48
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:16.902Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:16.902Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6dab2c2130a71670ee"
+  },
+  "title": "praesentium",
+  "description": "Et sed quos porro quis asperiores consequuntur laboriosam.",
+  "defaultPrice": 389.54,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 44.54,
+  "address": "Apt. 201 454 Saul Highway, Kihnmouth, NE 47730",
+  "location": {
+    "latitude": -36.77508,
+    "longitude": 114.13271
+  },
+  "ownerId": "273-80-5546",
+  "images": [
+    "http://lorempixel.com/640/200/city/",
+    "http://lorempixel.com/g/720/348/sports/",
+    "http://lorempixel.com/1280/1024/nature/",
+    "http://lorempixel.com/g/1366/768/city/",
+    "http://lorempixel.com/1600/1200/animals/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-02T13:33:14.136Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T00:17:44.529Z"
+      },
+      "price": 125.98
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-04T00:32:13.958Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T05:46:57.202Z"
+      },
+      "price": 130.52
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T04:27:39.244Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T17:13:45.082Z"
+      },
+      "price": 168.1
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T12:21:01.944Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T02:07:35.151Z"
+      },
+      "price": 180.11
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T07:26:07.084Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T11:37:41.724Z"
+      },
+      "price": 89.71
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:17.342Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:17.342Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6dab2c2130a71670ef"
+  },
+  "title": "ratione",
+  "description": "Earum libero voluptatem aut aut harum corporis et.",
+  "defaultPrice": 171.38,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 63.44,
+  "address": "Apt. 788 18082 Justine Crest, South Ginny, NE 66063-9630",
+  "location": {
+    "latitude": -63.62532,
+    "longitude": -66.38821
+  },
+  "ownerId": "787-94-1476",
+  "images": [
+    "http://lorempixel.com/1366/768/animals/",
+    "http://lorempixel.com/g/720/348/animals/",
+    "http://lorempixel.com/1280/1024/city/",
+    "http://lorempixel.com/g/320/200/people/",
+    "http://lorempixel.com/g/1024/768/business/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-08T18:14:08.476Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T07:13:26.820Z"
+      },
+      "price": 116.25
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T10:10:49.216Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T03:15:00.327Z"
+      },
+      "price": 118.19
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T08:27:14.385Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T21:22:34.599Z"
+      },
+      "price": 87.51
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T20:45:50.869Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T19:53:23.402Z"
+      },
+      "price": 158.44
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T05:34:01.157Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T07:08:48.260Z"
+      },
+      "price": 129.8
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:17.722Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:17.722Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6eab2c2130a71670f0"
+  },
+  "title": "commodi",
+  "description": "Sit alias aperiam.",
+  "defaultPrice": 174.13,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 48.07,
+  "address": "7809 Labadie Parkway, Edytheville, MO 48144",
+  "location": {
+    "latitude": -2.53955,
+    "longitude": -45.49563
+  },
+  "ownerId": "200-19-9537",
+  "images": [
+    "http://lorempixel.com/g/320/200/business/",
+    "http://lorempixel.com/1680/1050/fashion/",
+    "http://lorempixel.com/g/1280/1024/nightlife/",
+    "http://lorempixel.com/320/200/animals/",
+    "http://lorempixel.com/g/640/200/city/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-06T15:55:59.973Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T20:10:16.899Z"
+      },
+      "price": 134.24
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T00:25:01.913Z"
+      },
+      "endDate": {
+        "$date": "2023-06-13T20:19:57.588Z"
+      },
+      "price": 109.89
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T15:15:50.311Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T10:10:40.707Z"
+      },
+      "price": 164.31
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T08:23:39.245Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T14:24:02.556Z"
+      },
+      "price": 181.5
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T22:23:03.396Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T17:26:40.948Z"
+      },
+      "price": 173.18
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:18.082Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6eab2c2130a71670f1"
+  },
+  "title": "quam",
+  "description": "Et pariatur veritatis debitis fuga iusto et iure.",
+  "defaultPrice": 719.11,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 1,
+  "area": 81.02,
+  "address": "87684 Hegmann Prairie, Vandatown, NH 73233-1695",
+  "location": {
+    "latitude": 63.7104,
+    "longitude": 141.82649
+  },
+  "ownerId": "739-55-9001",
+  "images": [
+    "http://lorempixel.com/g/320/200/nightlife/",
+    "http://lorempixel.com/720/348/abstract/",
+    "http://lorempixel.com/640/350/transport/",
+    "http://lorempixel.com/g/640/200/business/",
+    "http://lorempixel.com/g/640/480/technics/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-01T16:40:58.090Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T08:25:30.428Z"
+      },
+      "price": 175.45
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-03T16:41:30.962Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T17:57:32.842Z"
+      },
+      "price": 107.49
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-09T04:28:13.008Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T04:50:57.847Z"
+      },
+      "price": 101.08
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T05:06:34.025Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T04:41:02.074Z"
+      },
+      "price": 185.39
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T08:49:07.638Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T11:02:21.663Z"
+      },
+      "price": 68.31
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:18.462Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:18.462Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6eab2c2130a71670f2"
+  },
+  "title": "fugit",
+  "description": "Nesciunt est nulla voluptas voluptate voluptatum.",
+  "defaultPrice": 545.13,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 61.33,
+  "address": "38733 Kuphal Course, Weberborough, IA 40264-1890",
+  "location": {
+    "latitude": -15.87161,
+    "longitude": 86.0024
+  },
+  "ownerId": "034-05-8958",
+  "images": [
+    "http://lorempixel.com/1280/1024/business/",
+    "http://lorempixel.com/g/640/350/people/",
+    "http://lorempixel.com/g/1600/1200/nature/",
+    "http://lorempixel.com/1024/768/sports/",
+    "http://lorempixel.com/g/640/350/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-29T03:28:06.610Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T07:06:10.041Z"
+      },
+      "price": 73.44
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T05:46:08.544Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T09:26:58.950Z"
+      },
+      "price": 55.37
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T01:52:49.796Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T03:19:56.114Z"
+      },
+      "price": 70.39
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T07:57:24.673Z"
+      },
+      "endDate": {
+        "$date": "2023-07-04T03:25:59.253Z"
+      },
+      "price": 164.78
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T17:59:49.152Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T10:44:47.385Z"
+      },
+      "price": 91.7
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:18.839Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:18.839Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6fab2c2130a71670f3"
+  },
+  "title": "est",
+  "description": "Velit et ratione doloribus.",
+  "defaultPrice": 992.91,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 171.13,
+  "address": "Suite 717 0838 Colton Branch, East Laurettefurt, FL 89019-6763",
+  "location": {
+    "latitude": 41.53184,
+    "longitude": -174.51868
+  },
+  "ownerId": "348-34-6724",
+  "images": [
+    "http://lorempixel.com/1280/1024/sports/",
+    "http://lorempixel.com/1680/1050/people/",
+    "http://lorempixel.com/1680/1050/animals/",
+    "http://lorempixel.com/g/1024/768/technics/",
+    "http://lorempixel.com/g/640/350/abstract/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-21T14:47:16.054Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T15:17:25.033Z"
+      },
+      "price": 120.66
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T18:26:01.947Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T15:00:37.262Z"
+      },
+      "price": 67.23
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-01T21:40:16.205Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T08:33:09.072Z"
+      },
+      "price": 190.21
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T22:39:29.629Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T13:08:24.280Z"
+      },
+      "price": 113.06
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T18:06:39.336Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T12:04:35.352Z"
+      },
+      "price": 189.43
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:19.179Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:19.179Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6fab2c2130a71670f4"
+  },
+  "title": "rem",
+  "description": "Quo nihil neque.",
+  "defaultPrice": 229.31,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 74.29,
+  "address": "3293 Hoppe Motorway, Shieldston, MD 19499-9016",
+  "location": {
+    "latitude": -19.21088,
+    "longitude": 9.85698
+  },
+  "ownerId": "773-34-5058",
+  "images": [
+    "http://lorempixel.com/1366/768/nightlife/",
+    "http://lorempixel.com/g/1600/1200/sports/",
+    "http://lorempixel.com/640/200/nightlife/",
+    "http://lorempixel.com/g/1366/768/abstract/",
+    "http://lorempixel.com/g/720/348/animals/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-02T20:19:40.839Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T13:18:26.378Z"
+      },
+      "price": 132.63
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T15:10:02.507Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T18:37:50.528Z"
+      },
+      "price": 157.67
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T02:08:01.929Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T03:40:58.849Z"
+      },
+      "price": 195.99
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T14:32:28.717Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T15:26:44.224Z"
+      },
+      "price": 101.5
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T10:26:07.188Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T01:00:59.698Z"
+      },
+      "price": 131
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:19.533Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:19.533Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b6fab2c2130a71670f5"
+  },
+  "title": "ea",
+  "description": "Quasi quod magni modi ullam.",
+  "defaultPrice": 851.2,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 159.08,
+  "address": "Suite 345 31670 Schuster Mission, Collinsfurt, MS 14191",
+  "location": {
+    "latitude": -34.2936,
+    "longitude": -119.59374
+  },
+  "ownerId": "246-91-4586",
+  "images": [
+    "http://lorempixel.com/1024/768/transport/",
+    "http://lorempixel.com/g/1600/1200/cats/",
+    "http://lorempixel.com/g/1920/1200/cats/",
+    "http://lorempixel.com/1920/1200/technics/",
+    "http://lorempixel.com/1024/768/city/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-02T11:59:42.633Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T05:46:38.381Z"
+      },
+      "price": 62.71
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T13:13:30.819Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T14:08:05.997Z"
+      },
+      "price": 53.37
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-03T12:44:14.500Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T12:06:42.836Z"
+      },
+      "price": 123.21
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T07:20:48.540Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T13:48:38.004Z"
+      },
+      "price": 181.28
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T18:33:43.081Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T02:16:39.082Z"
+      },
+      "price": 172.05
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:19.888Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:19.888Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b70ab2c2130a71670f6"
+  },
+  "title": "commodi",
+  "description": "Sed facilis dicta.",
+  "defaultPrice": 120.74,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 98.61,
+  "address": "055 Schaefer Plaza, North Evette, MA 40730-8933",
+  "location": {
+    "latitude": -20.30975,
+    "longitude": 141.8655
+  },
+  "ownerId": "866-26-6100",
+  "images": [
+    "http://lorempixel.com/1920/1200/abstract/",
+    "http://lorempixel.com/g/1366/768/people/",
+    "http://lorempixel.com/320/200/people/",
+    "http://lorempixel.com/1366/768/sports/",
+    "http://lorempixel.com/640/350/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-25T01:12:21.421Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T10:03:00.093Z"
+      },
+      "price": 127.05
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T10:03:30.598Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T10:10:58.318Z"
+      },
+      "price": 124.84
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T04:59:06.107Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T11:38:57.428Z"
+      },
+      "price": 105.9
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T22:47:32.635Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T12:52:19.637Z"
+      },
+      "price": 194.12
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-27T14:11:29.628Z"
+      },
+      "endDate": {
+        "$date": "2023-07-10T03:28:23.025Z"
+      },
+      "price": 71.81
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:20.220Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:20.220Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b70ab2c2130a71670f7"
+  },
+  "title": "vel",
+  "description": "Rerum officiis autem enim sed optio error quod.",
+  "defaultPrice": 772.02,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 1,
+  "area": 168,
+  "address": "8916 Domenic Inlet, Noahstad, UT 13718",
+  "location": {
+    "latitude": 11.38149,
+    "longitude": 20.11456
+  },
+  "ownerId": "423-96-3387",
+  "images": [
+    "http://lorempixel.com/g/640/350/nightlife/",
+    "http://lorempixel.com/g/640/350/sports/",
+    "http://lorempixel.com/g/640/480/animals/",
+    "http://lorempixel.com/g/1680/1050/food/",
+    "http://lorempixel.com/1024/768/city/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-22T19:38:27.496Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T19:59:41.862Z"
+      },
+      "price": 171.62
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-31T19:56:05.837Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T08:35:58.579Z"
+      },
+      "price": 68.67
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T00:41:09.591Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T01:04:43.742Z"
+      },
+      "price": 103.36
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T01:22:50.087Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T00:20:31.700Z"
+      },
+      "price": 173.06
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T02:17:05.850Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T21:06:55.285Z"
+      },
+      "price": 146.45
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:20.572Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:20.572Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b70ab2c2130a71670f8"
+  },
+  "title": "et",
+  "description": "Ea commodi sapiente et.",
+  "defaultPrice": 268.36,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 34.14,
+  "address": "96583 Beier Greens, Muraziktown, WA 03872-7340",
+  "location": {
+    "latitude": -62.43632,
+    "longitude": 107.11247
+  },
+  "ownerId": "435-12-7121",
+  "images": [
+    "http://lorempixel.com/g/1600/1200/nature/",
+    "http://lorempixel.com/g/1680/1050/technics/",
+    "http://lorempixel.com/1280/1024/people/",
+    "http://lorempixel.com/640/200/abstract/",
+    "http://lorempixel.com/1280/1024/fashion/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-25T18:20:51.286Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T10:09:37.839Z"
+      },
+      "price": 156.43
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T17:21:07.180Z"
+      },
+      "endDate": {
+        "$date": "2023-06-17T10:44:14.823Z"
+      },
+      "price": 123.58
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T09:19:14.304Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T10:28:11.325Z"
+      },
+      "price": 146.57
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T07:33:45.941Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T12:24:36.305Z"
+      },
+      "price": 62.35
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T23:33:43.799Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T14:55:59.250Z"
+      },
+      "price": 104.28
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:20.913Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:20.913Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b71ab2c2130a71670f9"
+  },
+  "title": "quidem",
+  "description": "Architecto omnis vel similique id asperiores voluptas.",
+  "defaultPrice": 509.18,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 179.82,
+  "address": "0278 Skiles Rest, South Laree, MI 78481-1266",
+  "location": {
+    "latitude": 75.01234,
+    "longitude": -18.21928
+  },
+  "ownerId": "139-62-4488",
+  "images": [
+    "http://lorempixel.com/g/1024/768/nature/",
+    "http://lorempixel.com/640/480/sports/",
+    "http://lorempixel.com/g/720/348/business/",
+    "http://lorempixel.com/640/480/abstract/",
+    "http://lorempixel.com/g/1024/768/people/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T03:54:55.309Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T01:43:31.081Z"
+      },
+      "price": 116.08
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T13:10:09.133Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T20:54:17.586Z"
+      },
+      "price": 152.47
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T14:42:08.835Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T03:36:14.939Z"
+      },
+      "price": 121.46
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T09:41:52.574Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T07:55:21.591Z"
+      },
+      "price": 160.19
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T07:17:40.137Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T02:41:15.541Z"
+      },
+      "price": 157.85
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:21.284Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:21.284Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b71ab2c2130a71670fa"
+  },
+  "title": "perspiciatis",
+  "description": "Ad excepturi ipsam ut.",
+  "defaultPrice": 382.34,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 2,
+  "area": 71.42,
+  "address": "5148 Koss Alley, Schroederborough, NV 48012-8872",
+  "location": {
+    "latitude": -76.20928,
+    "longitude": -104.05904
+  },
+  "ownerId": "606-15-6107",
+  "images": [
+    "http://lorempixel.com/1600/1200/animals/",
+    "http://lorempixel.com/g/1920/1200/abstract/",
+    "http://lorempixel.com/g/640/480/transport/",
+    "http://lorempixel.com/g/640/200/business/",
+    "http://lorempixel.com/g/1600/1200/transport/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-26T21:36:56.523Z"
+      },
+      "endDate": {
+        "$date": "2023-06-15T17:27:54.878Z"
+      },
+      "price": 167.67
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T03:12:19.378Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T21:03:27.777Z"
+      },
+      "price": 138.77
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-02T00:00:25.685Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T07:41:16.204Z"
+      },
+      "price": 177.82
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T19:08:10.783Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T01:56:14.498Z"
+      },
+      "price": 96.82
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T09:06:25.218Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T21:13:27.979Z"
+      },
+      "price": 76.2
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:21.650Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:21.650Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b72ab2c2130a71670fb"
+  },
+  "title": "quibusdam",
+  "description": "Ducimus fugiat odio minima molestiae.",
+  "defaultPrice": 243.15,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 53.44,
+  "address": "899 McCullough Fall, Monahanshire, AK 69347-5980",
+  "location": {
+    "latitude": -84.49414,
+    "longitude": 131.56021
+  },
+  "ownerId": "183-97-1225",
+  "images": [
+    "http://lorempixel.com/g/640/350/transport/",
+    "http://lorempixel.com/1024/768/city/",
+    "http://lorempixel.com/g/1280/1024/animals/",
+    "http://lorempixel.com/g/1366/768/city/",
+    "http://lorempixel.com/g/720/348/cats/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-02T05:58:49.261Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T17:07:01.266Z"
+      },
+      "price": 176.4
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-25T16:13:23.043Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T19:38:48.537Z"
+      },
+      "price": 105.09
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T03:30:00.684Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T19:10:07.056Z"
+      },
+      "price": 99.55
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-17T23:01:50.991Z"
+      },
+      "endDate": {
+        "$date": "2023-06-25T11:03:41.159Z"
+      },
+      "price": 78.01
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T00:48:13.358Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T23:22:39.246Z"
+      },
+      "price": 168.13
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:22.030Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:22.030Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b72ab2c2130a71670fc"
+  },
+  "title": "ea",
+  "description": "Nulla asperiores iste saepe modi mollitia delectus quaerat.",
+  "defaultPrice": 572.37,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 1,
+  "area": 70.7,
+  "address": "6485 Britteny Mountain, Smithamshire, WI 66313-0577",
+  "location": {
+    "latitude": -88.78646,
+    "longitude": 98.04836
+  },
+  "ownerId": "275-42-8710",
+  "images": [
+    "http://lorempixel.com/g/1680/1050/food/",
+    "http://lorempixel.com/1680/1050/fashion/",
+    "http://lorempixel.com/1280/1024/sports/",
+    "http://lorempixel.com/g/1024/768/business/",
+    "http://lorempixel.com/320/200/animals/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-18T06:30:53.415Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T08:32:29.524Z"
+      },
+      "price": 176.9
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-06T16:37:28.354Z"
+      },
+      "endDate": {
+        "$date": "2023-07-01T00:57:20.164Z"
+      },
+      "price": 128.22
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-07T09:04:03.833Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T14:46:47.756Z"
+      },
+      "price": 183.58
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T13:32:34.010Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T21:24:01.862Z"
+      },
+      "price": 67.39
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-20T17:29:11.392Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T13:28:26.617Z"
+      },
+      "price": 100.58
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:22.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:22.361Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b72ab2c2130a71670fd"
+  },
+  "title": "earum",
+  "description": "Dolorem consequatur tempora omnis eius deserunt.",
+  "defaultPrice": 554.23,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 61.22,
+  "address": "Suite 751 72784 Bergstrom Centers, North Alleneborough, KY 07426",
+  "location": {
+    "latitude": 6.21291,
+    "longitude": -14.22768
+  },
+  "ownerId": "126-34-2012",
+  "images": [
+    "http://lorempixel.com/g/1024/768/fashion/",
+    "http://lorempixel.com/g/1920/1200/cats/",
+    "http://lorempixel.com/320/200/cats/",
+    "http://lorempixel.com/g/1920/1200/food/",
+    "http://lorempixel.com/g/640/350/sports/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-30T23:19:19.411Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T21:55:09.994Z"
+      },
+      "price": 104.07
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T09:06:34.124Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T20:03:04.481Z"
+      },
+      "price": 189.16
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-11T02:51:17.051Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T10:25:56.802Z"
+      },
+      "price": 68.66
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T11:46:01.448Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T10:34:43.085Z"
+      },
+      "price": 74.98
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T08:03:49.860Z"
+      },
+      "endDate": {
+        "$date": "2023-06-23T22:19:52.496Z"
+      },
+      "price": 158.77
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:22.681Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:22.681Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b73ab2c2130a71670fe"
+  },
+  "title": "unde",
+  "description": "Quasi laboriosam optio aut temporibus aperiam.",
+  "defaultPrice": 730.91,
+  "numberOfRooms": 3,
+  "numberOfBathrooms": 1,
+  "area": 42.48,
+  "address": "Suite 766 183 Carmelo Green, Monahanport, FL 48200",
+  "location": {
+    "latitude": -14.20121,
+    "longitude": 95.63851
+  },
+  "ownerId": "349-82-9889",
+  "images": [
+    "http://lorempixel.com/320/200/cats/",
+    "http://lorempixel.com/640/480/business/",
+    "http://lorempixel.com/640/200/people/",
+    "http://lorempixel.com/1366/768/sports/",
+    "http://lorempixel.com/1366/768/food/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-12T06:15:35.937Z"
+      },
+      "endDate": {
+        "$date": "2023-07-03T09:35:51.659Z"
+      },
+      "price": 151.36
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T22:03:23.066Z"
+      },
+      "endDate": {
+        "$date": "2023-06-21T09:58:18.374Z"
+      },
+      "price": 86.35
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T21:19:22.042Z"
+      },
+      "endDate": {
+        "$date": "2023-07-12T05:31:00.396Z"
+      },
+      "price": 161.55
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T05:37:55.602Z"
+      },
+      "endDate": {
+        "$date": "2023-06-28T10:29:09.555Z"
+      },
+      "price": 73.11
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T02:38:17.231Z"
+      },
+      "endDate": {
+        "$date": "2023-06-18T07:57:24.706Z"
+      },
+      "price": 55.06
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:23.068Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:23.068Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b73ab2c2130a71670ff"
+  },
+  "title": "occaecati",
+  "description": "Sit qui consequatur est.",
+  "defaultPrice": 974.99,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 2,
+  "area": 45.87,
+  "address": "270 Stacey Neck, West Vernietown, NE 66012",
+  "location": {
+    "latitude": 57.24858,
+    "longitude": 159.08112
+  },
+  "ownerId": "135-62-6902",
+  "images": [
+    "http://lorempixel.com/640/200/city/",
+    "http://lorempixel.com/1920/1200/city/",
+    "http://lorempixel.com/g/1366/768/city/",
+    "http://lorempixel.com/g/320/200/nightlife/",
+    "http://lorempixel.com/320/200/nightlife/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-31T13:25:00.727Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T05:27:01.518Z"
+      },
+      "price": 163.31
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T20:27:26.363Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T04:37:50.927Z"
+      },
+      "price": 166.26
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T15:31:39.561Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T04:55:32.081Z"
+      },
+      "price": 136.73
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-30T21:43:03.416Z"
+      },
+      "endDate": {
+        "$date": "2023-07-05T16:34:51.442Z"
+      },
+      "price": 60.52
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-29T06:33:58.465Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T00:02:06.579Z"
+      },
+      "price": 160.57
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:23.426Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:23.426Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b73ab2c2130a7167100"
+  },
+  "title": "dolorem",
+  "description": "Ea optio fuga porro quia quos aut.",
+  "defaultPrice": 112.51,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 2,
+  "area": 130.79,
+  "address": "68920 Bernhard Vista, Collierfort, MI 65952-0235",
+  "location": {
+    "latitude": -58.45142,
+    "longitude": -7.49231
+  },
+  "ownerId": "880-58-9882",
+  "images": [
+    "http://lorempixel.com/g/1024/768/sports/",
+    "http://lorempixel.com/g/1680/1050/abstract/",
+    "http://lorempixel.com/1680/1050/fashion/",
+    "http://lorempixel.com/g/640/480/city/",
+    "http://lorempixel.com/g/1600/1200/city/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-24T03:23:00.998Z"
+      },
+      "endDate": {
+        "$date": "2023-07-07T00:22:28.076Z"
+      },
+      "price": 125.47
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T05:09:42.070Z"
+      },
+      "endDate": {
+        "$date": "2023-06-30T05:41:48.110Z"
+      },
+      "price": 122.19
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-23T12:46:44.709Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T00:58:06.982Z"
+      },
+      "price": 148.1
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-18T15:04:07.165Z"
+      },
+      "endDate": {
+        "$date": "2023-06-29T08:05:10.930Z"
+      },
+      "price": 102.27
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-12T16:50:04.470Z"
+      },
+      "endDate": {
+        "$date": "2023-06-19T03:13:45.823Z"
+      },
+      "price": 80.4
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:23.769Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:23.769Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b74ab2c2130a7167101"
+  },
+  "title": "labore",
+  "description": "Soluta consequatur unde et.",
+  "defaultPrice": 361.09,
+  "numberOfRooms": 1,
+  "numberOfBathrooms": 2,
+  "area": 99.5,
+  "address": "9557 Gutmann Station, Lake Wendie, VT 28245",
+  "location": {
+    "latitude": -49.45605,
+    "longitude": 36.62887
+  },
+  "ownerId": "890-41-5636",
+  "images": [
+    "http://lorempixel.com/640/350/animals/",
+    "http://lorempixel.com/320/200/fashion/",
+    "http://lorempixel.com/1680/1050/food/",
+    "http://lorempixel.com/g/320/200/business/",
+    "http://lorempixel.com/1280/1024/sports/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-03T20:43:31.787Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T21:49:18.331Z"
+      },
+      "price": 100.09
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-15T11:51:36.966Z"
+      },
+      "endDate": {
+        "$date": "2023-07-09T22:48:36.589Z"
+      },
+      "price": 105.44
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-21T14:17:10.070Z"
+      },
+      "endDate": {
+        "$date": "2023-07-08T00:00:36.846Z"
+      },
+      "price": 94.27
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-13T04:54:00.460Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T18:01:17.906Z"
+      },
+      "price": 50.59
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T03:25:57.139Z"
+      },
+      "endDate": {
+        "$date": "2023-06-22T22:03:10.713Z"
+      },
+      "price": 138.46
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:24.097Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:24.097Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b74ab2c2130a7167102"
+  },
+  "title": "eius",
+  "description": "Veritatis aspernatur nisi voluptas quia aliquam autem.",
+  "defaultPrice": 475.36,
+  "numberOfRooms": 4,
+  "numberOfBathrooms": 2,
+  "area": 54.02,
+  "address": "17574 O'Connell Route, East Marquismouth, TN 24249",
+  "location": {
+    "latitude": -4.7457,
+    "longitude": 150.02249
+  },
+  "ownerId": "208-35-0370",
+  "images": [
+    "http://lorempixel.com/720/348/business/",
+    "http://lorempixel.com/g/1024/768/fashion/",
+    "http://lorempixel.com/g/640/480/city/",
+    "http://lorempixel.com/g/720/348/cats/",
+    "http://lorempixel.com/1366/768/nature/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-06-11T11:18:37.301Z"
+      },
+      "endDate": {
+        "$date": "2023-07-02T00:50:41.906Z"
+      },
+      "price": 181.9
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-26T01:01:17.825Z"
+      },
+      "endDate": {
+        "$date": "2023-06-14T18:05:56.404Z"
+      },
+      "price": 121.43
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T02:46:13.937Z"
+      },
+      "endDate": {
+        "$date": "2023-06-16T23:35:12.776Z"
+      },
+      "price": 149.88
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-22T17:23:17.100Z"
+      },
+      "endDate": {
+        "$date": "2023-06-27T07:29:35.971Z"
+      },
+      "price": 115.02
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-05T23:31:19.936Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T06:39:06.391Z"
+      },
+      "price": 144.27
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:24.476Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:24.476Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+},
+{
+  "_id": {
+    "$oid": "64886b74ab2c2130a7167103"
+  },
+  "title": "illo",
+  "description": "Voluptatem mollitia eos placeat eum.",
+  "defaultPrice": 683,
+  "numberOfRooms": 2,
+  "numberOfBathrooms": 1,
+  "area": 88.43,
+  "address": "45633 Runte Pines, Montytown, GA 75442-1111",
+  "location": {
+    "latitude": 4.5373,
+    "longitude": 1.65735
+  },
+  "ownerId": "253-65-9108",
+  "images": [
+    "http://lorempixel.com/1920/1200/business/",
+    "http://lorempixel.com/g/320/200/fashion/",
+    "http://lorempixel.com/640/350/abstract/",
+    "http://lorempixel.com/640/480/abstract/",
+    "http://lorempixel.com/g/640/480/nature/"
+  ],
+  "rates": [
+    {
+      "startDate": {
+        "$date": "2023-05-28T01:40:58.552Z"
+      },
+      "endDate": {
+        "$date": "2023-06-24T22:06:29.268Z"
+      },
+      "price": 149.42
+    },
+    {
+      "startDate": {
+        "$date": "2023-06-03T13:43:26.961Z"
+      },
+      "endDate": {
+        "$date": "2023-06-26T03:28:57.139Z"
+      },
+      "price": 92.34
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-14T15:42:19.349Z"
+      },
+      "endDate": {
+        "$date": "2023-07-06T14:39:26.165Z"
+      },
+      "price": 54.96
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-16T13:21:40.203Z"
+      },
+      "endDate": {
+        "$date": "2023-07-11T10:32:29.576Z"
+      },
+      "price": 176.26
+    },
+    {
+      "startDate": {
+        "$date": "2023-05-19T15:33:32.853Z"
+      },
+      "endDate": {
+        "$date": "2023-06-20T15:59:50.595Z"
+      },
+      "price": 119.88
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-06-13T13:13:24.804Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-13T13:13:24.804Z"
+  },
+  "_class": "com.projetmongodb.m1.immobilier.model.Apartment"
+}]
