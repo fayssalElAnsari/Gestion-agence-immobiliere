@@ -5,7 +5,6 @@ import com.couchbase.client.java.Cluster;
 import com.couchbase.client.java.Collection;
 import com.couchbase.client.java.json.JsonObject;
 import com.couchbase.client.java.kv.GetResult;
-import com.couchbase.client.java.kv.MutationResult;
 import com.couchbase.client.java.query.QueryOptions;
 import com.couchbase.client.java.query.QueryResult;
 
@@ -25,9 +24,9 @@ public class AppartementService {
     // Methodes CRUD
 
     // Creation
-
     public void createAppartement(JsonObject appartement) {
-        appartementCollection.insert(appartement.getString("_id"), appartement);
+        String id = appartement.getString("_id");
+        appartementCollection.insert(id, appartement);
     }
 
     public void createAppartements(List<JsonObject> appartements) {
@@ -35,7 +34,6 @@ public class AppartementService {
     }
 
     // Lecture
-
     public JsonObject getAppartement(String id) {
         try {
             GetResult result = appartementCollection.get(id);
@@ -46,9 +44,9 @@ public class AppartementService {
     }
 
     // Mise à jour
-
     public void updateAppartement(JsonObject appartement) {
-        appartementCollection.replace(appartement.getString("_id"), appartement);
+        String id = appartement.getString("_id");
+        appartementCollection.replace(id, appartement);
     }
 
     public void updateAppartements(List<JsonObject> appartements) {
@@ -56,7 +54,6 @@ public class AppartementService {
     }
 
     // Suppression
-
     public void deleteAppartement(String id) {
         appartementCollection.remove(id);
     }
@@ -66,16 +63,16 @@ public class AppartementService {
     }
 
     // Methodes de recherche
-
     public List<JsonObject> findAppartementsByUserId(String userId) {
-        String statement = String.format("SELECT * FROM `%s` WHERE ownerId = $userId", appartementCollection.name());
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Apartments` WHERE ownerId = $userId");
         QueryResult result = cluster.query(
                 statement,
                 QueryOptions.queryOptions().parameters(JsonObject.create().put("userId", userId))
         );
-
-        return result.rowsAsObject().stream().collect(Collectors.toList());
+        return result.rowsAsObject();
     }
+
+
 
     public List<JsonObject> findAppartementsByNumberOfRooms(int numberOfRooms) {
         String statement = String.format("SELECT * FROM `%s` WHERE numberOfRooms = $numberOfRooms", appartementCollection.name());
@@ -83,8 +80,7 @@ public class AppartementService {
                 statement,
                 QueryOptions.queryOptions().parameters(JsonObject.create().put("numberOfRooms", numberOfRooms))
         );
-
-        return result.rowsAsObject().stream().collect(Collectors.toList());
+        return result.rowsAsObject();
     }
 
     public List<JsonObject> findAppartementsByPriceRange(double minPrice, double maxPrice) {
@@ -93,8 +89,15 @@ public class AppartementService {
                 statement,
                 QueryOptions.queryOptions().parameters(JsonObject.create().put("minPrice", minPrice).put("maxPrice", maxPrice))
         );
-
-        return result.rowsAsObject().stream().collect(Collectors.toList());
+        return result.rowsAsObject();
     }
 
+    public List<JsonObject> findAppartementsByNumberOfBathrooms(int numberOfBathrooms) {
+        String statement = String.format("SELECT * FROM `%s` WHERE numberOfBathrooms = $numberOfBathrooms", appartementCollection.name());
+        QueryResult result = cluster.query(
+                statement,
+                QueryOptions.queryOptions().parameters(JsonObject.create().put("numberOfBathrooms", numberOfBathrooms))
+        );
+        return result.rowsAsObject();
+    }
 }
