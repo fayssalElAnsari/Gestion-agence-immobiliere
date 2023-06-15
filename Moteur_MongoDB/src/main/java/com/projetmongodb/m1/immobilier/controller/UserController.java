@@ -43,6 +43,7 @@ public class UserController {
     @PutMapping("/{id}")
     public ResponseEntity<User> updateUser(@PathVariable String id, @RequestBody User updatedUser) {
         Optional<User> oldUser = userRepository.findById(id);
+
         if (oldUser.isPresent()) {
             User user = oldUser.get();
             // Here you can update the fields you want to change in the existing user

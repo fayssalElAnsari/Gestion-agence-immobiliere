@@ -8,6 +8,7 @@ import com.projetmongodb.m1.immobilier.repository.ApartmentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -37,6 +38,8 @@ public class ApartmentService {
     }
 
     public Apartment createApartment(Apartment apartment) {
+        apartment.setCreatedAt(new Date());
+        apartment.setUpdatedAt(new Date());
         return apartmentRepository.save(apartment);
     }
 
@@ -54,6 +57,7 @@ public class ApartmentService {
                     apartment.setOwnerId(newApartment.getOwnerId());
                     apartment.setImages(newApartment.getImages());
                     apartment.setRates(newApartment.getRates());
+                    apartment.setUpdatedAt(new Date());
                     return apartmentRepository.save(apartment);
                 })
                 .orElseThrow(

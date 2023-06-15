@@ -7,6 +7,7 @@ import { themeSettings } from "theme";
 import Dashboard from "scenes/dashboard";
 import Layout from "scenes/layout";
 import DataGeneration from "scenes/dataGeneration";
+import Apartments from "scenes/apartments";
 
 function App() {
   const mode = useSelector((state) => state.global.mode);
@@ -21,6 +22,7 @@ function App() {
               <Route path="/" element={<Navigate to="/dashboard" replace />} />
               <Route path="/dashboard" element={<Dashboard />} />
               <Route path="/dataGeneration" element={<DataGeneration />} />
+              <Route path="/apartments" element={<Apartments />} />
             </Route>
           </Routes>
         </ThemeProvider>
