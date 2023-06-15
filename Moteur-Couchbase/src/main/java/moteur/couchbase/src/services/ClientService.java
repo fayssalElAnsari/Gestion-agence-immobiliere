@@ -10,6 +10,7 @@ import com.couchbase.client.java.query.QueryResult;
 import moteur.couchbase.src.models.Client;
 
 import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class ClientService {
@@ -42,6 +43,14 @@ public class ClientService {
         }
     }
 
+    public List<Client> getAllClients() {
+        String statement = String.format("SELECT * FROM `%s` WHERE type = 'Client'", clientCollection.name());
+        QueryResult result = cluster.query(statement);
+
+        return result.rowsAs(Client.class);
+    }
+
+
     // Mise à jour
     public void updateClient(Client client) {
         clientCollection.replace(client.getId(), client);
@@ -61,19 +70,22 @@ public class ClientService {
     }
 
     // Méthode de recherche
+
     public List<Client> getClientsByCountry(String country) {
-        String query = "SELECT * FROM `database`.`collection` WHERE type = 'Client' AND country = $country";
-        QueryResult result = cluster.query(query, QueryOptions.queryOptions().parameters(JsonObject.create().put("country", country)));
-        return result.rows().stream()
-                .map(row -> row.contentAs(Client.class))
-                .collect(Collectors.toList());
+        String statement = String.format("SELECT * FROM `%s` WHERE type = 'Client' AND country = $country", clientCollection.name());
+        QueryResult result = cluster.query(
+                statement,
+                QueryOptions.queryOptions().parameters((JsonObject) Map.of("country", country))
+        );
+
+        return result.rowsAs(Client.class);
     }
 
     public List<Client> getClientsNotVerified() {
-        String query = "SELECT * FROM `database`.`collection` WHERE type = 'Client' AND isVerified = false";
-        QueryResult result = cluster.query(query);
-        return result.rows().stream()
-                .map(row -> row.contentAs(Client.class))
-                .collect(Collectors.toList());
+        String statement = String.format("SELECT * FROM `%s` WHERE type = 'Client' AND isVerified = false", clientCollection.name());
+        QueryResult result = cluster.query(statement);
+
+        return result.rowsAs(Client.class);
     }
+
 }
