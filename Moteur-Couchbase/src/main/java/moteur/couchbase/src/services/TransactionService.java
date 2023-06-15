@@ -6,7 +6,6 @@ import com.couchbase.client.java.json.JsonObject;
 import com.couchbase.client.java.kv.GetResult;
 import com.couchbase.client.java.query.QueryOptions;
 import com.couchbase.client.java.query.QueryResult;
-import moteur.couchbase.src.models.Transaction;
 
 import java.util.List;
 import java.util.Map;
@@ -16,46 +15,47 @@ public class TransactionService {
     private final Cluster cluster;
     private final Collection transactionCollection;
 
-    public TransactionService(Cluster cluster, String database, String collection) {
+    public TransactionService(Cluster cluster, String database, Collection collection) {
         this.cluster = cluster;
-        this.transactionCollection = cluster.bucket(database).defaultCollection();
+        this.transactionCollection = collection;
     }
 
     // Méthodes CRUD...
 
     // Créer
-    public void createTransaction(Transaction transaction) {
-        transactionCollection.insert(transaction.getId(), transaction);
+    public void createTransaction(JsonObject transaction) {
+        String id = transaction.getString("_id");
+        transactionCollection.insert(id, transaction);
     }
 
-    public void createTransactions(List<Transaction> transactions) {
-        transactions.forEach(transaction -> transactionCollection.insert(transaction.getId(), transaction));
+    public void createTransactions(List<JsonObject> transactions) {
+        transactions.forEach(this::createTransaction);
     }
 
     // Lire
-    public List<Transaction> getAllTransactions() {
-        String statement = String.format("SELECT * FROM `%s` WHERE type = 'Transaction'", transactionCollection.name());
+    public List<JsonObject> getAllTransactions() {
+        String statement = String.format("SELECT * FROM `%s`", transactionCollection.name());
         QueryResult result = cluster.query(statement);
-        return result.rowsAs(Transaction.class);
+        return result.rowsAsObject();
     }
 
-    public Transaction getTransaction(String id) {
+    public JsonObject getTransaction(String id) {
         GetResult getResult = transactionCollection.get(id);
-        return getResult.contentAs(Transaction.class);
+        return getResult.contentAsObject();
     }
 
-    public List<Transaction> getTransactions(List<String> ids) {
+    public List<JsonObject> getTransactions(List<String> ids) {
         return ids.stream()
-                .map(id -> transactionCollection.get(id).contentAs(Transaction.class))
+                .map(id -> transactionCollection.get(id).contentAsObject())
                 .collect(Collectors.toList());
     }
 
     // Mettre à jour
-    public void updateTransaction(String id, Transaction updatedTransaction) {
+    public void updateTransaction(String id, JsonObject updatedTransaction) {
         transactionCollection.replace(id, updatedTransaction);
     }
 
-    public void updateTransactions(List<String> ids, List<Transaction> updatedTransactions) {
+    public void updateTransactions(List<String> ids, List<JsonObject> updatedTransactions) {
         for (int i = 0; i < ids.size(); i++) {
             transactionCollection.replace(ids.get(i), updatedTransactions.get(i));
         }
@@ -67,19 +67,19 @@ public class TransactionService {
     }
 
     public void deleteTransactions(List<String> ids) {
-        ids.forEach(id -> transactionCollection.remove(id));
+        ids.forEach(this::deleteTransaction);
     }
 
 
     // Méthodes de recherche
-    public List<Transaction> getTransactionsByClientId(String clientId) {
-        String statement = String.format("SELECT * FROM `%s` WHERE clientId = $clientId AND type = 'Transaction'", transactionCollection.name());
+    public List<JsonObject> getTransactionsByClientId(String clientId) {
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Transactions` WHERE clientId = $clientId", transactionCollection.name());
         QueryResult result = cluster.query(
                 statement,
-                QueryOptions.queryOptions().parameters((JsonObject) Map.of("clientId", clientId))
+                QueryOptions.queryOptions().parameters(JsonObject.create().put("clientId", clientId))
         );
 
-        return result.rowsAs(Transaction.class);
+        return result.rowsAsObject();
     }
 
 }

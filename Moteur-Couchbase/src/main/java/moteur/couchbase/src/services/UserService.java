@@ -5,7 +5,7 @@ import com.couchbase.client.java.Collection;
 import com.couchbase.client.java.kv.GetResult;
 import com.couchbase.client.java.query.QueryOptions;
 import com.couchbase.client.java.query.QueryResult;
-import moteur.couchbase.src.models.User;
+import com.couchbase.client.java.json.JsonObject;
 
 import java.util.List;
 import java.util.Map;
@@ -15,45 +15,46 @@ public class UserService {
     private final Cluster cluster;
     private final Collection userCollection;
 
-    public UserService(Cluster cluster, String database, String collection) {
+    public UserService(Cluster cluster, String database, Collection collection) {
         this.cluster = cluster;
-        this.userCollection = cluster.bucket(database).defaultCollection();
+        this.userCollection = collection;
     }
 
     // Méthodes CRUD...
     // Créer
-    public void createUser(User user) {
-        userCollection.insert(user.getId(), user);
+    public void createUser(JsonObject user) {
+        String id = user.getString("_id");
+        userCollection.insert(id, user);
     }
 
-    public void createUsers(List<User> users) {
+    public void createUsers(List<JsonObject> users) {
         users.forEach(this::createUser);
     }
 
     // Lire
-    public User getUser(String id) {
+    public JsonObject getUser(String id) {
         GetResult getResult = userCollection.get(id);
-        return getResult.contentAs(User.class);
+        return getResult.contentAsObject();
     }
 
-    public List<User> getUsers(List<String> ids) {
+    public List<JsonObject> getUsers(List<String> ids) {
         return ids.stream()
                 .map(this::getUser)
                 .collect(Collectors.toList());
     }
 
-    public List<User> getAllUsers() {
-        String statement = String.format("SELECT * FROM `%s` WHERE type = 'User'", userCollection.name());
+    public List<JsonObject> getAllUsers() {
+        String statement = String.format("SELECT * FROM `%s`", userCollection.name());
         QueryResult result = cluster.query(statement);
-        return result.rowsAs(User.class);
+        return result.rowsAsObject();
     }
 
     // Mettre à jour
-    public void updateUser(String id, User updatedUser) {
+    public void updateUser(String id, JsonObject updatedUser) {
         userCollection.replace(id, updatedUser);
     }
 
-    public void updateUsers(Map<String, User> usersMap) {
+    public void updateUsers(Map<String, JsonObject> usersMap) {
         usersMap.forEach(this::updateUser);
     }
 
@@ -67,10 +68,10 @@ public class UserService {
     }
 
     // Méthodes de recherche
-    public List<User> getUsersNotVerified() {
-        String statement = String.format("SELECT * FROM `%s` WHERE type = 'User' AND isVerified = false", userCollection.name());
+    public List<JsonObject> getUsersNotVerified() {
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Users` WHERE isVerified = false", userCollection.name());
         QueryResult result = cluster.query(statement);
-        return result.rowsAs(User.class);
+        return result.rowsAsObject();
     }
 
 }

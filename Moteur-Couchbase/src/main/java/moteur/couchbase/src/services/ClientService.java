@@ -7,7 +7,6 @@ import com.couchbase.client.java.json.JsonObject;
 import com.couchbase.client.java.kv.GetResult;
 import com.couchbase.client.java.query.QueryOptions;
 import com.couchbase.client.java.query.QueryResult;
-import moteur.couchbase.src.models.Client;
 
 import java.util.List;
 import java.util.Map;
@@ -17,46 +16,48 @@ public class ClientService {
     private final Cluster cluster;
     private final Collection clientCollection;
 
-    public ClientService(Cluster cluster, String database, String collection) {
+    public ClientService(Cluster cluster, String database, Collection collection) {
         this.cluster = cluster;
-        this.clientCollection = cluster.bucket(database).defaultCollection();
+        this.clientCollection = collection;
     }
 
     // Methodes CRUD
 
     // Creation
-    public void createClient(Client client) {
-        clientCollection.insert(client.getId(), client);
+    public void createClient(JsonObject client) {
+        String id = client.getString("_id");
+        clientCollection.insert(id, client);
     }
 
-    public void createClients(List<Client> clients) {
+    public void createClients(List<JsonObject> clients) {
         clients.forEach(this::createClient);
     }
 
     // Lecture
-    public Client getClient(String id) {
+    public JsonObject getClient(String id) {
         try {
             GetResult result = clientCollection.get(id);
-            return result.contentAs(Client.class);
+            return result.contentAsObject();
         } catch (DocumentNotFoundException e) {
             return null;
         }
     }
 
-    public List<Client> getAllClients() {
-        String statement = String.format("SELECT * FROM `%s` WHERE type = 'Client'", clientCollection.name());
+    public List<JsonObject> getAllClients() {
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Clients` WHERE type = 'Client'", clientCollection.name());
         QueryResult result = cluster.query(statement);
 
-        return result.rowsAs(Client.class);
+        return result.rowsAsObject();
     }
 
 
     // Mise à jour
-    public void updateClient(Client client) {
-        clientCollection.replace(client.getId(), client);
+    public void updateClient(JsonObject client) {
+        String id = client.getString("_id");
+        clientCollection.replace(id, client);
     }
 
-    public void updateClients(List<Client> clients) {
+    public void updateClients(List<JsonObject> clients) {
         clients.forEach(this::updateClient);
     }
 
@@ -71,21 +72,21 @@ public class ClientService {
 
     // Méthode de recherche
 
-    public List<Client> getClientsByCountry(String country) {
-        String statement = String.format("SELECT * FROM `%s` WHERE type = 'Client' AND country = $country", clientCollection.name());
+    public List<JsonObject> getClientsByCountry(String country) {
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Clients` WHERE countryOfOrigin = $country", clientCollection.name());
         QueryResult result = cluster.query(
                 statement,
-                QueryOptions.queryOptions().parameters((JsonObject) Map.of("country", country))
+                QueryOptions.queryOptions().parameters(JsonObject.create().put("country", country))
         );
 
-        return result.rowsAs(Client.class);
+        return result.rowsAsObject();
     }
 
-    public List<Client> getClientsNotVerified() {
-        String statement = String.format("SELECT * FROM `%s` WHERE type = 'Client' AND isVerified = false", clientCollection.name());
+    public List<JsonObject> getClientsNotVerified() {
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Clients` WHERE isVerified = false", clientCollection.name());
         QueryResult result = cluster.query(statement);
 
-        return result.rowsAs(Client.class);
+        return result.rowsAsObject();
     }
 
 }

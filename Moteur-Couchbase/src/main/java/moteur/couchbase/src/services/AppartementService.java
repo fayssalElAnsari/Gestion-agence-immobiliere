@@ -75,7 +75,7 @@ public class AppartementService {
 
 
     public List<JsonObject> findAppartementsByNumberOfRooms(int numberOfRooms) {
-        String statement = String.format("SELECT * FROM `%s` WHERE numberOfRooms = $numberOfRooms", appartementCollection.name());
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Apartments` WHERE numberOfRooms = $numberOfRooms", appartementCollection.name());
         QueryResult result = cluster.query(
                 statement,
                 QueryOptions.queryOptions().parameters(JsonObject.create().put("numberOfRooms", numberOfRooms))
@@ -84,7 +84,7 @@ public class AppartementService {
     }
 
     public List<JsonObject> findAppartementsByPriceRange(double minPrice, double maxPrice) {
-        String statement = String.format("SELECT * FROM `%s` WHERE defaultPrice >= $minPrice AND defaultPrice <= $maxPrice", appartementCollection.name());
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Apartments` WHERE defaultPrice >= $minPrice AND defaultPrice <= $maxPrice", appartementCollection.name());
         QueryResult result = cluster.query(
                 statement,
                 QueryOptions.queryOptions().parameters(JsonObject.create().put("minPrice", minPrice).put("maxPrice", maxPrice))
@@ -93,7 +93,7 @@ public class AppartementService {
     }
 
     public List<JsonObject> findAppartementsByNumberOfBathrooms(int numberOfBathrooms) {
-        String statement = String.format("SELECT * FROM `%s` WHERE numberOfBathrooms = $numberOfBathrooms", appartementCollection.name());
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Apartments` WHERE numberOfBathrooms = $numberOfBathrooms", appartementCollection.name());
         QueryResult result = cluster.query(
                 statement,
                 QueryOptions.queryOptions().parameters(JsonObject.create().put("numberOfBathrooms", numberOfBathrooms))

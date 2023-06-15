@@ -1,3 +1,5 @@
+package moteur.couchbase.src.services;
+
 import com.couchbase.client.core.error.DocumentNotFoundException;
 import com.couchbase.client.java.Cluster;
 import com.couchbase.client.java.Collection;
@@ -5,7 +7,6 @@ import com.couchbase.client.java.json.JsonObject;
 import com.couchbase.client.java.kv.GetResult;
 import com.couchbase.client.java.query.QueryOptions;
 import com.couchbase.client.java.query.QueryResult;
-import moteur.couchbase.src.models.Reservation;
 
 import java.util.HashMap;
 import java.util.List;
@@ -16,40 +17,39 @@ public class ReservationService {
     private final Cluster cluster;
     private final Collection reservationCollection;
 
-    public ReservationService(Cluster cluster, String database, String collection) {
+    public ReservationService(Cluster cluster, String database, Collection collection) {
         this.cluster = cluster;
-        this.reservationCollection = cluster.bucket(database).defaultCollection();
+        this.reservationCollection = collection;
     }
 
-    // Méthodes CRUD...
-    public void createReservation(Reservation reservation) {
-        reservationCollection.insert(reservation.getId(), reservation);
+    // Méthodes CRUD
+    public void createReservation(JsonObject reservation) {
+        String id = reservation.getString("_id");
+        reservationCollection.insert(id, reservation);
     }
 
-    public void createReservations(List<Reservation> reservations) {
-        for (Reservation reservation : reservations) {
-            reservationCollection.insert(reservation.getId(), reservation);
-        }
+    public void createReservations(List<JsonObject> reservations) {
+        reservations.forEach(this::createReservation);
     }
 
     // Lire
-    public List<Reservation> getAllReservations() {
-        String statement = String.format("SELECT * FROM `%s` WHERE type = 'Reservation'", reservationCollection.name());
+    public List<JsonObject> getAllReservations() {
+        String statement = String.format("SELECT * FROM `%s`", reservationCollection.name());
         QueryResult result = cluster.query(statement);
-        return result.rowsAs(Reservation.class);
+        return result.rowsAsObject();
     }
 
-    public Reservation getReservation(String id) {
+    public JsonObject getReservation(String id) {
         GetResult getResult = reservationCollection.get(id);
-        return getResult.contentAs(Reservation.class);
+        return getResult.contentAsObject();
     }
 
-    public Map<String, Reservation> getReservations(List<String> ids) {
-        Map<String, Reservation> reservations = new HashMap<>();
+    public Map<String, JsonObject> getReservations(List<String> ids) {
+        Map<String, JsonObject> reservations = new HashMap<>();
         ids.forEach(id -> {
             try {
                 GetResult getResult = reservationCollection.get(id);
-                reservations.put(id, getResult.contentAs(Reservation.class));
+                reservations.put(id, getResult.contentAsObject());
             } catch (DocumentNotFoundException e) {
                 reservations.put(id, null);
             }
@@ -58,12 +58,12 @@ public class ReservationService {
     }
 
     // Mettre à jour
-    public void updateReservation(String id, Reservation updatedReservation) {
+    public void updateReservation(String id, JsonObject updatedReservation) {
         reservationCollection.replace(id, updatedReservation);
     }
 
-    public void updateReservations(Map<String, Reservation> reservations) {
-        reservations.forEach((id, reservation) -> reservationCollection.replace(id, reservation));
+    public void updateReservations(Map<String, JsonObject> reservations) {
+        reservations.forEach(this::updateReservation);
     }
 
     // Supprimer
@@ -72,21 +72,18 @@ public class ReservationService {
     }
 
     public void deleteReservations(List<String> ids) {
-        for (String id : ids) {
-            reservationCollection.remove(id);
-        }
+        ids.forEach(this::deleteReservation);
     }
 
 
     // Méthodes de recherche
-    public List<Reservation> getReservationsByApartmentId(String apartmentId) {
-        String statement = String.format("SELECT * FROM `%s` WHERE apartmentId = $apartmentId", reservationCollection.name());
+    public List<JsonObject> getReservationsByApartmentId(String apartmentId) {
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Reservation` WHERE apartmentId = $apartmentId", reservationCollection.name());
         QueryResult result = cluster.query(
                 statement,
-                QueryOptions.queryOptions().parameters((JsonObject) Map.of("apartmentId", apartmentId))
+                QueryOptions.queryOptions().parameters(JsonObject.create().put("apartmentId", apartmentId))
         );
 
-        return result.rowsAs(Reservation.class);
+        return result.rowsAsObject();
     }
-
 }
