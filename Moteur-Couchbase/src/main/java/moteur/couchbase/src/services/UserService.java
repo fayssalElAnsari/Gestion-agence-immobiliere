@@ -44,7 +44,7 @@ public class UserService {
     }
 
     public List<JsonObject> getAllUsers() {
-        String statement = String.format("SELECT * FROM `%s`", userCollection.name());
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Users`", userCollection.name());
         QueryResult result = cluster.query(statement);
         return result.rowsAsObject();
     }

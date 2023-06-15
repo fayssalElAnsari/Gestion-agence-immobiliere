@@ -34,7 +34,7 @@ public class TransactionService {
 
     // Lire
     public List<JsonObject> getAllTransactions() {
-        String statement = String.format("SELECT * FROM `%s`", transactionCollection.name());
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Transactions`", transactionCollection.name());
         QueryResult result = cluster.query(statement);
         return result.rowsAsObject();
     }
@@ -49,6 +49,7 @@ public class TransactionService {
                 .map(id -> transactionCollection.get(id).contentAsObject())
                 .collect(Collectors.toList());
     }
+
 
     // Mettre à jour
     public void updateTransaction(String id, JsonObject updatedTransaction) {

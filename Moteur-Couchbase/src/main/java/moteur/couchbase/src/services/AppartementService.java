@@ -34,6 +34,13 @@ public class AppartementService {
     }
 
     // Lecture
+    public List<JsonObject> getAllAppartement() {
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Apartments` WHERE type = 'Client'", appartementCollection.name());
+        QueryResult result = cluster.query(statement);
+
+        return result.rowsAsObject();
+    }
+
     public JsonObject getAppartement(String id) {
         try {
             GetResult result = appartementCollection.get(id);

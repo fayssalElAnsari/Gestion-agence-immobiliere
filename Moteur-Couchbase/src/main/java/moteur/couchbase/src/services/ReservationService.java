@@ -34,7 +34,7 @@ public class ReservationService {
 
     // Lire
     public List<JsonObject> getAllReservations() {
-        String statement = String.format("SELECT * FROM `%s`", reservationCollection.name());
+        String statement = String.format("SELECT * FROM `mtest`.`tester`.`Reservation`", reservationCollection.name());
         QueryResult result = cluster.query(statement);
         return result.rowsAsObject();
     }
